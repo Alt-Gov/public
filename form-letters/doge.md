@@ -1,3 +1,7 @@
+> [!TIP]
+> Use the [spreadsheet](https://docs.google.com/spreadsheets/d/1n_15ztKHhnQwhhCtkzlUUNrKW-hv7s2bKlSw9MlUSW0/edit?usp=sharing) to find the information for your district.
+
+
 [Date]  
 [Congressperson/Senator]  
 [Address]  
@@ -30,8 +34,3 @@ Sincerely,
 [Address]  
 [City, State Zip]  
 
-
-
-
-> [!TIP]
-> Use the spreadsheet to find the information for your district.
