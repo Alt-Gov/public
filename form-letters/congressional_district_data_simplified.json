@@ -1,3498 +1,3498 @@
 {
-    "AL\u20131": {
-        "SNAP_Utilization": 13,
-        "Medicaid_Utilization": 19,
-        "Veterans_Percentage": 15,
-        "Disabled_Percentage": 28,
-        "Children_Percentage": 62,
-        "Federal_Employees": 5142.0
-    },
-    "AL\u20132": {
-        "SNAP_Utilization": 16,
-        "Medicaid_Utilization": 25,
-        "Veterans_Percentage": 19,
-        "Disabled_Percentage": 33,
-        "Children_Percentage": 53,
-        "Federal_Employees": 11100.0
-    },
-    "AL\u20133": {
-        "SNAP_Utilization": 14,
-        "Medicaid_Utilization": 20,
-        "Veterans_Percentage": 14,
-        "Disabled_Percentage": 33,
-        "Children_Percentage": 50,
-        "Federal_Employees": 7906.0
-    },
-    "AL\u20134": {
-        "SNAP_Utilization": 14,
-        "Medicaid_Utilization": 20,
-        "Veterans_Percentage": 14,
-        "Disabled_Percentage": 38,
-        "Children_Percentage": 43,
-        "Federal_Employees": 5946.0
-    },
-    "AL\u20135": {
-        "SNAP_Utilization": 8,
-        "Medicaid_Utilization": 15,
-        "Veterans_Percentage": 18,
-        "Disabled_Percentage": 29,
-        "Children_Percentage": 49,
-        "Federal_Employees": 19484.0
-    },
-    "AL\u20136": {
-        "SNAP_Utilization": 9,
-        "Medicaid_Utilization": 13,
-        "Veterans_Percentage": 11,
-        "Disabled_Percentage": 27,
-        "Children_Percentage": 53,
-        "Federal_Employees": 5403.0
-    },
-    "AL\u20137": {
-        "SNAP_Utilization": 22,
-        "Medicaid_Utilization": 24,
-        "Veterans_Percentage": 11,
-        "Disabled_Percentage": 36,
-        "Children_Percentage": 51,
-        "Federal_Employees": 6610.0
-    },
-    "AK\u20131": {
-        "SNAP_Utilization": 10,
-        "Medicaid_Utilization": 36,
-        "Veterans_Percentage": 17,
-        "Disabled_Percentage": 29,
-        "Children_Percentage": 48,
-        "Federal_Employees": 14947.0
-    },
-    "AZ\u20131": {
-        "SNAP_Utilization": 5,
-        "Medicaid_Utilization": 18,
-        "Veterans_Percentage": 13,
-        "Disabled_Percentage": 20,
-        "Children_Percentage": 58,
-        "Federal_Employees": 4237.0
-    },
-    "AZ\u20132": {
-        "SNAP_Utilization": 13,
-        "Medicaid_Utilization": 36,
-        "Veterans_Percentage": 17,
-        "Disabled_Percentage": 33,
-        "Children_Percentage": 51,
-        "Federal_Employees": 11284.0
-    },
-    "AZ\u20133": {
-        "SNAP_Utilization": 17,
-        "Medicaid_Utilization": 49,
-        "Veterans_Percentage": 15,
-        "Disabled_Percentage": 28,
-        "Children_Percentage": 55,
-        "Federal_Employees": 4590.0
-    },
-    "AZ\u20134": {
-        "SNAP_Utilization": 8,
-        "Medicaid_Utilization": 25,
-        "Veterans_Percentage": 12,
-        "Disabled_Percentage": 24,
-        "Children_Percentage": 55,
-        "Federal_Employees": 4709.0
-    },
-    "AZ\u20135": {
-        "SNAP_Utilization": 5,
-        "Medicaid_Utilization": 16,
-        "Veterans_Percentage": 18,
-        "Disabled_Percentage": 25,
-        "Children_Percentage": 52,
-        "Federal_Employees": 5311.0
-    },
-    "AZ\u20136": {
-        "SNAP_Utilization": 8,
-        "Medicaid_Utilization": 26,
-        "Veterans_Percentage": 9,
-        "Disabled_Percentage": 32,
-        "Children_Percentage": 47,
-        "Federal_Employees": 10154.0
-    },
-    "AZ\u20137": {
-        "SNAP_Utilization": 19,
-        "Medicaid_Utilization": 47,
-        "Veterans_Percentage": 11,
-        "Disabled_Percentage": 30,
-        "Children_Percentage": 54,
-        "Federal_Employees": 8627.0
-    },
-    "AZ\u20138": {
-        "SNAP_Utilization": 9,
-        "Medicaid_Utilization": 25,
-        "Veterans_Percentage": 17,
-        "Disabled_Percentage": 30,
-        "Children_Percentage": 46,
-        "Federal_Employees": 5573.0
-    },
-    "AZ\u20139": {
-        "SNAP_Utilization": 9,
-        "Medicaid_Utilization": 29,
-        "Veterans_Percentage": 22,
-        "Disabled_Percentage": 33,
-        "Children_Percentage": 45,
-        "Federal_Employees": 8998.0
-    },
-    "AR\u20131": {
-        "SNAP_Utilization": 12,
-        "Medicaid_Utilization": 40,
-        "Veterans_Percentage": 15,
-        "Disabled_Percentage": 39,
-        "Children_Percentage": 39,
-        "Federal_Employees": 5097.0
-    },
-    "AR\u20132": {
-        "SNAP_Utilization": 6,
-        "Medicaid_Utilization": 29,
-        "Veterans_Percentage": 17,
-        "Disabled_Percentage": 31,
-        "Children_Percentage": 45,
-        "Federal_Employees": 6347.0
-    },
-    "AR\u20133": {
-        "SNAP_Utilization": 5,
-        "Medicaid_Utilization": 26,
-        "Veterans_Percentage": 14,
-        "Disabled_Percentage": 28,
-        "Children_Percentage": 48,
-        "Federal_Employees": 3557.0
-    },
-    "AR\u20134": {
-        "SNAP_Utilization": 10,
-        "Medicaid_Utilization": 39,
-        "Veterans_Percentage": 13,
-        "Disabled_Percentage": 39,
-        "Children_Percentage": 43,
-        "Federal_Employees": 5026.0
-    },
-    "CA\u20131": {
-        "SNAP_Utilization": 17,
-        "Medicaid_Utilization": 39,
-        "Veterans_Percentage": 16,
-        "Disabled_Percentage": 33,
-        "Children_Percentage": 52,
-        "Federal_Employees": 6456.0
-    },
-    "CA\u20132": {
-        "SNAP_Utilization": 13,
-        "Medicaid_Utilization": 28,
-        "Veterans_Percentage": 18,
-        "Disabled_Percentage": 27,
-        "Children_Percentage": 49,
-        "Federal_Employees": 4475.0
-    },
-    "CA\u20133": {
-        "SNAP_Utilization": 7,
-        "Medicaid_Utilization": 21,
-        "Veterans_Percentage": 13,
-        "Disabled_Percentage": 24,
-        "Children_Percentage": 57,
-        "Federal_Employees": 3748.0
-    },
-    "CA\u20134": {
-        "SNAP_Utilization": 12,
-        "Medicaid_Utilization": 26,
-        "Veterans_Percentage": 14,
-        "Disabled_Percentage": 28,
-        "Children_Percentage": 52,
-        "Federal_Employees": 4124.0
-    },
-    "CA\u20135": {
-        "SNAP_Utilization": 11,
-        "Medicaid_Utilization": 28,
-        "Veterans_Percentage": 19,
-        "Disabled_Percentage": 29,
-        "Children_Percentage": 48,
-        "Federal_Employees": 4809.0
-    },
-    "CA\u20136": {
-        "SNAP_Utilization": 17,
-        "Medicaid_Utilization": 38,
-        "Veterans_Percentage": 11,
-        "Disabled_Percentage": 28,
-        "Children_Percentage": 53,
-        "Federal_Employees": 4718.0
-    },
-    "CA\u20137": {
-        "SNAP_Utilization": 15,
-        "Medicaid_Utilization": 36,
-        "Veterans_Percentage": 12,
-        "Disabled_Percentage": 28,
-        "Children_Percentage": 49,
-        "Federal_Employees": 6141.0
-    },
-    "CA\u20138": {
-        "SNAP_Utilization": 13,
-        "Medicaid_Utilization": 32,
-        "Veterans_Percentage": 21,
-        "Disabled_Percentage": 29,
-        "Children_Percentage": 47,
-        "Federal_Employees": 6170.0
-    },
-    "CA\u20139": {
-        "SNAP_Utilization": 14,
-        "Medicaid_Utilization": 40,
-        "Veterans_Percentage": 29,
-        "Disabled_Percentage": 31,
-        "Children_Percentage": 54,
-        "Federal_Employees": 4916.0
-    },
-    "CA\u201310": {
-        "SNAP_Utilization": 6,
-        "Medicaid_Utilization": 17,
-        "Veterans_Percentage": 9,
-        "Disabled_Percentage": 22,
-        "Children_Percentage": 56,
-        "Federal_Employees": 4573.0
-    },
-    "CA\u201311": {
-        "SNAP_Utilization": 11,
-        "Medicaid_Utilization": 22,
-        "Veterans_Percentage": 5,
-        "Disabled_Percentage": 17,
-        "Children_Percentage": 50,
-        "Federal_Employees": 5215.0
-    },
-    "CA\u201312": {
-        "SNAP_Utilization": 15,
-        "Medicaid_Utilization": 28,
-        "Veterans_Percentage": 5,
-        "Disabled_Percentage": 17,
-        "Children_Percentage": 51,
-        "Federal_Employees": 5047.0
-    },
-    "CA\u201313": {
-        "SNAP_Utilization": 21,
-        "Medicaid_Utilization": 54,
-        "Veterans_Percentage": 8,
-        "Disabled_Percentage": 20,
-        "Children_Percentage": 57,
-        "Federal_Employees": 3258.0
-    },
-    "CA\u201314": {
-        "SNAP_Utilization": 9,
-        "Medicaid_Utilization": 22,
-        "Veterans_Percentage": 6,
-        "Disabled_Percentage": 19,
-        "Children_Percentage": 58,
-        "Federal_Employees": 4271.0
-    },
-    "CA\u201315": {
-        "SNAP_Utilization": 8,
-        "Medicaid_Utilization": 21,
-        "Veterans_Percentage": 6,
-        "Disabled_Percentage": 24,
-        "Children_Percentage": 59,
-        "Federal_Employees": 4689.0
-    },
-    "CA\u201316": {
-        "SNAP_Utilization": 5,
-        "Medicaid_Utilization": 17,
-        "Veterans_Percentage": 5,
-        "Disabled_Percentage": 30,
-        "Children_Percentage": 56,
-        "Federal_Employees": 3321.0
-    },
-    "CA\u201317": {
-        "SNAP_Utilization": 6,
-        "Medicaid_Utilization": 16,
-        "Veterans_Percentage": 5,
-        "Disabled_Percentage": 28,
-        "Children_Percentage": 56,
-        "Federal_Employees": 3022.0
-    },
-    "CA\u201318": {
-        "SNAP_Utilization": 14,
-        "Medicaid_Utilization": 39,
-        "Veterans_Percentage": 7,
-        "Disabled_Percentage": 31,
-        "Children_Percentage": 59,
-        "Federal_Employees": 3399.0
-    },
-    "CA\u201319": {
-        "SNAP_Utilization": 8,
-        "Medicaid_Utilization": 21,
-        "Veterans_Percentage": 10,
-        "Disabled_Percentage": 32,
-        "Children_Percentage": 59,
-        "Federal_Employees": 4937.0
-    },
-    "CA\u201320": {
-        "SNAP_Utilization": 16,
-        "Medicaid_Utilization": 32,
-        "Veterans_Percentage": 14,
-        "Disabled_Percentage": 25,
-        "Children_Percentage": 54,
-        "Federal_Employees": 9060.0
-    },
-    "CA\u201321": {
-        "SNAP_Utilization": 29,
-        "Medicaid_Utilization": 60,
-        "Veterans_Percentage": 8,
-        "Disabled_Percentage": 37,
-        "Children_Percentage": 54,
-        "Federal_Employees": 4468.0
-    },
-    "CA\u201322": {
-        "SNAP_Utilization": 28,
-        "Medicaid_Utilization": 62,
-        "Veterans_Percentage": 8,
-        "Disabled_Percentage": 29,
-        "Children_Percentage": 57,
-        "Federal_Employees": 2601.0
-    },
-    "CA\u201323": {
-        "SNAP_Utilization": 19,
-        "Medicaid_Utilization": 44,
-        "Veterans_Percentage": 15,
-        "Disabled_Percentage": 26,
-        "Children_Percentage": 51,
-        "Federal_Employees": 7843.0
-    },
-    "CA\u201324": {
-        "SNAP_Utilization": 10,
-        "Medicaid_Utilization": 28,
-        "Veterans_Percentage": 10,
-        "Disabled_Percentage": 21,
-        "Children_Percentage": 51,
-        "Federal_Employees": 5356.0
-    },
-    "CA\u201325": {
-        "SNAP_Utilization": 22,
-        "Medicaid_Utilization": 51,
-        "Veterans_Percentage": 12,
-        "Disabled_Percentage": 26,
-        "Children_Percentage": 58,
-        "Federal_Employees": 5306.0
-    },
-    "CA\u201326": {
-        "SNAP_Utilization": 8,
-        "Medicaid_Utilization": 26,
-        "Veterans_Percentage": 11,
-        "Disabled_Percentage": 28,
-        "Children_Percentage": 56,
-        "Federal_Employees": 6845.0
-    },
-    "CA\u201327": {
-        "SNAP_Utilization": 15,
-        "Medicaid_Utilization": 30,
-        "Veterans_Percentage": 11,
-        "Disabled_Percentage": 27,
-        "Children_Percentage": 41,
-        "Federal_Employees": 6274.0
-    },
-    "CA\u201328": {
-        "SNAP_Utilization": 10,
-        "Medicaid_Utilization": 27,
-        "Veterans_Percentage": 6,
-        "Disabled_Percentage": 25,
-        "Children_Percentage": 53,
-        "Federal_Employees": 4867.0
-    },
-    "CA\u201329": {
-        "SNAP_Utilization": 20,
-        "Medicaid_Utilization": 48,
-        "Veterans_Percentage": 4,
-        "Disabled_Percentage": 32,
-        "Children_Percentage": 53,
-        "Federal_Employees": 3924.0
-    },
-    "CA\u201330": {
-        "SNAP_Utilization": 15,
-        "Medicaid_Utilization": 31,
-        "Veterans_Percentage": 4,
-        "Disabled_Percentage": 20,
-        "Children_Percentage": 55,
-        "Federal_Employees": 3585.0
-    },
-    "CA\u201331": {
-        "SNAP_Utilization": 17,
-        "Medicaid_Utilization": 37,
-        "Veterans_Percentage": 8,
-        "Disabled_Percentage": 25,
-        "Children_Percentage": 54,
-        "Federal_Employees": 2912.0
-    },
-    "CA\u201332": {
-        "SNAP_Utilization": 10,
-        "Medicaid_Utilization": 24,
-        "Veterans_Percentage": 5,
-        "Disabled_Percentage": 19,
-        "Children_Percentage": 60,
-        "Federal_Employees": 2977.0
-    },
-    "CA\u201333": {
-        "SNAP_Utilization": 17,
-        "Medicaid_Utilization": 42,
-        "Veterans_Percentage": 9,
-        "Disabled_Percentage": 30,
-        "Children_Percentage": 53,
-        "Federal_Employees": 3419.0
-    },
-    "CA\u201334": {
-        "SNAP_Utilization": 23,
-        "Medicaid_Utilization": 50,
-        "Veterans_Percentage": 4,
-        "Disabled_Percentage": 26,
-        "Children_Percentage": 56,
-        "Federal_Employees": 2614.0
-    },
-    "CA\u201335": {
-        "SNAP_Utilization": 16,
-        "Medicaid_Utilization": 38,
-        "Veterans_Percentage": 8,
-        "Disabled_Percentage": 25,
-        "Children_Percentage": 61,
-        "Federal_Employees": 2557.0
-    },
-    "CA\u201336": {
-        "SNAP_Utilization": 6,
-        "Medicaid_Utilization": 14,
-        "Veterans_Percentage": 6,
-        "Disabled_Percentage": 17,
-        "Children_Percentage": 59,
-        "Federal_Employees": 3043.0
-    },
-    "CA\u201337": {
-        "SNAP_Utilization": 22,
-        "Medicaid_Utilization": 51,
-        "Veterans_Percentage": 4,
-        "Disabled_Percentage": 28,
-        "Children_Percentage": 53,
-        "Federal_Employees": 5679.0
-    },
-    "CA\u201338": {
-        "SNAP_Utilization": 13,
-        "Medicaid_Utilization": 29,
-        "Veterans_Percentage": 8,
-        "Disabled_Percentage": 26,
-        "Children_Percentage": 58,
-        "Federal_Employees": 3378.0
-    },
-    "CA\u201339": {
-        "SNAP_Utilization": 16,
-        "Medicaid_Utilization": 40,
-        "Veterans_Percentage": 10,
-        "Disabled_Percentage": 29,
-        "Children_Percentage": 54,
-        "Federal_Employees": 3177.0
-    },
-    "CA\u201340": {
-        "SNAP_Utilization": 6,
-        "Medicaid_Utilization": 17,
-        "Veterans_Percentage": 9,
-        "Disabled_Percentage": 21,
-        "Children_Percentage": 48,
-        "Federal_Employees": 3055.0
-    },
-    "CA\u201341": {
-        "SNAP_Utilization": 11,
-        "Medicaid_Utilization": 28,
-        "Veterans_Percentage": 14,
-        "Disabled_Percentage": 30,
-        "Children_Percentage": 47,
-        "Federal_Employees": 4679.0
-    },
-    "CA\u201342": {
-        "SNAP_Utilization": 17,
-        "Medicaid_Utilization": 43,
-        "Veterans_Percentage": 6,
-        "Disabled_Percentage": 27,
-        "Children_Percentage": 57,
-        "Federal_Employees": 4545.0
-    },
-    "CA\u201343": {
-        "SNAP_Utilization": 21,
-        "Medicaid_Utilization": 49,
-        "Veterans_Percentage": 6,
-        "Disabled_Percentage": 31,
-        "Children_Percentage": 55,
-        "Federal_Employees": 5303.0
-    },
-    "CA\u201344": {
-        "SNAP_Utilization": 19,
-        "Medicaid_Utilization": 41,
-        "Veterans_Percentage": 8,
-        "Disabled_Percentage": 27,
-        "Children_Percentage": 62,
-        "Federal_Employees": 3780.0
-    },
-    "CA\u201345": {
-        "SNAP_Utilization": 12,
-        "Medicaid_Utilization": 31,
-        "Veterans_Percentage": 8,
-        "Disabled_Percentage": 25,
-        "Children_Percentage": 59,
-        "Federal_Employees": 4534.0
-    },
-    "CA\u201346": {
-        "SNAP_Utilization": 15,
-        "Medicaid_Utilization": 42,
-        "Veterans_Percentage": 6,
-        "Disabled_Percentage": 25,
-        "Children_Percentage": 54,
-        "Federal_Employees": 4457.0
-    },
-    "CA\u201347": {
-        "SNAP_Utilization": 6,
-        "Medicaid_Utilization": 17,
-        "Veterans_Percentage": 8,
-        "Disabled_Percentage": 19,
-        "Children_Percentage": 64,
-        "Federal_Employees": 2566.0
-    },
-    "CA\u201348": {
-        "SNAP_Utilization": 9,
-        "Medicaid_Utilization": 24,
-        "Veterans_Percentage": 19,
-        "Disabled_Percentage": 26,
-        "Children_Percentage": 62,
-        "Federal_Employees": 10064.0
-    },
-    "CA\u201349": {
-        "SNAP_Utilization": 6,
-        "Medicaid_Utilization": 18,
-        "Veterans_Percentage": 13,
-        "Disabled_Percentage": 20,
-        "Children_Percentage": 61,
-        "Federal_Employees": 4411.0
-    },
-    "CA\u201350": {
-        "SNAP_Utilization": 8,
-        "Medicaid_Utilization": 17,
-        "Veterans_Percentage": 10,
-        "Disabled_Percentage": 18,
-        "Children_Percentage": 58,
-        "Federal_Employees": 7344.0
-    },
-    "CA\u201351": {
-        "SNAP_Utilization": 12,
-        "Medicaid_Utilization": 25,
-        "Veterans_Percentage": 15,
-        "Disabled_Percentage": 25,
-        "Children_Percentage": 58,
-        "Federal_Employees": 9875.0
-    },
-    "CA\u201352": {
-        "SNAP_Utilization": 17,
-        "Medicaid_Utilization": 37,
-        "Veterans_Percentage": 17,
-        "Disabled_Percentage": 30,
-        "Children_Percentage": 50,
-        "Federal_Employees": 12531.0
-    },
-    "CO\u20131": {
-        "SNAP_Utilization": 9,
-        "Medicaid_Utilization": 32,
-        "Veterans_Percentage": 13,
-        "Disabled_Percentage": 19,
-        "Children_Percentage": 52,
-        "Federal_Employees": 7538.0
-    },
-    "CO\u20132": {
-        "SNAP_Utilization": 6,
-        "Medicaid_Utilization": 19,
-        "Veterans_Percentage": 18,
-        "Disabled_Percentage": 19,
-        "Children_Percentage": 56,
-        "Federal_Employees": 4971.0
-    },
-    "CO\u20133": {
-        "SNAP_Utilization": 14,
-        "Medicaid_Utilization": 40,
-        "Veterans_Percentage": 13,
-        "Disabled_Percentage": 28,
-        "Children_Percentage": 47,
-        "Federal_Employees": 6957.0
-    },
-    "CO\u20134": {
-        "SNAP_Utilization": 7,
-        "Medicaid_Utilization": 20,
-        "Veterans_Percentage": 13,
-        "Disabled_Percentage": 22,
-        "Children_Percentage": 55,
-        "Federal_Employees": 6445.0
-    },
-    "CO\u20135": {
-        "SNAP_Utilization": 9,
-        "Medicaid_Utilization": 30,
-        "Veterans_Percentage": 19,
-        "Disabled_Percentage": 25,
-        "Children_Percentage": 53,
-        "Federal_Employees": 14674.0
-    },
-    "CO\u20136": {
-        "SNAP_Utilization": 9,
-        "Medicaid_Utilization": 28,
-        "Veterans_Percentage": 11,
-        "Disabled_Percentage": 23,
-        "Children_Percentage": 52,
-        "Federal_Employees": 7544.0
-    },
-    "CO\u20137": {
-        "SNAP_Utilization": 7,
-        "Medicaid_Utilization": 22,
-        "Veterans_Percentage": 10,
-        "Disabled_Percentage": 23,
-        "Children_Percentage": 54,
-        "Federal_Employees": 7103.0
-    },
-    "CO\u20138": {
-        "SNAP_Utilization": 11,
-        "Medicaid_Utilization": 34,
-        "Veterans_Percentage": 20,
-        "Disabled_Percentage": 26,
-        "Children_Percentage": 48,
-        "Federal_Employees": 5020.0
-    },
-    "CT\u20131": {
-        "SNAP_Utilization": 14,
-        "Medicaid_Utilization": 30,
-        "Veterans_Percentage": 15,
-        "Disabled_Percentage": 26,
-        "Children_Percentage": 49,
-        "Federal_Employees": 3893.0
-    },
-    "CT\u20132": {
-        "SNAP_Utilization": 10,
-        "Medicaid_Utilization": 24,
-        "Veterans_Percentage": 19,
-        "Disabled_Percentage": 28,
-        "Children_Percentage": 47,
-        "Federal_Employees": 7206.0
-    },
-    "CT\u20133": {
-        "SNAP_Utilization": 13,
-        "Medicaid_Utilization": 29,
-        "Veterans_Percentage": 14,
-        "Disabled_Percentage": 23,
-        "Children_Percentage": 57,
-        "Federal_Employees": 4510.0
-    },
-    "CT\u20134": {
-        "SNAP_Utilization": 10,
-        "Medicaid_Utilization": 24,
-        "Veterans_Percentage": 15,
-        "Disabled_Percentage": 23,
-        "Children_Percentage": 46,
-        "Federal_Employees": 2800.0
-    },
-    "CT\u20135": {
-        "SNAP_Utilization": 13,
-        "Medicaid_Utilization": 32,
-        "Veterans_Percentage": 20,
-        "Disabled_Percentage": 25,
-        "Children_Percentage": 49,
-        "Federal_Employees": 3452.0
-    },
-    "DE\u20131": {
-        "SNAP_Utilization": 11,
-        "Medicaid_Utilization": 30,
-        "Veterans_Percentage": 11,
-        "Disabled_Percentage": 29,
-        "Children_Percentage": 47,
-        "Federal_Employees": 9143.0
-    },
-    "DC-1": {
-        "SNAP_Utilization": 15,
-        "Medicaid_Utilization": 42,
-        "Veterans_Percentage": 14,
-        "Disabled_Percentage": 0,
-        "Children_Percentage": 57,
-        "Federal_Employees": 48859.0
-    },
-    "FL\u20131": {
-        "SNAP_Utilization": 9,
-        "Medicaid_Utilization": 21,
-        "Veterans_Percentage": 15,
-        "Disabled_Percentage": 31,
-        "Children_Percentage": 48,
-        "Federal_Employees": 13704.0
-    },
-    "FL\u20132": {
-        "SNAP_Utilization": 13,
-        "Medicaid_Utilization": 24,
-        "Veterans_Percentage": 17,
-        "Disabled_Percentage": 29,
-        "Children_Percentage": 51,
-        "Federal_Employees": 8040.0
-    },
-    "FL\u20133": {
-        "SNAP_Utilization": 12,
-        "Medicaid_Utilization": 24,
-        "Veterans_Percentage": 13,
-        "Disabled_Percentage": 31,
-        "Children_Percentage": 48,
-        "Federal_Employees": 5945.0
-    },
-    "FL\u20134": {
-        "SNAP_Utilization": 14,
-        "Medicaid_Utilization": 27,
-        "Veterans_Percentage": 12,
-        "Disabled_Percentage": 32,
-        "Children_Percentage": 55,
-        "Federal_Employees": 12341.0
-    },
-    "FL\u20135": {
-        "SNAP_Utilization": 8,
-        "Medicaid_Utilization": 14,
-        "Veterans_Percentage": 16,
-        "Disabled_Percentage": 24,
-        "Children_Percentage": 53,
-        "Federal_Employees": 10359.0
-    },
-    "FL\u20136": {
-        "SNAP_Utilization": 13,
-        "Medicaid_Utilization": 25,
-        "Veterans_Percentage": 9,
-        "Disabled_Percentage": 34,
-        "Children_Percentage": 53,
-        "Federal_Employees": 2869.0
-    },
-    "FL\u20137": {
-        "SNAP_Utilization": 10,
-        "Medicaid_Utilization": 18,
-        "Veterans_Percentage": 10,
-        "Disabled_Percentage": 27,
-        "Children_Percentage": 53,
-        "Federal_Employees": 3843.0
-    },
-    "FL\u20138": {
-        "SNAP_Utilization": 8,
-        "Medicaid_Utilization": 20,
-        "Veterans_Percentage": 16,
-        "Disabled_Percentage": 29,
-        "Children_Percentage": 57,
-        "Federal_Employees": 7334.0
-    },
-    "FL\u20139": {
-        "SNAP_Utilization": 15,
-        "Medicaid_Utilization": 26,
-        "Veterans_Percentage": 23,
-        "Disabled_Percentage": 29,
-        "Children_Percentage": 51,
-        "Federal_Employees": 5456.0
-    },
-    "FL\u201310": {
-        "SNAP_Utilization": 17,
-        "Medicaid_Utilization": 24,
-        "Veterans_Percentage": 8,
-        "Disabled_Percentage": 24,
-        "Children_Percentage": 57,
-        "Federal_Employees": 4422.0
-    },
-    "FL\u201311": {
-        "SNAP_Utilization": 8,
-        "Medicaid_Utilization": 18,
-        "Veterans_Percentage": 5,
-        "Disabled_Percentage": 26,
-        "Children_Percentage": 52,
-        "Federal_Employees": 4392.0
-    },
-    "FL\u201312": {
-        "SNAP_Utilization": 10,
-        "Medicaid_Utilization": 25,
-        "Veterans_Percentage": 4,
-        "Disabled_Percentage": 35,
-        "Children_Percentage": 46,
-        "Federal_Employees": 4334.0
-    },
-    "FL\u201313": {
-        "SNAP_Utilization": 9,
-        "Medicaid_Utilization": 18,
-        "Veterans_Percentage": 5,
-        "Disabled_Percentage": 27,
-        "Children_Percentage": 53,
-        "Federal_Employees": 6238.0
-    },
-    "FL\u201314": {
-        "SNAP_Utilization": 15,
-        "Medicaid_Utilization": 24,
-        "Veterans_Percentage": 4,
-        "Disabled_Percentage": 24,
-        "Children_Percentage": 56,
-        "Federal_Employees": 6531.0
-    },
-    "FL\u201315": {
-        "SNAP_Utilization": 14,
-        "Medicaid_Utilization": 24,
-        "Veterans_Percentage": 5,
-        "Disabled_Percentage": 27,
-        "Children_Percentage": 59,
-        "Federal_Employees": 3610.0
-    },
-    "FL\u201316": {
-        "SNAP_Utilization": 7,
-        "Medicaid_Utilization": 18,
-        "Veterans_Percentage": 4,
-        "Disabled_Percentage": 28,
-        "Children_Percentage": 48,
-        "Federal_Employees": 6028.0
-    },
-    "FL\u201317": {
-        "SNAP_Utilization": 7,
-        "Medicaid_Utilization": 19,
-        "Veterans_Percentage": 4,
-        "Disabled_Percentage": 30,
-        "Children_Percentage": 49,
-        "Federal_Employees": 3590.0
-    },
-    "FL\u201318": {
-        "SNAP_Utilization": 16,
-        "Medicaid_Utilization": 30,
-        "Veterans_Percentage": 5,
-        "Disabled_Percentage": 32,
-        "Children_Percentage": 49,
-        "Federal_Employees": 2961.0
-    },
-    "FL\u201319": {
-        "SNAP_Utilization": 6,
-        "Medicaid_Utilization": 17,
-        "Veterans_Percentage": 8,
-        "Disabled_Percentage": 25,
-        "Children_Percentage": 62,
-        "Federal_Employees": 3221.0
-    },
-    "FL\u201320": {
-        "SNAP_Utilization": 17,
-        "Medicaid_Utilization": 29,
-        "Veterans_Percentage": 13,
-        "Disabled_Percentage": 25,
-        "Children_Percentage": 55,
-        "Federal_Employees": 6231.0
-    },
-    "FL\u201321": {
-        "SNAP_Utilization": 8,
-        "Medicaid_Utilization": 18,
-        "Veterans_Percentage": 5,
-        "Disabled_Percentage": 27,
-        "Children_Percentage": 55,
-        "Federal_Employees": 4442.0
-    },
-    "FL\u201322": {
-        "SNAP_Utilization": 11,
-        "Medicaid_Utilization": 19,
-        "Veterans_Percentage": 5,
-        "Disabled_Percentage": 24,
-        "Children_Percentage": 62,
-        "Federal_Employees": 2392.0
-    },
-    "FL\u201323": {
-        "SNAP_Utilization": 6,
-        "Medicaid_Utilization": 16,
-        "Veterans_Percentage": 12,
-        "Disabled_Percentage": 22,
-        "Children_Percentage": 48,
-        "Federal_Employees": 3068.0
-    },
-    "FL\u201324": {
-        "SNAP_Utilization": 21,
-        "Medicaid_Utilization": 32,
-        "Veterans_Percentage": 10,
-        "Disabled_Percentage": 22,
-        "Children_Percentage": 64,
-        "Federal_Employees": 4475.0
-    },
-    "FL\u201325": {
-        "SNAP_Utilization": 11,
-        "Medicaid_Utilization": 17,
-        "Veterans_Percentage": 11,
-        "Disabled_Percentage": 23,
-        "Children_Percentage": 57,
-        "Federal_Employees": 6157.0
-    },
-    "FL\u201326": {
-        "SNAP_Utilization": 22,
-        "Medicaid_Utilization": 29,
-        "Veterans_Percentage": 9,
-        "Disabled_Percentage": 24,
-        "Children_Percentage": 56,
-        "Federal_Employees": 2337.0
-    },
-    "FL\u201327": {
-        "SNAP_Utilization": 17,
-        "Medicaid_Utilization": 23,
-        "Veterans_Percentage": 8,
-        "Disabled_Percentage": 22,
-        "Children_Percentage": 55,
-        "Federal_Employees": 4138.0
-    },
-    "FL\u201328": {
-        "SNAP_Utilization": 18,
-        "Medicaid_Utilization": 28,
-        "Veterans_Percentage": 6,
-        "Disabled_Percentage": 22,
-        "Children_Percentage": 58,
-        "Federal_Employees": 5013.0
-    },
-    "GA\u20131": {
-        "SNAP_Utilization": 14,
-        "Medicaid_Utilization": 22,
-        "Veterans_Percentage": 15,
-        "Disabled_Percentage": 31,
-        "Children_Percentage": 55,
-        "Federal_Employees": 11443.0
-    },
-    "GA\u20132": {
-        "SNAP_Utilization": 22,
-        "Medicaid_Utilization": 31,
-        "Veterans_Percentage": 18,
-        "Disabled_Percentage": 35,
-        "Children_Percentage": 54,
-        "Federal_Employees": 9687.0
-    },
-    "GA\u20133": {
-        "SNAP_Utilization": 12,
-        "Medicaid_Utilization": 20,
-        "Veterans_Percentage": 14,
-        "Disabled_Percentage": 31,
-        "Children_Percentage": 50,
-        "Federal_Employees": 5611.0
-    },
-    "GA\u20134": {
-        "SNAP_Utilization": 12,
-        "Medicaid_Utilization": 22,
-        "Veterans_Percentage": 14,
-        "Disabled_Percentage": 24,
-        "Children_Percentage": 53,
-        "Federal_Employees": 10717.0
-    },
-    "GA\u20135": {
-        "SNAP_Utilization": 14,
-        "Medicaid_Utilization": 22,
-        "Veterans_Percentage": 16,
-        "Disabled_Percentage": 20,
-        "Children_Percentage": 58,
-        "Federal_Employees": 8118.0
-    },
-    "GA\u20136": {
-        "SNAP_Utilization": 3,
-        "Medicaid_Utilization": 19,
-        "Veterans_Percentage": 11,
-        "Disabled_Percentage": 19,
-        "Children_Percentage": 58,
-        "Federal_Employees": 4512.0
-    },
-    "GA\u20137": {
-        "SNAP_Utilization": 8,
-        "Medicaid_Utilization": 9,
-        "Veterans_Percentage": 12,
-        "Disabled_Percentage": 20,
-        "Children_Percentage": 60,
-        "Federal_Employees": 5461.0
-    },
-    "GA\u20138": {
-        "SNAP_Utilization": 17,
-        "Medicaid_Utilization": 25,
-        "Veterans_Percentage": 18,
-        "Disabled_Percentage": 31,
-        "Children_Percentage": 59,
-        "Federal_Employees": 12105.0
-    },
-    "GA\u20139": {
-        "SNAP_Utilization": 10,
-        "Medicaid_Utilization": 19,
-        "Veterans_Percentage": 24,
-        "Disabled_Percentage": 30,
-        "Children_Percentage": 49,
-        "Federal_Employees": 3225.0
-    },
-    "GA\u201310": {
-        "SNAP_Utilization": 10,
-        "Medicaid_Utilization": 19,
-        "Veterans_Percentage": 8,
-        "Disabled_Percentage": 28,
-        "Children_Percentage": 50,
-        "Federal_Employees": 6065.0
-    },
-    "GA\u201311": {
-        "SNAP_Utilization": 6,
-        "Medicaid_Utilization": 13,
-        "Veterans_Percentage": 5,
-        "Disabled_Percentage": 21,
-        "Children_Percentage": 60,
-        "Federal_Employees": 4153.0
-    },
-    "GA\u201312": {
-        "SNAP_Utilization": 17,
-        "Medicaid_Utilization": 25,
-        "Veterans_Percentage": 5,
-        "Disabled_Percentage": 35,
-        "Children_Percentage": 53,
-        "Federal_Employees": 10633.0
-    },
-    "GA\u201313": {
-        "SNAP_Utilization": 13,
-        "Medicaid_Utilization": 21,
-        "Veterans_Percentage": 6,
-        "Disabled_Percentage": 23,
-        "Children_Percentage": 59,
-        "Federal_Employees": 10061.0
-    },
-    "GA\u201314": {
-        "SNAP_Utilization": 13,
-        "Medicaid_Utilization": 20,
-        "Veterans_Percentage": 5,
-        "Disabled_Percentage": 31,
-        "Children_Percentage": 51,
-        "Federal_Employees": 4121.0
-    },
-    "HI\u20131": {
-        "SNAP_Utilization": 10,
-        "Medicaid_Utilization": 27,
-        "Veterans_Percentage": 18,
-        "Disabled_Percentage": 27,
-        "Children_Percentage": 53,
-        "Federal_Employees": 19432.0
-    },
-    "HI\u20132": {
-        "SNAP_Utilization": 12,
-        "Medicaid_Utilization": 35,
-        "Veterans_Percentage": 23,
-        "Disabled_Percentage": 32,
-        "Children_Percentage": 46,
-        "Federal_Employees": 9785.0
-    },
-    "ID\u20131": {
-        "SNAP_Utilization": 5,
-        "Medicaid_Utilization": 21,
-        "Veterans_Percentage": 12,
-        "Disabled_Percentage": 29,
-        "Children_Percentage": 46,
-        "Federal_Employees": 6009.0
-    },
-    "ID\u20132": {
-        "SNAP_Utilization": 9,
-        "Medicaid_Utilization": 24,
-        "Veterans_Percentage": 15,
-        "Disabled_Percentage": 28,
-        "Children_Percentage": 42,
-        "Federal_Employees": 12443.0
-    },
-    "IL\u20131": {
-        "SNAP_Utilization": 25,
-        "Medicaid_Utilization": 34,
-        "Veterans_Percentage": 15,
-        "Disabled_Percentage": 30,
-        "Children_Percentage": 51,
-        "Federal_Employees": 6269.0
-    },
-    "IL\u20132": {
-        "SNAP_Utilization": 24,
-        "Medicaid_Utilization": 42,
-        "Veterans_Percentage": 19,
-        "Disabled_Percentage": 29,
-        "Children_Percentage": 56,
-        "Federal_Employees": 6559.0
-    },
-    "IL\u20133": {
-        "SNAP_Utilization": 14,
-        "Medicaid_Utilization": 29,
-        "Veterans_Percentage": 15,
-        "Disabled_Percentage": 23,
-        "Children_Percentage": 55,
-        "Federal_Employees": 3343.0
-    },
-    "IL\u20134": {
-        "SNAP_Utilization": 17,
-        "Medicaid_Utilization": 37,
-        "Veterans_Percentage": 16,
-        "Disabled_Percentage": 24,
-        "Children_Percentage": 62,
-        "Federal_Employees": 4341.0
-    },
-    "IL\u20135": {
-        "SNAP_Utilization": 5,
-        "Medicaid_Utilization": 13,
-        "Veterans_Percentage": 16,
-        "Disabled_Percentage": 16,
-        "Children_Percentage": 60,
-        "Federal_Employees": 5045.0
-    },
-    "IL\u20136": {
-        "SNAP_Utilization": 8,
-        "Medicaid_Utilization": 18,
-        "Veterans_Percentage": 10,
-        "Disabled_Percentage": 22,
-        "Children_Percentage": 62,
-        "Federal_Employees": 4162.0
-    },
-    "IL\u20137": {
-        "SNAP_Utilization": 22,
-        "Medicaid_Utilization": 36,
-        "Veterans_Percentage": 9,
-        "Disabled_Percentage": 24,
-        "Children_Percentage": 51,
-        "Federal_Employees": 9473.0
-    },
-    "IL\u20138": {
-        "SNAP_Utilization": 9,
-        "Medicaid_Utilization": 22,
-        "Veterans_Percentage": 20,
-        "Disabled_Percentage": 22,
-        "Children_Percentage": 58,
-        "Federal_Employees": 4154.0
-    },
-    "IL\u20139": {
-        "SNAP_Utilization": 10,
-        "Medicaid_Utilization": 22,
-        "Veterans_Percentage": 23,
-        "Disabled_Percentage": 22,
-        "Children_Percentage": 55,
-        "Federal_Employees": 3605.0
-    },
-    "IL\u201310": {
-        "SNAP_Utilization": 8,
-        "Medicaid_Utilization": 20,
-        "Veterans_Percentage": 9,
-        "Disabled_Percentage": 23,
-        "Children_Percentage": 52,
-        "Federal_Employees": 5767.0
-    },
-    "IL\u201311": {
-        "SNAP_Utilization": 8,
-        "Medicaid_Utilization": 18,
-        "Veterans_Percentage": 5,
-        "Disabled_Percentage": 20,
-        "Children_Percentage": 68,
-        "Federal_Employees": 4263.0
-    },
-    "IL\u201312": {
-        "SNAP_Utilization": 16,
-        "Medicaid_Utilization": 31,
-        "Veterans_Percentage": 5,
-        "Disabled_Percentage": 32,
-        "Children_Percentage": 45,
-        "Federal_Employees": 7771.0
-    },
-    "IL\u201313": {
-        "SNAP_Utilization": 18,
-        "Medicaid_Utilization": 33,
-        "Veterans_Percentage": 6,
-        "Disabled_Percentage": 28,
-        "Children_Percentage": 55,
-        "Federal_Employees": 6317.0
-    },
-    "IL\u201314": {
-        "SNAP_Utilization": 13,
-        "Medicaid_Utilization": 24,
-        "Veterans_Percentage": 5,
-        "Disabled_Percentage": 25,
-        "Children_Percentage": 58,
-        "Federal_Employees": 4497.0
-    },
-    "IL\u201315": {
-        "SNAP_Utilization": 13,
-        "Medicaid_Utilization": 26,
-        "Veterans_Percentage": 5,
-        "Disabled_Percentage": 28,
-        "Children_Percentage": 49,
-        "Federal_Employees": 4477.0
-    },
-    "IL\u201316": {
-        "SNAP_Utilization": 10,
-        "Medicaid_Utilization": 21,
-        "Veterans_Percentage": 5,
-        "Disabled_Percentage": 24,
-        "Children_Percentage": 53,
-        "Federal_Employees": 3684.0
-    },
-    "IL\u201317": {
-        "SNAP_Utilization": 20,
-        "Medicaid_Utilization": 36,
-        "Veterans_Percentage": 4,
-        "Disabled_Percentage": 29,
-        "Children_Percentage": 53,
-        "Federal_Employees": 5551.0
-    },
-    "IN\u20131": {
-        "SNAP_Utilization": 10,
-        "Medicaid_Utilization": 31,
-        "Veterans_Percentage": 15,
-        "Disabled_Percentage": 28,
-        "Children_Percentage": 52,
-        "Federal_Employees": 4608.0
-    },
-    "IN\u20132": {
-        "SNAP_Utilization": 8,
-        "Medicaid_Utilization": 29,
-        "Veterans_Percentage": 19,
-        "Disabled_Percentage": 27,
-        "Children_Percentage": 50,
-        "Federal_Employees": 2694.0
-    },
-    "IN\u20133": {
-        "SNAP_Utilization": 8,
-        "Medicaid_Utilization": 26,
-        "Veterans_Percentage": 14,
-        "Disabled_Percentage": 29,
-        "Children_Percentage": 48,
-        "Federal_Employees": 3571.0
-    },
-    "IN\u20134": {
-        "SNAP_Utilization": 7,
-        "Medicaid_Utilization": 20,
-        "Veterans_Percentage": 13,
-        "Disabled_Percentage": 26,
-        "Children_Percentage": 53,
-        "Federal_Employees": 5671.0
-    },
-    "IN\u20135": {
-        "SNAP_Utilization": 9,
-        "Medicaid_Utilization": 24,
-        "Veterans_Percentage": 18,
-        "Disabled_Percentage": 29,
-        "Children_Percentage": 42,
-        "Federal_Employees": 6087.0
-    },
-    "IN\u20136": {
-        "SNAP_Utilization": 10,
-        "Medicaid_Utilization": 28,
-        "Veterans_Percentage": 10,
-        "Disabled_Percentage": 29,
-        "Children_Percentage": 49,
-        "Federal_Employees": 5173.0
-    },
-    "IN\u20137": {
-        "SNAP_Utilization": 11,
-        "Medicaid_Utilization": 38,
-        "Veterans_Percentage": 10,
-        "Disabled_Percentage": 24,
-        "Children_Percentage": 51,
-        "Federal_Employees": 8533.0
-    },
-    "IN\u20138": {
-        "SNAP_Utilization": 10,
-        "Medicaid_Utilization": 29,
-        "Veterans_Percentage": 18,
-        "Disabled_Percentage": 32,
-        "Children_Percentage": 46,
-        "Federal_Employees": 5911.0
-    },
-    "IN\u20139": {
-        "SNAP_Utilization": 6,
-        "Medicaid_Utilization": 25,
-        "Veterans_Percentage": 23,
-        "Disabled_Percentage": 30,
-        "Children_Percentage": 37,
-        "Federal_Employees": 5829.0
-    },
-    "IA\u20131": {
-        "SNAP_Utilization": 9,
-        "Medicaid_Utilization": 24,
-        "Veterans_Percentage": 14,
-        "Disabled_Percentage": 25,
-        "Children_Percentage": 50,
-        "Federal_Employees": 7294.0
-    },
-    "IA\u20132": {
-        "SNAP_Utilization": 9,
-        "Medicaid_Utilization": 24,
-        "Veterans_Percentage": 16,
-        "Disabled_Percentage": 26,
-        "Children_Percentage": 51,
-        "Federal_Employees": 3688.0
-    },
-    "IA\u20133": {
-        "SNAP_Utilization": 9,
-        "Medicaid_Utilization": 25,
-        "Veterans_Percentage": 12,
-        "Disabled_Percentage": 24,
-        "Children_Percentage": 54,
-        "Federal_Employees": 5789.0
-    },
-    "IA\u20134": {
-        "SNAP_Utilization": 8,
-        "Medicaid_Utilization": 25,
-        "Veterans_Percentage": 12,
-        "Disabled_Percentage": 26,
-        "Children_Percentage": 46,
-        "Federal_Employees": 4976.0
-    },
-    "KS\u20131": {
-        "SNAP_Utilization": 6,
-        "Medicaid_Utilization": 15,
-        "Veterans_Percentage": 15,
-        "Disabled_Percentage": 25,
-        "Children_Percentage": 54,
-        "Federal_Employees": 5594.0
-    },
-    "KS\u20132": {
-        "SNAP_Utilization": 10,
-        "Medicaid_Utilization": 19,
-        "Veterans_Percentage": 19,
-        "Disabled_Percentage": 33,
-        "Children_Percentage": 36,
-        "Federal_Employees": 10809.0
-    },
-    "KS\u20133": {
-        "SNAP_Utilization": 3,
-        "Medicaid_Utilization": 9,
-        "Veterans_Percentage": 14,
-        "Disabled_Percentage": 21,
-        "Children_Percentage": 49,
-        "Federal_Employees": 5418.0
-    },
-    "KS\u20134": {
-        "SNAP_Utilization": 9,
-        "Medicaid_Utilization": 18,
-        "Veterans_Percentage": 13,
-        "Disabled_Percentage": 28,
-        "Children_Percentage": 49,
-        "Federal_Employees": 6149.0
-    },
-    "KY\u20131": {
-        "SNAP_Utilization": 13,
-        "Medicaid_Utilization": 35,
-        "Veterans_Percentage": 15,
-        "Disabled_Percentage": 36,
-        "Children_Percentage": 46,
-        "Federal_Employees": 3990.0
-    },
-    "KY\u20132": {
-        "SNAP_Utilization": 11,
-        "Medicaid_Utilization": 32,
-        "Veterans_Percentage": 18,
-        "Disabled_Percentage": 35,
-        "Children_Percentage": 47,
-        "Federal_Employees": 7456.0
-    },
-    "KY\u20133": {
-        "SNAP_Utilization": 12,
-        "Medicaid_Utilization": 31,
-        "Veterans_Percentage": 13,
-        "Disabled_Percentage": 28,
-        "Children_Percentage": 53,
-        "Federal_Employees": 4231.0
-    },
-    "KY\u20134": {
-        "SNAP_Utilization": 9,
-        "Medicaid_Utilization": 24,
-        "Veterans_Percentage": 13,
-        "Disabled_Percentage": 29,
-        "Children_Percentage": 52,
-        "Federal_Employees": 7063.0
-    },
-    "KY\u20135": {
-        "SNAP_Utilization": 22,
-        "Medicaid_Utilization": 50,
-        "Veterans_Percentage": 18,
-        "Disabled_Percentage": 47,
-        "Children_Percentage": 38,
-        "Federal_Employees": 5157.0
-    },
-    "KY\u20136": {
-        "SNAP_Utilization": 10,
-        "Medicaid_Utilization": 29,
-        "Veterans_Percentage": 10,
-        "Disabled_Percentage": 31,
-        "Children_Percentage": 48,
-        "Federal_Employees": 6696.0
-    },
-    "LA\u20131": {
-        "SNAP_Utilization": 10,
-        "Medicaid_Utilization": 28,
-        "Veterans_Percentage": 15,
-        "Disabled_Percentage": 31,
-        "Children_Percentage": 51,
-        "Federal_Employees": 6843.0
-    },
-    "LA\u20132": {
-        "SNAP_Utilization": 21,
-        "Medicaid_Utilization": 42,
-        "Veterans_Percentage": 18,
-        "Disabled_Percentage": 31,
-        "Children_Percentage": 53,
-        "Federal_Employees": 6668.0
-    },
-    "LA\u20133": {
-        "SNAP_Utilization": 18,
-        "Medicaid_Utilization": 37,
-        "Veterans_Percentage": 14,
-        "Disabled_Percentage": 31,
-        "Children_Percentage": 52,
-        "Federal_Employees": 2986.0
-    },
-    "LA\u20134": {
-        "SNAP_Utilization": 19,
-        "Medicaid_Utilization": 36,
-        "Veterans_Percentage": 12,
-        "Disabled_Percentage": 35,
-        "Children_Percentage": 49,
-        "Federal_Employees": 8620.0
-    },
-    "LA\u20135": {
-        "SNAP_Utilization": 24,
-        "Medicaid_Utilization": 37,
-        "Veterans_Percentage": 19,
-        "Disabled_Percentage": 36,
-        "Children_Percentage": 47,
-        "Federal_Employees": 5617.0
-    },
-    "LA\u20136": {
-        "SNAP_Utilization": 13,
-        "Medicaid_Utilization": 45,
-        "Veterans_Percentage": 10,
-        "Disabled_Percentage": 30,
-        "Children_Percentage": 51,
-        "Federal_Employees": 3735.0
-    },
-    "ME\u20131": {
-        "SNAP_Utilization": 8,
-        "Medicaid_Utilization": 20,
-        "Veterans_Percentage": 15,
-        "Disabled_Percentage": 24,
-        "Children_Percentage": 46,
-        "Federal_Employees": 7050.0
-    },
-    "ME\u20132": {
-        "SNAP_Utilization": 17,
-        "Medicaid_Utilization": 32,
-        "Veterans_Percentage": 18,
-        "Disabled_Percentage": 34,
-        "Children_Percentage": 43,
-        "Federal_Employees": 4896.0
-    },
-    "MD\u20131": {
-        "SNAP_Utilization": 11,
-        "Medicaid_Utilization": 26,
-        "Veterans_Percentage": 15,
-        "Disabled_Percentage": 25,
-        "Children_Percentage": 50,
-        "Federal_Employees": 16078.0
-    },
-    "MD\u20132": {
-        "SNAP_Utilization": 7,
-        "Medicaid_Utilization": 21,
-        "Veterans_Percentage": 18,
-        "Disabled_Percentage": 23,
-        "Children_Percentage": 54,
-        "Federal_Employees": 15222.0
-    },
-    "MD\u20133": {
-        "SNAP_Utilization": 7,
-        "Medicaid_Utilization": 17,
-        "Veterans_Percentage": 14,
-        "Disabled_Percentage": 21,
-        "Children_Percentage": 51,
-        "Federal_Employees": 30078.0
-    },
-    "MD\u20134": {
-        "SNAP_Utilization": 12,
-        "Medicaid_Utilization": 31,
-        "Veterans_Percentage": 14,
-        "Disabled_Percentage": 23,
-        "Children_Percentage": 59,
-        "Federal_Employees": 32225.0
-    },
-    "MD\u20135": {
-        "SNAP_Utilization": 7,
-        "Medicaid_Utilization": 17,
-        "Veterans_Percentage": 19,
-        "Disabled_Percentage": 23,
-        "Children_Percentage": 60,
-        "Federal_Employees": 53169.0
-    },
-    "MD\u20136": {
-        "SNAP_Utilization": 10,
-        "Medicaid_Utilization": 24,
-        "Veterans_Percentage": 10,
-        "Disabled_Percentage": 25,
-        "Children_Percentage": 48,
-        "Federal_Employees": 23588.0
-    },
-    "MD\u20137": {
-        "SNAP_Utilization": 21,
-        "Medicaid_Utilization": 43,
-        "Veterans_Percentage": 10,
-        "Disabled_Percentage": 28,
-        "Children_Percentage": 53,
-        "Federal_Employees": 13127.0
-    },
-    "MD\u20138": {
-        "SNAP_Utilization": 6,
-        "Medicaid_Utilization": 19,
-        "Veterans_Percentage": 19,
-        "Disabled_Percentage": 20,
-        "Children_Percentage": 59,
-        "Federal_Employees": 40740.0
-    },
-    "MA\u20131": {
-        "SNAP_Utilization": 23,
-        "Medicaid_Utilization": 34,
-        "Veterans_Percentage": 14,
-        "Disabled_Percentage": 31,
-        "Children_Percentage": 43,
-        "Federal_Employees": 4837.0
-    },
-    "MA\u20132": {
-        "SNAP_Utilization": 16,
-        "Medicaid_Utilization": 25,
-        "Veterans_Percentage": 18,
-        "Disabled_Percentage": 26,
-        "Children_Percentage": 48,
-        "Federal_Employees": 4104.0
-    },
-    "MA\u20133": {
-        "SNAP_Utilization": 19,
-        "Medicaid_Utilization": 30,
-        "Veterans_Percentage": 14,
-        "Disabled_Percentage": 28,
-        "Children_Percentage": 47,
-        "Federal_Employees": 5777.0
-    },
-    "MA\u20134": {
-        "SNAP_Utilization": 14,
-        "Medicaid_Utilization": 20,
-        "Veterans_Percentage": 13,
-        "Disabled_Percentage": 24,
-        "Children_Percentage": 48,
-        "Federal_Employees": 3660.0
-    },
-    "MA\u20135": {
-        "SNAP_Utilization": 9,
-        "Medicaid_Utilization": 18,
-        "Veterans_Percentage": 18,
-        "Disabled_Percentage": 21,
-        "Children_Percentage": 48,
-        "Federal_Employees": 5361.0
-    },
-    "MA\u20136": {
-        "SNAP_Utilization": 11,
-        "Medicaid_Utilization": 21,
-        "Veterans_Percentage": 10,
-        "Disabled_Percentage": 24,
-        "Children_Percentage": 52,
-        "Federal_Employees": 5605.0
-    },
-    "MA\u20137": {
-        "SNAP_Utilization": 22,
-        "Medicaid_Utilization": 34,
-        "Veterans_Percentage": 10,
-        "Disabled_Percentage": 25,
-        "Children_Percentage": 50,
-        "Federal_Employees": 4373.0
-    },
-    "MA\u20138": {
-        "SNAP_Utilization": 14,
-        "Medicaid_Utilization": 22,
-        "Veterans_Percentage": 17,
-        "Disabled_Percentage": 23,
-        "Children_Percentage": 49,
-        "Federal_Employees": 5855.0
-    },
-    "MA\u20139": {
-        "SNAP_Utilization": 14,
-        "Medicaid_Utilization": 24,
-        "Veterans_Percentage": 22,
-        "Disabled_Percentage": 27,
-        "Children_Percentage": 47,
-        "Federal_Employees": 4141.0
-    },
-    "MI\u20131": {
-        "SNAP_Utilization": 12,
-        "Medicaid_Utilization": 29,
-        "Veterans_Percentage": 13,
-        "Disabled_Percentage": 32,
-        "Children_Percentage": 44,
-        "Federal_Employees": 6221.0
-    },
-    "MI\u20132": {
-        "SNAP_Utilization": 15,
-        "Medicaid_Utilization": 29,
-        "Veterans_Percentage": 18,
-        "Disabled_Percentage": 30,
-        "Children_Percentage": 44,
-        "Federal_Employees": 4671.0
-    },
-    "MI\u20133": {
-        "SNAP_Utilization": 12,
-        "Medicaid_Utilization": 26,
-        "Veterans_Percentage": 14,
-        "Disabled_Percentage": 24,
-        "Children_Percentage": 57,
-        "Federal_Employees": 2861.0
-    },
-    "MI\u20134": {
-        "SNAP_Utilization": 11,
-        "Medicaid_Utilization": 25,
-        "Veterans_Percentage": 13,
-        "Disabled_Percentage": 24,
-        "Children_Percentage": 57,
-        "Federal_Employees": 3151.0
-    },
-    "MI\u20135": {
-        "SNAP_Utilization": 12,
-        "Medicaid_Utilization": 28,
-        "Veterans_Percentage": 18,
-        "Disabled_Percentage": 29,
-        "Children_Percentage": 50,
-        "Federal_Employees": 3442.0
-    },
-    "MI\u20136": {
-        "SNAP_Utilization": 8,
-        "Medicaid_Utilization": 17,
-        "Veterans_Percentage": 10,
-        "Disabled_Percentage": 24,
-        "Children_Percentage": 51,
-        "Federal_Employees": 4302.0
-    },
-    "MI\u20137": {
-        "SNAP_Utilization": 10,
-        "Medicaid_Utilization": 21,
-        "Veterans_Percentage": 10,
-        "Disabled_Percentage": 26,
-        "Children_Percentage": 43,
-        "Federal_Employees": 3839.0
-    },
-    "MI\u20138": {
-        "SNAP_Utilization": 19,
-        "Medicaid_Utilization": 37,
-        "Veterans_Percentage": 17,
-        "Disabled_Percentage": 32,
-        "Children_Percentage": 47,
-        "Federal_Employees": 3334.0
-    },
-    "MI\u20139": {
-        "SNAP_Utilization": 10,
-        "Medicaid_Utilization": 22,
-        "Veterans_Percentage": 23,
-        "Disabled_Percentage": 27,
-        "Children_Percentage": 43,
-        "Federal_Employees": 4718.0
-    },
-    "MI\u201310": {
-        "SNAP_Utilization": 14,
-        "Medicaid_Utilization": 27,
-        "Veterans_Percentage": 8,
-        "Disabled_Percentage": 28,
-        "Children_Percentage": 49,
-        "Federal_Employees": 4911.0
-    },
-    "MI\u201311": {
-        "SNAP_Utilization": 9,
-        "Medicaid_Utilization": 19,
-        "Veterans_Percentage": 5,
-        "Disabled_Percentage": 22,
-        "Children_Percentage": 48,
-        "Federal_Employees": 3802.0
-    },
-    "MI\u201312": {
-        "SNAP_Utilization": 23,
-        "Medicaid_Utilization": 46,
-        "Veterans_Percentage": 5,
-        "Disabled_Percentage": 33,
-        "Children_Percentage": 44,
-        "Federal_Employees": 4098.0
-    },
-    "MI\u201313": {
-        "SNAP_Utilization": 29,
-        "Medicaid_Utilization": 52,
-        "Veterans_Percentage": 6,
-        "Disabled_Percentage": 33,
-        "Children_Percentage": 50,
-        "Federal_Employees": 4708.0
-    },
-    "MN\u20131": {
-        "SNAP_Utilization": 9,
-        "Medicaid_Utilization": 24,
-        "Veterans_Percentage": 16,
-        "Disabled_Percentage": 22,
-        "Children_Percentage": 57,
-        "Federal_Employees": 2366.0
-    },
-    "MN\u20132": {
-        "SNAP_Utilization": 5,
-        "Medicaid_Utilization": 19,
-        "Veterans_Percentage": 20,
-        "Disabled_Percentage": 23,
-        "Children_Percentage": 55,
-        "Federal_Employees": 5174.0
-    },
-    "MN\u20133": {
-        "SNAP_Utilization": 5,
-        "Medicaid_Utilization": 18,
-        "Veterans_Percentage": 14,
-        "Disabled_Percentage": 20,
-        "Children_Percentage": 59,
-        "Federal_Employees": 3399.0
-    },
-    "MN\u20134": {
-        "SNAP_Utilization": 10,
-        "Medicaid_Utilization": 28,
-        "Veterans_Percentage": 13,
-        "Disabled_Percentage": 23,
-        "Children_Percentage": 55,
-        "Federal_Employees": 3825.0
-    },
-    "MN\u20135": {
-        "SNAP_Utilization": 10,
-        "Medicaid_Utilization": 30,
-        "Veterans_Percentage": 18,
-        "Disabled_Percentage": 20,
-        "Children_Percentage": 51,
-        "Federal_Employees": 4595.0
-    },
-    "MN\u20136": {
-        "SNAP_Utilization": 6,
-        "Medicaid_Utilization": 19,
-        "Veterans_Percentage": 11,
-        "Disabled_Percentage": 22,
-        "Children_Percentage": 49,
-        "Federal_Employees": 3608.0
-    },
-    "MN\u20137": {
-        "SNAP_Utilization": 9,
-        "Medicaid_Utilization": 27,
-        "Veterans_Percentage": 10,
-        "Disabled_Percentage": 25,
-        "Children_Percentage": 52,
-        "Federal_Employees": 4169.0
-    },
-    "MN\u20138": {
-        "SNAP_Utilization": 9,
-        "Medicaid_Utilization": 29,
-        "Veterans_Percentage": 18,
-        "Disabled_Percentage": 29,
-        "Children_Percentage": 45,
-        "Federal_Employees": 4357.0
-    },
-    "MS\u20131": {
-        "SNAP_Utilization": 10,
-        "Medicaid_Utilization": 20,
-        "Veterans_Percentage": 16,
-        "Disabled_Percentage": 33,
-        "Children_Percentage": 49,
-        "Federal_Employees": 5398.0
-    },
-    "MS\u20132": {
-        "SNAP_Utilization": 19,
-        "Medicaid_Utilization": 32,
-        "Veterans_Percentage": 19,
-        "Disabled_Percentage": 34,
-        "Children_Percentage": 50,
-        "Federal_Employees": 7105.0
-    },
-    "MS\u20133": {
-        "SNAP_Utilization": 12,
-        "Medicaid_Utilization": 21,
-        "Veterans_Percentage": 14,
-        "Disabled_Percentage": 33,
-        "Children_Percentage": 49,
-        "Federal_Employees": 5656.0
-    },
-    "MS\u20134": {
-        "SNAP_Utilization": 11,
-        "Medicaid_Utilization": 22,
-        "Veterans_Percentage": 13,
-        "Disabled_Percentage": 36,
-        "Children_Percentage": 40,
-        "Federal_Employees": 11748.0
-    },
-    "MO\u20131": {
-        "SNAP_Utilization": 14,
-        "Medicaid_Utilization": 31,
-        "Veterans_Percentage": 13,
-        "Disabled_Percentage": 27,
-        "Children_Percentage": 49,
-        "Federal_Employees": 9218.0
-    },
-    "MO\u20132": {
-        "SNAP_Utilization": 3,
-        "Medicaid_Utilization": 11,
-        "Veterans_Percentage": 18,
-        "Disabled_Percentage": 22,
-        "Children_Percentage": 56,
-        "Federal_Employees": 4092.0
-    },
-    "MO\u20133": {
-        "SNAP_Utilization": 6,
-        "Medicaid_Utilization": 16,
-        "Veterans_Percentage": 13,
-        "Disabled_Percentage": 28,
-        "Children_Percentage": 41,
-        "Federal_Employees": 3747.0
-    },
-    "MO\u20134": {
-        "SNAP_Utilization": 10,
-        "Medicaid_Utilization": 26,
-        "Veterans_Percentage": 13,
-        "Disabled_Percentage": 32,
-        "Children_Percentage": 38,
-        "Federal_Employees": 9130.0
-    },
-    "MO\u20135": {
-        "SNAP_Utilization": 10,
-        "Medicaid_Utilization": 24,
-        "Veterans_Percentage": 17,
-        "Disabled_Percentage": 27,
-        "Children_Percentage": 49,
-        "Federal_Employees": 10963.0
-    },
-    "MO\u20136": {
-        "SNAP_Utilization": 8,
-        "Medicaid_Utilization": 22,
-        "Veterans_Percentage": 10,
-        "Disabled_Percentage": 29,
-        "Children_Percentage": 49,
-        "Federal_Employees": 6257.0
-    },
-    "MO\u20137": {
-        "SNAP_Utilization": 12,
-        "Medicaid_Utilization": 27,
-        "Veterans_Percentage": 10,
-        "Disabled_Percentage": 31,
-        "Children_Percentage": 48,
-        "Federal_Employees": 3151.0
-    },
-    "MO\u20138": {
-        "SNAP_Utilization": 13,
-        "Medicaid_Utilization": 32,
-        "Veterans_Percentage": 18,
-        "Disabled_Percentage": 35,
-        "Children_Percentage": 42,
-        "Federal_Employees": 6027.0
-    },
-    "MT\u20131": {
-        "SNAP_Utilization": 7,
-        "Medicaid_Utilization": 26,
-        "Veterans_Percentage": 19,
-        "Disabled_Percentage": 27,
-        "Children_Percentage": 49,
-        "Federal_Employees": 6845.0
-    },
-    "MT\u20132": {
-        "SNAP_Utilization": 8,
-        "Medicaid_Utilization": 28,
-        "Veterans_Percentage": 24,
-        "Disabled_Percentage": 29,
-        "Children_Percentage": 49,
-        "Federal_Employees": 8430.0
-    },
-    "NE\u20131": {
-        "SNAP_Utilization": 7,
-        "Medicaid_Utilization": 16,
-        "Veterans_Percentage": 17,
-        "Disabled_Percentage": 26,
-        "Children_Percentage": 47,
-        "Federal_Employees": 7437.0
-    },
-    "NE\u20132": {
-        "SNAP_Utilization": 9,
-        "Medicaid_Utilization": 17,
-        "Veterans_Percentage": 20,
-        "Disabled_Percentage": 24,
-        "Children_Percentage": 43,
-        "Federal_Employees": 5914.0
-    },
-    "NE\u20133": {
-        "SNAP_Utilization": 8,
-        "Medicaid_Utilization": 20,
-        "Veterans_Percentage": 15,
-        "Disabled_Percentage": 27,
-        "Children_Percentage": 47,
-        "Federal_Employees": 4041.0
-    },
-    "NV\u20131": {
-        "SNAP_Utilization": 18,
-        "Medicaid_Utilization": 32,
-        "Veterans_Percentage": 15,
-        "Disabled_Percentage": 30,
-        "Children_Percentage": 52,
-        "Federal_Employees": 6141.0
-    },
-    "NV\u20132": {
-        "SNAP_Utilization": 9,
-        "Medicaid_Utilization": 21,
-        "Veterans_Percentage": 17,
-        "Disabled_Percentage": 29,
-        "Children_Percentage": 44,
-        "Federal_Employees": 7224.0
-    },
-    "NV\u20133": {
-        "SNAP_Utilization": 10,
-        "Medicaid_Utilization": 22,
-        "Veterans_Percentage": 13,
-        "Disabled_Percentage": 27,
-        "Children_Percentage": 55,
-        "Federal_Employees": 6353.0
-    },
-    "NV\u20134": {
-        "SNAP_Utilization": 16,
-        "Medicaid_Utilization": 33,
-        "Veterans_Percentage": 14,
-        "Disabled_Percentage": 31,
-        "Children_Percentage": 55,
-        "Federal_Employees": 7904.0
-    },
-    "NH\u20131": {
-        "SNAP_Utilization": 6,
-        "Medicaid_Utilization": 16,
-        "Veterans_Percentage": 16,
-        "Disabled_Percentage": 26,
-        "Children_Percentage": 47,
-        "Federal_Employees": 7468.0
-    },
-    "NH\u20132": {
-        "SNAP_Utilization": 6,
-        "Medicaid_Utilization": 17,
-        "Veterans_Percentage": 19,
-        "Disabled_Percentage": 26,
-        "Children_Percentage": 44,
-        "Federal_Employees": 5521.0
-    },
-    "NJ\u20131": {
-        "SNAP_Utilization": 12,
-        "Medicaid_Utilization": 25,
-        "Veterans_Percentage": 15,
-        "Disabled_Percentage": 29,
-        "Children_Percentage": 52,
-        "Federal_Employees": 7048.0
-    },
-    "NJ\u20132": {
-        "SNAP_Utilization": 12,
-        "Medicaid_Utilization": 26,
-        "Veterans_Percentage": 17,
-        "Disabled_Percentage": 28,
-        "Children_Percentage": 49,
-        "Federal_Employees": 5867.0
-    },
-    "NJ\u20133": {
-        "SNAP_Utilization": 5,
-        "Medicaid_Utilization": 14,
-        "Veterans_Percentage": 14,
-        "Disabled_Percentage": 23,
-        "Children_Percentage": 51,
-        "Federal_Employees": 6819.0
-    },
-    "NJ\u20134": {
-        "SNAP_Utilization": 6,
-        "Medicaid_Utilization": 23,
-        "Veterans_Percentage": 13,
-        "Disabled_Percentage": 25,
-        "Children_Percentage": 62,
-        "Federal_Employees": 3735.0
-    },
-    "NJ\u20135": {
-        "SNAP_Utilization": 4,
-        "Medicaid_Utilization": 12,
-        "Veterans_Percentage": 19,
-        "Disabled_Percentage": 22,
-        "Children_Percentage": 49,
-        "Federal_Employees": 3951.0
-    },
-    "NJ\u20136": {
-        "SNAP_Utilization": 9,
-        "Medicaid_Utilization": 19,
-        "Veterans_Percentage": 11,
-        "Disabled_Percentage": 23,
-        "Children_Percentage": 56,
-        "Federal_Employees": 4457.0
-    },
-    "NJ\u20137": {
-        "SNAP_Utilization": 4,
-        "Medicaid_Utilization": 11,
-        "Veterans_Percentage": 11,
-        "Disabled_Percentage": 20,
-        "Children_Percentage": 56,
-        "Federal_Employees": 4607.0
-    },
-    "NJ\u20138": {
-        "SNAP_Utilization": 15,
-        "Medicaid_Utilization": 31,
-        "Veterans_Percentage": 17,
-        "Disabled_Percentage": 23,
-        "Children_Percentage": 50,
-        "Federal_Employees": 3616.0
-    },
-    "NJ\u20139": {
-        "SNAP_Utilization": 16,
-        "Medicaid_Utilization": 29,
-        "Veterans_Percentage": 26,
-        "Disabled_Percentage": 23,
-        "Children_Percentage": 62,
-        "Federal_Employees": 3091.0
-    },
-    "NJ\u201310": {
-        "SNAP_Utilization": 19,
-        "Medicaid_Utilization": 34,
-        "Veterans_Percentage": 8,
-        "Disabled_Percentage": 25,
-        "Children_Percentage": 57,
-        "Federal_Employees": 4969.0
-    },
-    "NJ\u201311": {
-        "SNAP_Utilization": 4,
-        "Medicaid_Utilization": 11,
-        "Veterans_Percentage": 5,
-        "Disabled_Percentage": 19,
-        "Children_Percentage": 62,
-        "Federal_Employees": 4429.0
-    },
-    "NJ\u201312": {
-        "SNAP_Utilization": 8,
-        "Medicaid_Utilization": 19,
-        "Veterans_Percentage": 5,
-        "Disabled_Percentage": 21,
-        "Children_Percentage": 53,
-        "Federal_Employees": 3330.0
-    },
-    "NM\u20131": {
-        "SNAP_Utilization": 16,
-        "Medicaid_Utilization": 32,
-        "Veterans_Percentage": 15,
-        "Disabled_Percentage": 30,
-        "Children_Percentage": 52,
-        "Federal_Employees": 16163.0
-    },
-    "NM\u20132": {
-        "SNAP_Utilization": 25,
-        "Medicaid_Utilization": 46,
-        "Veterans_Percentage": 20,
-        "Disabled_Percentage": 35,
-        "Children_Percentage": 51,
-        "Federal_Employees": 12849.0
-    },
-    "NM\u20133": {
-        "SNAP_Utilization": 20,
-        "Medicaid_Utilization": 43,
-        "Veterans_Percentage": 15,
-        "Disabled_Percentage": 34,
-        "Children_Percentage": 50,
-        "Federal_Employees": 14979.0
-    },
-    "NY\u20131": {
-        "SNAP_Utilization": 7,
-        "Medicaid_Utilization": 16,
-        "Veterans_Percentage": 17,
-        "Disabled_Percentage": 25,
-        "Children_Percentage": 35,
-        "Federal_Employees": 6746.0
-    },
-    "NY\u20132": {
-        "SNAP_Utilization": 10,
-        "Medicaid_Utilization": 22,
-        "Veterans_Percentage": 22,
-        "Disabled_Percentage": 27,
-        "Children_Percentage": 49,
-        "Federal_Employees": 7035.0
-    },
-    "NY\u20133": {
-        "SNAP_Utilization": 7,
-        "Medicaid_Utilization": 18,
-        "Veterans_Percentage": 15,
-        "Disabled_Percentage": 26,
-        "Children_Percentage": 40,
-        "Federal_Employees": 4416.0
-    },
-    "NY\u20134": {
-        "SNAP_Utilization": 6,
-        "Medicaid_Utilization": 21,
-        "Veterans_Percentage": 16,
-        "Disabled_Percentage": 23,
-        "Children_Percentage": 48,
-        "Federal_Employees": 4713.0
-    },
-    "NY\u20135": {
-        "SNAP_Utilization": 21,
-        "Medicaid_Utilization": 41,
-        "Veterans_Percentage": 22,
-        "Disabled_Percentage": 30,
-        "Children_Percentage": 48,
-        "Federal_Employees": 5325.0
-    },
-    "NY\u20136": {
-        "SNAP_Utilization": 17,
-        "Medicaid_Utilization": 41,
-        "Veterans_Percentage": 11,
-        "Disabled_Percentage": 23,
-        "Children_Percentage": 57,
-        "Federal_Employees": 4708.0
-    },
-    "NY\u20137": {
-        "SNAP_Utilization": 19,
-        "Medicaid_Utilization": 47,
-        "Veterans_Percentage": 10,
-        "Disabled_Percentage": 20,
-        "Children_Percentage": 57,
-        "Federal_Employees": 4851.0
-    },
-    "NY\u20138": {
-        "SNAP_Utilization": 31,
-        "Medicaid_Utilization": 50,
-        "Veterans_Percentage": 18,
-        "Disabled_Percentage": 30,
-        "Children_Percentage": 48,
-        "Federal_Employees": 5519.0
-    },
-    "NY\u20139": {
-        "SNAP_Utilization": 21,
-        "Medicaid_Utilization": 48,
-        "Veterans_Percentage": 25,
-        "Disabled_Percentage": 26,
-        "Children_Percentage": 57,
-        "Federal_Employees": 4206.0
-    },
-    "NY\u201310": {
-        "SNAP_Utilization": 15,
-        "Medicaid_Utilization": 35,
-        "Veterans_Percentage": 8,
-        "Disabled_Percentage": 18,
-        "Children_Percentage": 54,
-        "Federal_Employees": 3055.0
-    },
-    "NY\u201311": {
-        "SNAP_Utilization": 17,
-        "Medicaid_Utilization": 35,
-        "Veterans_Percentage": 6,
-        "Disabled_Percentage": 25,
-        "Children_Percentage": 59,
-        "Federal_Employees": 4671.0
-    },
-    "NY\u201312": {
-        "SNAP_Utilization": 5,
-        "Medicaid_Utilization": 13,
-        "Veterans_Percentage": 4,
-        "Disabled_Percentage": 14,
-        "Children_Percentage": 46,
-        "Federal_Employees": 6105.0
-    },
-    "NY\u201313": {
-        "SNAP_Utilization": 34,
-        "Medicaid_Utilization": 55,
-        "Veterans_Percentage": 6,
-        "Disabled_Percentage": 32,
-        "Children_Percentage": 51,
-        "Federal_Employees": 4492.0
-    },
-    "NY\u201314": {
-        "SNAP_Utilization": 27,
-        "Medicaid_Utilization": 52,
-        "Veterans_Percentage": 5,
-        "Disabled_Percentage": 29,
-        "Children_Percentage": 52,
-        "Federal_Employees": 3588.0
-    },
-    "NY\u201315": {
-        "SNAP_Utilization": 44,
-        "Medicaid_Utilization": 66,
-        "Veterans_Percentage": 5,
-        "Disabled_Percentage": 40,
-        "Children_Percentage": 47,
-        "Federal_Employees": 3193.0
-    },
-    "NY\u201316": {
-        "SNAP_Utilization": 12,
-        "Medicaid_Utilization": 27,
-        "Veterans_Percentage": 5,
-        "Disabled_Percentage": 24,
-        "Children_Percentage": 53,
-        "Federal_Employees": 4176.0
-    },
-    "NY\u201317": {
-        "SNAP_Utilization": 7,
-        "Medicaid_Utilization": 28,
-        "Veterans_Percentage": 5,
-        "Disabled_Percentage": 23,
-        "Children_Percentage": 61,
-        "Federal_Employees": 2640.0
-    },
-    "NY\u201318": {
-        "SNAP_Utilization": 11,
-        "Medicaid_Utilization": 30,
-        "Veterans_Percentage": 5,
-        "Disabled_Percentage": 25,
-        "Children_Percentage": 55,
-        "Federal_Employees": 5676.0
-    },
-    "NY\u201319": {
-        "SNAP_Utilization": 13,
-        "Medicaid_Utilization": 31,
-        "Veterans_Percentage": 8,
-        "Disabled_Percentage": 29,
-        "Children_Percentage": 46,
-        "Federal_Employees": 3642.0
-    },
-    "NY\u201320": {
-        "SNAP_Utilization": 11,
-        "Medicaid_Utilization": 26,
-        "Veterans_Percentage": 12,
-        "Disabled_Percentage": 24,
-        "Children_Percentage": 43,
-        "Federal_Employees": 7515.0
-    },
-    "NY\u201321": {
-        "SNAP_Utilization": 13,
-        "Medicaid_Utilization": 32,
-        "Veterans_Percentage": 5,
-        "Disabled_Percentage": 29,
-        "Children_Percentage": 45,
-        "Federal_Employees": 5668.0
-    },
-    "NY\u201322": {
-        "SNAP_Utilization": 15,
-        "Medicaid_Utilization": 32,
-        "Veterans_Percentage": 5,
-        "Disabled_Percentage": 27,
-        "Children_Percentage": 48,
-        "Federal_Employees": 6638.0
-    },
-    "NY\u201323": {
-        "SNAP_Utilization": 14,
-        "Medicaid_Utilization": 29,
-        "Veterans_Percentage": 12,
-        "Disabled_Percentage": 28,
-        "Children_Percentage": 53,
-        "Federal_Employees": 5765.0
-    },
-    "NY\u201324": {
-        "SNAP_Utilization": 13,
-        "Medicaid_Utilization": 31,
-        "Veterans_Percentage": 9,
-        "Disabled_Percentage": 29,
-        "Children_Percentage": 45,
-        "Federal_Employees": 5400.0
-    },
-    "NY\u201325": {
-        "SNAP_Utilization": 16,
-        "Medicaid_Utilization": 30,
-        "Veterans_Percentage": 9,
-        "Disabled_Percentage": 28,
-        "Children_Percentage": 46,
-        "Federal_Employees": 3047.0
-    },
-    "NY\u201326": {
-        "SNAP_Utilization": 19,
-        "Medicaid_Utilization": 38,
-        "Veterans_Percentage": 8,
-        "Disabled_Percentage": 27,
-        "Children_Percentage": 53,
-        "Federal_Employees": 5891.0
-    },
-    "NC\u20131": {
-        "SNAP_Utilization": 20,
-        "Medicaid_Utilization": 27,
-        "Veterans_Percentage": 15,
-        "Disabled_Percentage": 33,
-        "Children_Percentage": 50,
-        "Federal_Employees": 5377.0
-    },
-    "NC\u20132": {
-        "SNAP_Utilization": 5,
-        "Medicaid_Utilization": 13,
-        "Veterans_Percentage": 17,
-        "Disabled_Percentage": 17,
-        "Children_Percentage": 63,
-        "Federal_Employees": 5954.0
-    },
-    "NC\u20133": {
-        "SNAP_Utilization": 16,
-        "Medicaid_Utilization": 21,
-        "Veterans_Percentage": 13,
-        "Disabled_Percentage": 34,
-        "Children_Percentage": 50,
-        "Federal_Employees": 13983.0
-    },
-    "NC\u20134": {
-        "SNAP_Utilization": 9,
-        "Medicaid_Utilization": 12,
-        "Veterans_Percentage": 12,
-        "Disabled_Percentage": 22,
-        "Children_Percentage": 63,
-        "Federal_Employees": 6135.0
-    },
-    "NC\u20135": {
-        "SNAP_Utilization": 13,
-        "Medicaid_Utilization": 22,
-        "Veterans_Percentage": 18,
-        "Disabled_Percentage": 28,
-        "Children_Percentage": 53,
-        "Federal_Employees": 2255.0
-    },
-    "NC\u20136": {
-        "SNAP_Utilization": 16,
-        "Medicaid_Utilization": 21,
-        "Veterans_Percentage": 10,
-        "Disabled_Percentage": 27,
-        "Children_Percentage": 58,
-        "Federal_Employees": 6847.0
-    },
-    "NC\u20137": {
-        "SNAP_Utilization": 15,
-        "Medicaid_Utilization": 20,
-        "Veterans_Percentage": 10,
-        "Disabled_Percentage": 30,
-        "Children_Percentage": 53,
-        "Federal_Employees": 6812.0
-    },
-    "NC\u20138": {
-        "SNAP_Utilization": 14,
-        "Medicaid_Utilization": 19,
-        "Veterans_Percentage": 19,
-        "Disabled_Percentage": 29,
-        "Children_Percentage": 51,
-        "Federal_Employees": 4400.0
-    },
-    "NC\u20139": {
-        "SNAP_Utilization": 16,
-        "Medicaid_Utilization": 21,
-        "Veterans_Percentage": 24,
-        "Disabled_Percentage": 32,
-        "Children_Percentage": 50,
-        "Federal_Employees": 9936.0
-    },
-    "NC\u201310": {
-        "SNAP_Utilization": 13,
-        "Medicaid_Utilization": 19,
-        "Veterans_Percentage": 8,
-        "Disabled_Percentage": 29,
-        "Children_Percentage": 51,
-        "Federal_Employees": 3647.0
-    },
-    "NC\u201311": {
-        "SNAP_Utilization": 12,
-        "Medicaid_Utilization": 18,
-        "Veterans_Percentage": 5,
-        "Disabled_Percentage": 29,
-        "Children_Percentage": 49,
-        "Federal_Employees": 5321.0
-    },
-    "NC\u201312": {
-        "SNAP_Utilization": 11,
-        "Medicaid_Utilization": 19,
-        "Veterans_Percentage": 5,
-        "Disabled_Percentage": 21,
-        "Children_Percentage": 61,
-        "Federal_Employees": 5729.0
-    },
-    "NC\u201313": {
-        "SNAP_Utilization": 9,
-        "Medicaid_Utilization": 18,
-        "Veterans_Percentage": 6,
-        "Disabled_Percentage": 25,
-        "Children_Percentage": 62,
-        "Federal_Employees": 3943.0
-    },
-    "NC\u201314": {
-        "SNAP_Utilization": 9,
-        "Medicaid_Utilization": 18,
-        "Veterans_Percentage": 4,
-        "Disabled_Percentage": 19,
-        "Children_Percentage": 65,
-        "Federal_Employees": 4114.0
-    },
-    "ND\u20131": {
-        "SNAP_Utilization": 7,
-        "Medicaid_Utilization": 17,
-        "Veterans_Percentage": 14,
-        "Disabled_Percentage": 24,
-        "Children_Percentage": 49,
-        "Federal_Employees": 9106.0
-    },
-    "OH\u20131": {
-        "SNAP_Utilization": 12,
-        "Medicaid_Utilization": 22,
-        "Veterans_Percentage": 14,
-        "Disabled_Percentage": 23,
-        "Children_Percentage": 52,
-        "Federal_Employees": 6491.0
-    },
-    "OH\u20132": {
-        "SNAP_Utilization": 14,
-        "Medicaid_Utilization": 32,
-        "Veterans_Percentage": 17,
-        "Disabled_Percentage": 33,
-        "Children_Percentage": 44,
-        "Federal_Employees": 4902.0
-    },
-    "OH\u20133": {
-        "SNAP_Utilization": 10,
-        "Medicaid_Utilization": 28,
-        "Veterans_Percentage": 12,
-        "Disabled_Percentage": 23,
-        "Children_Percentage": 55,
-        "Federal_Employees": 5084.0
-    },
-    "OH\u20134": {
-        "SNAP_Utilization": 11,
-        "Medicaid_Utilization": 22,
-        "Veterans_Percentage": 12,
-        "Disabled_Percentage": 29,
-        "Children_Percentage": 42,
-        "Federal_Employees": 2572.0
-    },
-    "OH\u20135": {
-        "SNAP_Utilization": 10,
-        "Medicaid_Utilization": 24,
-        "Veterans_Percentage": 17,
-        "Disabled_Percentage": 27,
-        "Children_Percentage": 48,
-        "Federal_Employees": 4712.0
-    },
-    "OH\u20136": {
-        "SNAP_Utilization": 16,
-        "Medicaid_Utilization": 30,
-        "Veterans_Percentage": 9,
-        "Disabled_Percentage": 32,
-        "Children_Percentage": 45,
-        "Federal_Employees": 3814.0
-    },
-    "OH\u20137": {
-        "SNAP_Utilization": 7,
-        "Medicaid_Utilization": 16,
-        "Veterans_Percentage": 10,
-        "Disabled_Percentage": 26,
-        "Children_Percentage": 48,
-        "Federal_Employees": 4700.0
-    },
-    "OH\u20138": {
-        "SNAP_Utilization": 10,
-        "Medicaid_Utilization": 24,
-        "Veterans_Percentage": 18,
-        "Disabled_Percentage": 28,
-        "Children_Percentage": 45,
-        "Federal_Employees": 7489.0
-    },
-    "OH\u20139": {
-        "SNAP_Utilization": 13,
-        "Medicaid_Utilization": 28,
-        "Veterans_Percentage": 21,
-        "Disabled_Percentage": 30,
-        "Children_Percentage": 48,
-        "Federal_Employees": 2854.0
-    },
-    "OH\u201310": {
-        "SNAP_Utilization": 13,
-        "Medicaid_Utilization": 29,
-        "Veterans_Percentage": 7,
-        "Disabled_Percentage": 29,
-        "Children_Percentage": 50,
-        "Federal_Employees": 15185.0
-    },
-    "OH\u201311": {
-        "SNAP_Utilization": 21,
-        "Medicaid_Utilization": 43,
-        "Veterans_Percentage": 4,
-        "Disabled_Percentage": 29,
-        "Children_Percentage": 48,
-        "Federal_Employees": 6623.0
-    },
-    "OH\u201312": {
-        "SNAP_Utilization": 13,
-        "Medicaid_Utilization": 25,
-        "Veterans_Percentage": 5,
-        "Disabled_Percentage": 30,
-        "Children_Percentage": 40,
-        "Federal_Employees": 4169.0
-    },
-    "OH\u201313": {
-        "SNAP_Utilization": 14,
-        "Medicaid_Utilization": 27,
-        "Veterans_Percentage": 5,
-        "Disabled_Percentage": 27,
-        "Children_Percentage": 52,
-        "Federal_Employees": 3959.0
-    },
-    "OH\u201314": {
-        "SNAP_Utilization": 11,
-        "Medicaid_Utilization": 24,
-        "Veterans_Percentage": 4,
-        "Disabled_Percentage": 29,
-        "Children_Percentage": 48,
-        "Federal_Employees": 3819.0
-    },
-    "OH\u201315": {
-        "SNAP_Utilization": 12,
-        "Medicaid_Utilization": 26,
-        "Veterans_Percentage": 5,
-        "Disabled_Percentage": 26,
-        "Children_Percentage": 54,
-        "Federal_Employees": 4279.0
-    },
-    "OK\u20131": {
-        "SNAP_Utilization": 13,
-        "Medicaid_Utilization": 27,
-        "Veterans_Percentage": 14,
-        "Disabled_Percentage": 30,
-        "Children_Percentage": 49,
-        "Federal_Employees": 5994.0
-    },
-    "OK\u20132": {
-        "SNAP_Utilization": 19,
-        "Medicaid_Utilization": 36,
-        "Veterans_Percentage": 17,
-        "Disabled_Percentage": 40,
-        "Children_Percentage": 45,
-        "Federal_Employees": 11637.0
-    },
-    "OK\u20133": {
-        "SNAP_Utilization": 17,
-        "Medicaid_Utilization": 33,
-        "Veterans_Percentage": 14,
-        "Disabled_Percentage": 35,
-        "Children_Percentage": 49,
-        "Federal_Employees": 9551.0
-    },
-    "OK\u20134": {
-        "SNAP_Utilization": 15,
-        "Medicaid_Utilization": 27,
-        "Veterans_Percentage": 12,
-        "Disabled_Percentage": 34,
-        "Children_Percentage": 49,
-        "Federal_Employees": 19333.0
-    },
-    "OK\u20135": {
-        "SNAP_Utilization": 12,
-        "Medicaid_Utilization": 25,
-        "Veterans_Percentage": 17,
-        "Disabled_Percentage": 31,
-        "Children_Percentage": 49,
-        "Federal_Employees": 13306.0
-    },
-    "OR\u20131": {
-        "SNAP_Utilization": 13,
-        "Medicaid_Utilization": 21,
-        "Veterans_Percentage": 15,
-        "Disabled_Percentage": 24,
-        "Children_Percentage": 46,
-        "Federal_Employees": 2675.0
-    },
-    "OR\u20132": {
-        "SNAP_Utilization": 22,
-        "Medicaid_Utilization": 36,
-        "Veterans_Percentage": 19,
-        "Disabled_Percentage": 34,
-        "Children_Percentage": 49,
-        "Federal_Employees": 5410.0
-    },
-    "OR\u20133": {
-        "SNAP_Utilization": 17,
-        "Medicaid_Utilization": 28,
-        "Veterans_Percentage": 15,
-        "Disabled_Percentage": 26,
-        "Children_Percentage": 50,
-        "Federal_Employees": 4656.0
-    },
-    "OR\u20134": {
-        "SNAP_Utilization": 20,
-        "Medicaid_Utilization": 32,
-        "Veterans_Percentage": 13,
-        "Disabled_Percentage": 32,
-        "Children_Percentage": 51,
-        "Federal_Employees": 5591.0
-    },
-    "OR\u20135": {
-        "SNAP_Utilization": 12,
-        "Medicaid_Utilization": 24,
-        "Veterans_Percentage": 19,
-        "Disabled_Percentage": 28,
-        "Children_Percentage": 48,
-        "Federal_Employees": 3460.0
-    },
-    "OR\u20136": {
-        "SNAP_Utilization": 17,
-        "Medicaid_Utilization": 28,
-        "Veterans_Percentage": 11,
-        "Disabled_Percentage": 30,
-        "Children_Percentage": 50,
-        "Federal_Employees": 3392.0
-    },
-    "PA\u20131": {
-        "SNAP_Utilization": 8,
-        "Medicaid_Utilization": 16,
-        "Veterans_Percentage": 16,
-        "Disabled_Percentage": 25,
-        "Children_Percentage": 46,
-        "Federal_Employees": 3568.0
-    },
-    "PA\u20132": {
-        "SNAP_Utilization": 32,
-        "Medicaid_Utilization": 50,
-        "Veterans_Percentage": 19,
-        "Disabled_Percentage": 37,
-        "Children_Percentage": 41,
-        "Federal_Employees": 6154.0
-    },
-    "PA\u20133": {
-        "SNAP_Utilization": 22,
-        "Medicaid_Utilization": 40,
-        "Veterans_Percentage": 11,
-        "Disabled_Percentage": 29,
-        "Children_Percentage": 48,
-        "Federal_Employees": 7148.0
-    },
-    "PA\u20134": {
-        "SNAP_Utilization": 8,
-        "Medicaid_Utilization": 15,
-        "Veterans_Percentage": 13,
-        "Disabled_Percentage": 23,
-        "Children_Percentage": 54,
-        "Federal_Employees": 4167.0
-    },
-    "PA\u20135": {
-        "SNAP_Utilization": 13,
-        "Medicaid_Utilization": 27,
-        "Veterans_Percentage": 19,
-        "Disabled_Percentage": 27,
-        "Children_Percentage": 49,
-        "Federal_Employees": 5602.0
-    },
-    "PA\u20136": {
-        "SNAP_Utilization": 10,
-        "Medicaid_Utilization": 21,
-        "Veterans_Percentage": 11,
-        "Disabled_Percentage": 23,
-        "Children_Percentage": 50,
-        "Federal_Employees": 4204.0
-    },
-    "PA\u20137": {
-        "SNAP_Utilization": 13,
-        "Medicaid_Utilization": 26,
-        "Veterans_Percentage": 10,
-        "Disabled_Percentage": 28,
-        "Children_Percentage": 51,
-        "Federal_Employees": 2981.0
-    },
-    "PA\u20138": {
-        "SNAP_Utilization": 19,
-        "Medicaid_Utilization": 31,
-        "Veterans_Percentage": 18,
-        "Disabled_Percentage": 33,
-        "Children_Percentage": 49,
-        "Federal_Employees": 7006.0
-    },
-    "PA\u20139": {
-        "SNAP_Utilization": 14,
-        "Medicaid_Utilization": 26,
-        "Veterans_Percentage": 23,
-        "Disabled_Percentage": 30,
-        "Children_Percentage": 48,
-        "Federal_Employees": 5006.0
-    },
-    "PA\u201310": {
-        "SNAP_Utilization": 12,
-        "Medicaid_Utilization": 24,
-        "Veterans_Percentage": 8,
-        "Disabled_Percentage": 28,
-        "Children_Percentage": 48,
-        "Federal_Employees": 8892.0
-    },
-    "PA\u201311": {
-        "SNAP_Utilization": 11,
-        "Medicaid_Utilization": 20,
-        "Veterans_Percentage": 5,
-        "Disabled_Percentage": 28,
-        "Children_Percentage": 48,
-        "Federal_Employees": 3864.0
-    },
-    "PA\u201312": {
-        "SNAP_Utilization": 14,
-        "Medicaid_Utilization": 26,
-        "Veterans_Percentage": 4,
-        "Disabled_Percentage": 25,
-        "Children_Percentage": 50,
-        "Federal_Employees": 5748.0
-    },
-    "PA\u201313": {
-        "SNAP_Utilization": 15,
-        "Medicaid_Utilization": 27,
-        "Veterans_Percentage": 6,
-        "Disabled_Percentage": 30,
-        "Children_Percentage": 48,
-        "Federal_Employees": 6971.0
-    },
-    "PA\u201314": {
-        "SNAP_Utilization": 18,
-        "Medicaid_Utilization": 27,
-        "Veterans_Percentage": 5,
-        "Disabled_Percentage": 31,
-        "Children_Percentage": 49,
-        "Federal_Employees": 3832.0
-    },
-    "PA\u201315": {
-        "SNAP_Utilization": 15,
-        "Medicaid_Utilization": 26,
-        "Veterans_Percentage": 5,
-        "Disabled_Percentage": 30,
-        "Children_Percentage": 45,
-        "Federal_Employees": 4340.0
-    },
-    "PA\u201316": {
-        "SNAP_Utilization": 17,
-        "Medicaid_Utilization": 29,
-        "Veterans_Percentage": 4,
-        "Disabled_Percentage": 30,
-        "Children_Percentage": 48,
-        "Federal_Employees": 4680.0
-    },
-    "PA\u201317": {
-        "SNAP_Utilization": 11,
-        "Medicaid_Utilization": 19,
-        "Veterans_Percentage": 4,
-        "Disabled_Percentage": 24,
-        "Children_Percentage": 49,
-        "Federal_Employees": 5887.0
-    },
-    "PR-1": {
-        "SNAP_Utilization": 15,
-        "Medicaid_Utilization": 33,
-        "Veterans_Percentage": 21,
-        "Disabled_Percentage": 0,
-        "Children_Percentage": 52,
-        "Federal_Employees": 15751.0
-    },
-    "RI\u20131": {
-        "SNAP_Utilization": 11,
-        "Medicaid_Utilization": 27,
-        "Veterans_Percentage": 21,
-        "Disabled_Percentage": 28,
-        "Children_Percentage": 48,
-        "Federal_Employees": 5968.0
-    },
-    "RI\u20132": {
-        "SNAP_Utilization": 6,
-        "Medicaid_Utilization": 17,
-        "Veterans_Percentage": 17,
-        "Disabled_Percentage": 19,
-        "Children_Percentage": 48,
-        "Federal_Employees": 5912.0
-    },
-    "SC\u20131": {
-        "SNAP_Utilization": 10,
-        "Medicaid_Utilization": 22,
-        "Veterans_Percentage": 15,
-        "Disabled_Percentage": 29,
-        "Children_Percentage": 47,
-        "Federal_Employees": 10523.0
-    },
-    "SC\u20132": {
-        "SNAP_Utilization": 11,
-        "Medicaid_Utilization": 24,
-        "Veterans_Percentage": 18,
-        "Disabled_Percentage": 29,
-        "Children_Percentage": 52,
-        "Federal_Employees": 11541.0
-    },
-    "SC\u20133": {
-        "SNAP_Utilization": 9,
-        "Medicaid_Utilization": 21,
-        "Veterans_Percentage": 13,
-        "Disabled_Percentage": 30,
-        "Children_Percentage": 49,
-        "Federal_Employees": 3736.0
-    },
-    "SC\u20134": {
-        "SNAP_Utilization": 11,
-        "Medicaid_Utilization": 23,
-        "Veterans_Percentage": 13,
-        "Disabled_Percentage": 28,
-        "Children_Percentage": 54,
-        "Federal_Employees": 3698.0
-    },
-    "SC\u20135": {
-        "SNAP_Utilization": 16,
-        "Medicaid_Utilization": 29,
-        "Veterans_Percentage": 18,
-        "Disabled_Percentage": 27,
-        "Children_Percentage": 52,
-        "Federal_Employees": 4290.0
-    },
-    "SC\u20136": {
-        "SNAP_Utilization": 13,
-        "Medicaid_Utilization": 28,
-        "Veterans_Percentage": 9,
-        "Disabled_Percentage": 27,
-        "Children_Percentage": 53,
-        "Federal_Employees": 6223.0
-    },
-    "SC\u20137": {
-        "SNAP_Utilization": 8,
-        "Medicaid_Utilization": 14,
-        "Veterans_Percentage": 8,
-        "Disabled_Percentage": 28,
-        "Children_Percentage": 46,
-        "Federal_Employees": 2917.0
-    },
-    "SD\u20131": {
-        "SNAP_Utilization": 11,
-        "Medicaid_Utilization": 27,
-        "Veterans_Percentage": 14,
-        "Disabled_Percentage": 29,
-        "Children_Percentage": 40,
-        "Federal_Employees": 10401.0
-    },
-    "TN\u20131": {
-        "SNAP_Utilization": 8,
-        "Medicaid_Utilization": 20,
-        "Veterans_Percentage": 14,
-        "Disabled_Percentage": 36,
-        "Children_Percentage": 50,
-        "Federal_Employees": 6517.0
-    },
-    "TN\u20132": {
-        "SNAP_Utilization": 10,
-        "Medicaid_Utilization": 24,
-        "Veterans_Percentage": 17,
-        "Disabled_Percentage": 26,
-        "Children_Percentage": 53,
-        "Federal_Employees": 7253.0
-    },
-    "TN\u20133": {
-        "SNAP_Utilization": 10,
-        "Medicaid_Utilization": 23,
-        "Veterans_Percentage": 14,
-        "Disabled_Percentage": 31,
-        "Children_Percentage": 51,
-        "Federal_Employees": 9763.0
-    },
-    "TN\u20134": {
-        "SNAP_Utilization": 4,
-        "Medicaid_Utilization": 16,
-        "Veterans_Percentage": 12,
-        "Disabled_Percentage": 28,
-        "Children_Percentage": 53,
-        "Federal_Employees": 8233.0
-    },
-    "TN\u20135": {
-        "SNAP_Utilization": 9,
-        "Medicaid_Utilization": 24,
-        "Veterans_Percentage": 17,
-        "Disabled_Percentage": 21,
-        "Children_Percentage": 58,
-        "Federal_Employees": 5257.0
-    },
-    "TN\u20136": {
-        "SNAP_Utilization": 8,
-        "Medicaid_Utilization": 21,
-        "Veterans_Percentage": 9,
-        "Disabled_Percentage": 26,
-        "Children_Percentage": 46,
-        "Federal_Employees": 5608.0
-    },
-    "TN\u20137": {
-        "SNAP_Utilization": 12,
-        "Medicaid_Utilization": 24,
-        "Veterans_Percentage": 10,
-        "Disabled_Percentage": 29,
-        "Children_Percentage": 55,
-        "Federal_Employees": 9394.0
-    },
-    "TN\u20138": {
-        "SNAP_Utilization": 18,
-        "Medicaid_Utilization": 32,
-        "Veterans_Percentage": 18,
-        "Disabled_Percentage": 31,
-        "Children_Percentage": 63,
-        "Federal_Employees": 4941.0
-    },
-    "TN\u20139": {
-        "SNAP_Utilization": 13,
-        "Medicaid_Utilization": 22,
-        "Veterans_Percentage": 24,
-        "Disabled_Percentage": 27,
-        "Children_Percentage": 51,
-        "Federal_Employees": 9323.0
-    },
-    "TX\u20131": {
-        "SNAP_Utilization": 7,
-        "Medicaid_Utilization": 14,
-        "Veterans_Percentage": 15,
-        "Disabled_Percentage": 32,
-        "Children_Percentage": 66,
-        "Federal_Employees": 6775.0
-    },
-    "TX\u20132": {
-        "SNAP_Utilization": 4,
-        "Medicaid_Utilization": 9,
-        "Veterans_Percentage": 18,
-        "Disabled_Percentage": 26,
-        "Children_Percentage": 50,
-        "Federal_Employees": 5185.0
-    },
-    "TX\u20133": {
-        "SNAP_Utilization": 5,
-        "Medicaid_Utilization": 12,
-        "Veterans_Percentage": 13,
-        "Disabled_Percentage": 20,
-        "Children_Percentage": 50,
-        "Federal_Employees": 5178.0
-    },
-    "TX\u20134": {
-        "SNAP_Utilization": 11,
-        "Medicaid_Utilization": 20,
-        "Veterans_Percentage": 14,
-        "Disabled_Percentage": 26,
-        "Children_Percentage": 53,
-        "Federal_Employees": 4134.0
-    },
-    "TX\u20135": {
-        "SNAP_Utilization": 9,
-        "Medicaid_Utilization": 19,
-        "Veterans_Percentage": 20,
-        "Disabled_Percentage": 28,
-        "Children_Percentage": 53,
-        "Federal_Employees": 4202.0
-    },
-    "TX\u20136": {
-        "SNAP_Utilization": 11,
-        "Medicaid_Utilization": 17,
-        "Veterans_Percentage": 9,
-        "Disabled_Percentage": 23,
-        "Children_Percentage": 63,
-        "Federal_Employees": 4999.0
-    },
-    "TX\u20137": {
-        "SNAP_Utilization": 9,
-        "Medicaid_Utilization": 16,
-        "Veterans_Percentage": 11,
-        "Disabled_Percentage": 23,
-        "Children_Percentage": 61,
-        "Federal_Employees": 3301.0
-    },
-    "TX\u20138": {
-        "SNAP_Utilization": 16,
-        "Medicaid_Utilization": 25,
-        "Veterans_Percentage": 19,
-        "Disabled_Percentage": 27,
-        "Children_Percentage": 49,
-        "Federal_Employees": 3394.0
-    },
-    "TX\u20139": {
-        "SNAP_Utilization": 8,
-        "Medicaid_Utilization": 14,
-        "Veterans_Percentage": 23,
-        "Disabled_Percentage": 26,
-        "Children_Percentage": 59,
-        "Federal_Employees": 5132.0
-    },
-    "TX\u201310": {
-        "SNAP_Utilization": 10,
-        "Medicaid_Utilization": 18,
-        "Veterans_Percentage": 8,
-        "Disabled_Percentage": 24,
-        "Children_Percentage": 58,
-        "Federal_Employees": 4933.0
-    },
-    "TX\u201311": {
-        "SNAP_Utilization": 9,
-        "Medicaid_Utilization": 15,
-        "Veterans_Percentage": 5,
-        "Disabled_Percentage": 30,
-        "Children_Percentage": 54,
-        "Federal_Employees": 10174.0
-    },
-    "TX\u201312": {
-        "SNAP_Utilization": 10,
-        "Medicaid_Utilization": 18,
-        "Veterans_Percentage": 5,
-        "Disabled_Percentage": 27,
-        "Children_Percentage": 53,
-        "Federal_Employees": 8964.0
-    },
-    "TX\u201313": {
-        "SNAP_Utilization": 12,
-        "Medicaid_Utilization": 18,
-        "Veterans_Percentage": 6,
-        "Disabled_Percentage": 29,
-        "Children_Percentage": 52,
-        "Federal_Employees": 9667.0
-    },
-    "TX\u201314": {
-        "SNAP_Utilization": 22,
-        "Medicaid_Utilization": 30,
-        "Veterans_Percentage": 6,
-        "Disabled_Percentage": 33,
-        "Children_Percentage": 53,
-        "Federal_Employees": 4939.0
-    },
-    "TX\u201315": {
-        "SNAP_Utilization": 19,
-        "Medicaid_Utilization": 26,
-        "Veterans_Percentage": 5,
-        "Disabled_Percentage": 31,
-        "Children_Percentage": 59,
-        "Federal_Employees": 5854.0
-    },
-    "TX\u201316": {
-        "SNAP_Utilization": 13,
-        "Medicaid_Utilization": 20,
-        "Veterans_Percentage": 5,
-        "Disabled_Percentage": 27,
-        "Children_Percentage": 54,
-        "Federal_Employees": 13932.0
-    },
-    "TX\u201317": {
-        "SNAP_Utilization": 19,
-        "Medicaid_Utilization": 27,
-        "Veterans_Percentage": 5,
-        "Disabled_Percentage": 32,
-        "Children_Percentage": 59,
-        "Federal_Employees": 4528.0
-    },
-    "TX\u201318": {
-        "SNAP_Utilization": 12,
-        "Medicaid_Utilization": 20,
-        "Veterans_Percentage": 5,
-        "Disabled_Percentage": 25,
-        "Children_Percentage": 53,
-        "Federal_Employees": 7081.0
-    },
-    "TX\u201319": {
-        "SNAP_Utilization": 16,
-        "Medicaid_Utilization": 25,
-        "Veterans_Percentage": 9,
-        "Disabled_Percentage": 30,
-        "Children_Percentage": 47,
-        "Federal_Employees": 5367.0
-    },
-    "TX\u201320": {
-        "SNAP_Utilization": 4,
-        "Medicaid_Utilization": 11,
-        "Veterans_Percentage": 12,
-        "Disabled_Percentage": 28,
-        "Children_Percentage": 46,
-        "Federal_Employees": 9713.0
-    },
-    "TX\u201321": {
-        "SNAP_Utilization": 8,
-        "Medicaid_Utilization": 12,
-        "Veterans_Percentage": 6,
-        "Disabled_Percentage": 32,
-        "Children_Percentage": 60,
-        "Federal_Employees": 9418.0
-    },
-    "TX\u201322": {
-        "SNAP_Utilization": 13,
-        "Medicaid_Utilization": 21,
-        "Veterans_Percentage": 6,
-        "Disabled_Percentage": 24,
-        "Children_Percentage": 52,
-        "Federal_Employees": 4297.0
-    },
-    "TX\u201323": {
-        "SNAP_Utilization": 4,
-        "Medicaid_Utilization": 9,
-        "Veterans_Percentage": 13,
-        "Disabled_Percentage": 28,
-        "Children_Percentage": 64,
-        "Federal_Employees": 15378.0
-    },
-    "TX\u201324": {
-        "SNAP_Utilization": 8,
-        "Medicaid_Utilization": 16,
-        "Veterans_Percentage": 10,
-        "Disabled_Percentage": 20,
-        "Children_Percentage": 60,
-        "Federal_Employees": 4457.0
-    },
-    "TX\u201325": {
-        "SNAP_Utilization": 4,
-        "Medicaid_Utilization": 9,
-        "Veterans_Percentage": 10,
-        "Disabled_Percentage": 26,
-        "Children_Percentage": 44,
-        "Federal_Employees": 8245.0
-    },
-    "TX\u201326": {
-        "SNAP_Utilization": 14,
-        "Medicaid_Utilization": 22,
-        "Veterans_Percentage": 9,
-        "Disabled_Percentage": 24,
-        "Children_Percentage": 51,
-        "Federal_Employees": 4822.0
-    },
-    "TX\u201327": {
-        "SNAP_Utilization": 21,
-        "Medicaid_Utilization": 28,
-        "Veterans_Percentage": 10,
-        "Disabled_Percentage": 35,
-        "Children_Percentage": 47,
-        "Federal_Employees": 7935.0
-    },
-    "TX\u201328": {
-        "SNAP_Utilization": 22,
-        "Medicaid_Utilization": 31,
-        "Veterans_Percentage": 7,
-        "Disabled_Percentage": 39,
-        "Children_Percentage": 58,
-        "Federal_Employees": 10396.0
-    },
-    "TX\u201329": {
-        "SNAP_Utilization": 13,
-        "Medicaid_Utilization": 25,
-        "Veterans_Percentage": 3,
-        "Disabled_Percentage": 23,
-        "Children_Percentage": 48,
-        "Federal_Employees": 3146.0
-    },
-    "TX\u201330": {
-        "SNAP_Utilization": 7,
-        "Medicaid_Utilization": 14,
-        "Veterans_Percentage": 4,
-        "Disabled_Percentage": 25,
-        "Children_Percentage": 53,
-        "Federal_Employees": 7469.0
-    },
-    "TX\u201331": {
-        "SNAP_Utilization": 9,
-        "Medicaid_Utilization": 19,
-        "Veterans_Percentage": 5,
-        "Disabled_Percentage": 26,
-        "Children_Percentage": 62,
-        "Federal_Employees": 8276.0
-    },
-    "TX\u201332": {
-        "SNAP_Utilization": 14,
-        "Medicaid_Utilization": 25,
-        "Veterans_Percentage": 6,
-        "Disabled_Percentage": 24,
-        "Children_Percentage": 52,
-        "Federal_Employees": 4529.0
-    },
-    "TX\u201333": {
-        "SNAP_Utilization": 26,
-        "Medicaid_Utilization": 34,
-        "Veterans_Percentage": 8,
-        "Disabled_Percentage": 26,
-        "Children_Percentage": 57,
-        "Federal_Employees": 3818.0
-    },
-    "TX\u201334": {
-        "SNAP_Utilization": 13,
-        "Medicaid_Utilization": 23,
-        "Veterans_Percentage": 3,
-        "Disabled_Percentage": 24,
-        "Children_Percentage": 48,
-        "Federal_Employees": 6974.0
-    },
-    "TX\u201335": {
-        "SNAP_Utilization": 13,
-        "Medicaid_Utilization": 19,
-        "Veterans_Percentage": 6,
-        "Disabled_Percentage": 30,
-        "Children_Percentage": 59,
-        "Federal_Employees": 8515.0
-    },
-    "TX\u201336": {
-        "SNAP_Utilization": 5,
-        "Medicaid_Utilization": 11,
-        "Veterans_Percentage": 5,
-        "Disabled_Percentage": 22,
-        "Children_Percentage": 65,
-        "Federal_Employees": 4440.0
-    },
-    "TX\u201337": {
-        "SNAP_Utilization": 5,
-        "Medicaid_Utilization": 12,
-        "Veterans_Percentage": 3,
-        "Disabled_Percentage": 23,
-        "Children_Percentage": 66,
-        "Federal_Employees": 5108.0
-    },
-    "TX\u201338": {
-        "SNAP_Utilization": 5,
-        "Medicaid_Utilization": 14,
-        "Veterans_Percentage": 6,
-        "Disabled_Percentage": 21,
-        "Children_Percentage": 47,
-        "Federal_Employees": 3063.0
-    },
-    "UT\u20131": {
-        "SNAP_Utilization": 6,
-        "Medicaid_Utilization": 16,
-        "Veterans_Percentage": 15,
-        "Disabled_Percentage": 24,
-        "Children_Percentage": 37,
-        "Federal_Employees": 18216.0
-    },
-    "UT\u20132": {
-        "SNAP_Utilization": 5,
-        "Medicaid_Utilization": 13,
-        "Veterans_Percentage": 19,
-        "Disabled_Percentage": 29,
-        "Children_Percentage": 46,
-        "Federal_Employees": 8076.0
-    },
-    "UT\u20133": {
-        "SNAP_Utilization": 5,
-        "Medicaid_Utilization": 12,
-        "Veterans_Percentage": 15,
-        "Disabled_Percentage": 25,
-        "Children_Percentage": 48,
-        "Federal_Employees": 4411.0
-    },
-    "UT\u20134": {
-        "SNAP_Utilization": 10,
-        "Medicaid_Utilization": 29,
-        "Veterans_Percentage": 14,
-        "Disabled_Percentage": 24,
-        "Children_Percentage": 43,
-        "Federal_Employees": 4307.0
-    },
-    "VT\u20131": {
-        "SNAP_Utilization": 6,
-        "Medicaid_Utilization": 15,
-        "Veterans_Percentage": 14,
-        "Disabled_Percentage": 22,
-        "Children_Percentage": 58,
-        "Federal_Employees": 5499.0
-    },
-    "VA\u20131": {
-        "SNAP_Utilization": 8,
-        "Medicaid_Utilization": 18,
-        "Veterans_Percentage": 15,
-        "Disabled_Percentage": 25,
-        "Children_Percentage": 54,
-        "Federal_Employees": 13068.0
-    },
-    "VA\u20132": {
-        "SNAP_Utilization": 17,
-        "Medicaid_Utilization": 33,
-        "Veterans_Percentage": 17,
-        "Disabled_Percentage": 24,
-        "Children_Percentage": 55,
-        "Federal_Employees": 21064.0
-    },
-    "VA\u20133": {
-        "SNAP_Utilization": 14,
-        "Medicaid_Utilization": 32,
-        "Veterans_Percentage": 13,
-        "Disabled_Percentage": 29,
-        "Children_Percentage": 56,
-        "Federal_Employees": 20411.0
-    },
-    "VA\u20134": {
-        "SNAP_Utilization": 13,
-        "Medicaid_Utilization": 26,
-        "Veterans_Percentage": 12,
-        "Disabled_Percentage": 26,
-        "Children_Percentage": 44,
-        "Federal_Employees": 12946.0
-    },
-    "VA\u20135": {
-        "SNAP_Utilization": 10,
-        "Medicaid_Utilization": 25,
-        "Veterans_Percentage": 18,
-        "Disabled_Percentage": 29,
-        "Children_Percentage": 52,
-        "Federal_Employees": 7427.0
-    },
-    "VA\u20136": {
-        "SNAP_Utilization": 9,
-        "Medicaid_Utilization": 20,
-        "Veterans_Percentage": 11,
-        "Disabled_Percentage": 33,
-        "Children_Percentage": 47,
-        "Federal_Employees": 7474.0
-    },
-    "VA\u20137": {
-        "SNAP_Utilization": 6,
-        "Medicaid_Utilization": 14,
-        "Veterans_Percentage": 10,
-        "Disabled_Percentage": 22,
-        "Children_Percentage": 60,
-        "Federal_Employees": 38205.0
-    },
-    "VA\u20138": {
-        "SNAP_Utilization": 18,
-        "Medicaid_Utilization": 30,
-        "Veterans_Percentage": 17,
-        "Disabled_Percentage": 16,
-        "Children_Percentage": 43,
-        "Federal_Employees": 49836.0
-    },
-    "VA\u20139": {
-        "SNAP_Utilization": 4,
-        "Medicaid_Utilization": 12,
-        "Veterans_Percentage": 26,
-        "Disabled_Percentage": 44,
-        "Children_Percentage": 66,
-        "Federal_Employees": 4737.0
-    },
-    "VA\u201310": {
-        "SNAP_Utilization": 3,
-        "Medicaid_Utilization": 10,
-        "Veterans_Percentage": 9,
-        "Disabled_Percentage": 18,
-        "Children_Percentage": 58,
-        "Federal_Employees": 23437.0
-    },
-    "VA\u201311": {
-        "SNAP_Utilization": 6,
-        "Medicaid_Utilization": 16,
-        "Veterans_Percentage": 5,
-        "Disabled_Percentage": 16,
-        "Children_Percentage": 50,
-        "Federal_Employees": 35637.0
-    },
-    "WA\u20131": {
-        "SNAP_Utilization": 12,
-        "Medicaid_Utilization": 27,
-        "Veterans_Percentage": 14,
-        "Disabled_Percentage": 20,
-        "Children_Percentage": 48,
-        "Federal_Employees": 3444.0
-    },
-    "WA\u20132": {
-        "SNAP_Utilization": 14,
-        "Medicaid_Utilization": 30,
-        "Veterans_Percentage": 18,
-        "Disabled_Percentage": 29,
-        "Children_Percentage": 42,
-        "Federal_Employees": 5487.0
-    },
-    "WA\u20133": {
-        "SNAP_Utilization": 18,
-        "Medicaid_Utilization": 42,
-        "Veterans_Percentage": 15,
-        "Disabled_Percentage": 36,
-        "Children_Percentage": 52,
-        "Federal_Employees": 6931.0
-    },
-    "WA\u20134": {
-        "SNAP_Utilization": 16,
-        "Medicaid_Utilization": 35,
-        "Veterans_Percentage": 13,
-        "Disabled_Percentage": 27,
-        "Children_Percentage": 46,
-        "Federal_Employees": 9551.0
-    },
-    "WA\u20135": {
-        "SNAP_Utilization": 13,
-        "Medicaid_Utilization": 28,
-        "Veterans_Percentage": 17,
-        "Disabled_Percentage": 31,
-        "Children_Percentage": 47,
-        "Federal_Employees": 8332.0
-    },
-    "WA\u20136": {
-        "SNAP_Utilization": 6,
-        "Medicaid_Utilization": 17,
-        "Veterans_Percentage": 8,
-        "Disabled_Percentage": 27,
-        "Children_Percentage": 51,
-        "Federal_Employees": 18570.0
-    },
-    "WA\u20137": {
-        "SNAP_Utilization": 8,
-        "Medicaid_Utilization": 19,
-        "Veterans_Percentage": 11,
-        "Disabled_Percentage": 23,
-        "Children_Percentage": 50,
-        "Federal_Employees": 4033.0
-    },
-    "WA\u20138": {
-        "SNAP_Utilization": 14,
-        "Medicaid_Utilization": 31,
-        "Veterans_Percentage": 18,
-        "Disabled_Percentage": 24,
-        "Children_Percentage": 56,
-        "Federal_Employees": 5470.0
-    },
-    "WA\u20139": {
-        "SNAP_Utilization": 14,
-        "Medicaid_Utilization": 29,
-        "Veterans_Percentage": 24,
-        "Disabled_Percentage": 26,
-        "Children_Percentage": 47,
-        "Federal_Employees": 6371.0
-    },
-    "WA\u201310": {
-        "SNAP_Utilization": 20,
-        "Medicaid_Utilization": 40,
-        "Veterans_Percentage": 7,
-        "Disabled_Percentage": 25,
-        "Children_Percentage": 44,
-        "Federal_Employees": 9654.0
-    },
-    "WV\u20131": {
-        "SNAP_Utilization": 16,
-        "Medicaid_Utilization": 30,
-        "Veterans_Percentage": 12,
-        "Disabled_Percentage": 37,
-        "Children_Percentage": 48,
-        "Federal_Employees": 7096.0
-    },
-    "WV\u20132": {
-        "SNAP_Utilization": 13,
-        "Medicaid_Utilization": 24,
-        "Veterans_Percentage": 18,
-        "Disabled_Percentage": 41,
-        "Children_Percentage": 57,
-        "Federal_Employees": 15761.0
-    },
-    "WI\u20131": {
-        "SNAP_Utilization": 8,
-        "Medicaid_Utilization": 16,
-        "Veterans_Percentage": 14,
-        "Disabled_Percentage": 24,
-        "Children_Percentage": 61,
-        "Federal_Employees": 4767.0
-    },
-    "WI\u20132": {
-        "SNAP_Utilization": 11,
-        "Medicaid_Utilization": 22,
-        "Veterans_Percentage": 18,
-        "Disabled_Percentage": 21,
-        "Children_Percentage": 49,
-        "Federal_Employees": 4019.0
-    },
-    "WI\u20133": {
-        "SNAP_Utilization": 23,
-        "Medicaid_Utilization": 41,
-        "Veterans_Percentage": 14,
-        "Disabled_Percentage": 26,
-        "Children_Percentage": 60,
-        "Federal_Employees": 4234.0
-    },
-    "WI\u20134": {
-        "SNAP_Utilization": 6,
-        "Medicaid_Utilization": 14,
-        "Veterans_Percentage": 13,
-        "Disabled_Percentage": 24,
-        "Children_Percentage": 50,
-        "Federal_Employees": 2847.0
-    },
-    "WI\u20135": {
-        "SNAP_Utilization": 10,
-        "Medicaid_Utilization": 20,
-        "Veterans_Percentage": 18,
-        "Disabled_Percentage": 19,
-        "Children_Percentage": 44,
-        "Federal_Employees": 3468.0
-    },
-    "WI\u20136": {
-        "SNAP_Utilization": 11,
-        "Medicaid_Utilization": 24,
-        "Veterans_Percentage": 9,
-        "Disabled_Percentage": 24,
-        "Children_Percentage": 48,
-        "Federal_Employees": 2349.0
-    },
-    "WI\u20137": {
-        "SNAP_Utilization": 10,
-        "Medicaid_Utilization": 20,
-        "Veterans_Percentage": 10,
-        "Disabled_Percentage": 28,
-        "Children_Percentage": 54,
-        "Federal_Employees": 3486.0
-    },
-    "WI\u20138": {
-        "SNAP_Utilization": 5,
-        "Medicaid_Utilization": 14,
-        "Veterans_Percentage": 22,
-        "Disabled_Percentage": 30,
-        "Children_Percentage": 53,
-        "Federal_Employees": 3594.0
-    },
-    "WY\u20131": {
-        "SNAP_Utilization": 47,
-        "Medicaid_Utilization": 19,
-        "Veterans_Percentage": 4,
-        "Disabled_Percentage": 6,
-        "Children_Percentage": 50,
-        "Federal_Employees": 8069.0
-    }
+  "AL–1": {
+    "SNAP_Utilization": 13,
+    "Medicaid_Utilization": 19,
+    "Veterans_Percentage": 15,
+    "Disabled_Percentage": 28,
+    "Children_Percentage": 62,
+    "Federal_Employees": 5142.0
+  },
+  "AL–2": {
+    "SNAP_Utilization": 16,
+    "Medicaid_Utilization": 25,
+    "Veterans_Percentage": 19,
+    "Disabled_Percentage": 33,
+    "Children_Percentage": 53,
+    "Federal_Employees": 11100.0
+  },
+  "AL–3": {
+    "SNAP_Utilization": 14,
+    "Medicaid_Utilization": 20,
+    "Veterans_Percentage": 14,
+    "Disabled_Percentage": 33,
+    "Children_Percentage": 50,
+    "Federal_Employees": 7906.0
+  },
+  "AL–4": {
+    "SNAP_Utilization": 14,
+    "Medicaid_Utilization": 20,
+    "Veterans_Percentage": 14,
+    "Disabled_Percentage": 38,
+    "Children_Percentage": 43,
+    "Federal_Employees": 5946.0
+  },
+  "AL–5": {
+    "SNAP_Utilization": 8,
+    "Medicaid_Utilization": 15,
+    "Veterans_Percentage": 18,
+    "Disabled_Percentage": 29,
+    "Children_Percentage": 49,
+    "Federal_Employees": 19484.0
+  },
+  "AL–6": {
+    "SNAP_Utilization": 9,
+    "Medicaid_Utilization": 13,
+    "Veterans_Percentage": 11,
+    "Disabled_Percentage": 27,
+    "Children_Percentage": 53,
+    "Federal_Employees": 5403.0
+  },
+  "AL–7": {
+    "SNAP_Utilization": 22,
+    "Medicaid_Utilization": 24,
+    "Veterans_Percentage": 11,
+    "Disabled_Percentage": 36,
+    "Children_Percentage": 51,
+    "Federal_Employees": 6610.0
+  },
+  "AK–1": {
+    "SNAP_Utilization": 10,
+    "Medicaid_Utilization": 36,
+    "Veterans_Percentage": 17,
+    "Disabled_Percentage": 29,
+    "Children_Percentage": 48,
+    "Federal_Employees": 14947.0
+  },
+  "AZ–1": {
+    "SNAP_Utilization": 5,
+    "Medicaid_Utilization": 18,
+    "Veterans_Percentage": 13,
+    "Disabled_Percentage": 20,
+    "Children_Percentage": 58,
+    "Federal_Employees": 4237.0
+  },
+  "AZ–2": {
+    "SNAP_Utilization": 13,
+    "Medicaid_Utilization": 36,
+    "Veterans_Percentage": 17,
+    "Disabled_Percentage": 33,
+    "Children_Percentage": 51,
+    "Federal_Employees": 11284.0
+  },
+  "AZ–3": {
+    "SNAP_Utilization": 17,
+    "Medicaid_Utilization": 49,
+    "Veterans_Percentage": 15,
+    "Disabled_Percentage": 28,
+    "Children_Percentage": 55,
+    "Federal_Employees": 4590.0
+  },
+  "AZ–4": {
+    "SNAP_Utilization": 8,
+    "Medicaid_Utilization": 25,
+    "Veterans_Percentage": 12,
+    "Disabled_Percentage": 24,
+    "Children_Percentage": 55,
+    "Federal_Employees": 4709.0
+  },
+  "AZ–5": {
+    "SNAP_Utilization": 5,
+    "Medicaid_Utilization": 16,
+    "Veterans_Percentage": 18,
+    "Disabled_Percentage": 25,
+    "Children_Percentage": 52,
+    "Federal_Employees": 5311.0
+  },
+  "AZ–6": {
+    "SNAP_Utilization": 8,
+    "Medicaid_Utilization": 26,
+    "Veterans_Percentage": 9,
+    "Disabled_Percentage": 32,
+    "Children_Percentage": 47,
+    "Federal_Employees": 10154.0
+  },
+  "AZ–7": {
+    "SNAP_Utilization": 19,
+    "Medicaid_Utilization": 47,
+    "Veterans_Percentage": 11,
+    "Disabled_Percentage": 30,
+    "Children_Percentage": 54,
+    "Federal_Employees": 8627.0
+  },
+  "AZ–8": {
+    "SNAP_Utilization": 9,
+    "Medicaid_Utilization": 25,
+    "Veterans_Percentage": 17,
+    "Disabled_Percentage": 30,
+    "Children_Percentage": 46,
+    "Federal_Employees": 5573.0
+  },
+  "AZ–9": {
+    "SNAP_Utilization": 9,
+    "Medicaid_Utilization": 29,
+    "Veterans_Percentage": 22,
+    "Disabled_Percentage": 33,
+    "Children_Percentage": 45,
+    "Federal_Employees": 8998.0
+  },
+  "AR–1": {
+    "SNAP_Utilization": 12,
+    "Medicaid_Utilization": 40,
+    "Veterans_Percentage": 15,
+    "Disabled_Percentage": 39,
+    "Children_Percentage": 39,
+    "Federal_Employees": 5097.0
+  },
+  "AR–2": {
+    "SNAP_Utilization": 6,
+    "Medicaid_Utilization": 29,
+    "Veterans_Percentage": 17,
+    "Disabled_Percentage": 31,
+    "Children_Percentage": 45,
+    "Federal_Employees": 6347.0
+  },
+  "AR–3": {
+    "SNAP_Utilization": 5,
+    "Medicaid_Utilization": 26,
+    "Veterans_Percentage": 14,
+    "Disabled_Percentage": 28,
+    "Children_Percentage": 48,
+    "Federal_Employees": 3557.0
+  },
+  "AR–4": {
+    "SNAP_Utilization": 10,
+    "Medicaid_Utilization": 39,
+    "Veterans_Percentage": 13,
+    "Disabled_Percentage": 39,
+    "Children_Percentage": 43,
+    "Federal_Employees": 5026.0
+  },
+  "CA–1": {
+    "SNAP_Utilization": 17,
+    "Medicaid_Utilization": 39,
+    "Veterans_Percentage": 16,
+    "Disabled_Percentage": 33,
+    "Children_Percentage": 52,
+    "Federal_Employees": 6456.0
+  },
+  "CA–2": {
+    "SNAP_Utilization": 13,
+    "Medicaid_Utilization": 28,
+    "Veterans_Percentage": 18,
+    "Disabled_Percentage": 27,
+    "Children_Percentage": 49,
+    "Federal_Employees": 4475.0
+  },
+  "CA–3": {
+    "SNAP_Utilization": 7,
+    "Medicaid_Utilization": 21,
+    "Veterans_Percentage": 13,
+    "Disabled_Percentage": 24,
+    "Children_Percentage": 57,
+    "Federal_Employees": 3748.0
+  },
+  "CA–4": {
+    "SNAP_Utilization": 12,
+    "Medicaid_Utilization": 26,
+    "Veterans_Percentage": 14,
+    "Disabled_Percentage": 28,
+    "Children_Percentage": 52,
+    "Federal_Employees": 4124.0
+  },
+  "CA–5": {
+    "SNAP_Utilization": 11,
+    "Medicaid_Utilization": 28,
+    "Veterans_Percentage": 19,
+    "Disabled_Percentage": 29,
+    "Children_Percentage": 48,
+    "Federal_Employees": 4809.0
+  },
+  "CA–6": {
+    "SNAP_Utilization": 17,
+    "Medicaid_Utilization": 38,
+    "Veterans_Percentage": 11,
+    "Disabled_Percentage": 28,
+    "Children_Percentage": 53,
+    "Federal_Employees": 4718.0
+  },
+  "CA–7": {
+    "SNAP_Utilization": 15,
+    "Medicaid_Utilization": 36,
+    "Veterans_Percentage": 12,
+    "Disabled_Percentage": 28,
+    "Children_Percentage": 49,
+    "Federal_Employees": 6141.0
+  },
+  "CA–8": {
+    "SNAP_Utilization": 13,
+    "Medicaid_Utilization": 32,
+    "Veterans_Percentage": 21,
+    "Disabled_Percentage": 29,
+    "Children_Percentage": 47,
+    "Federal_Employees": 6170.0
+  },
+  "CA–9": {
+    "SNAP_Utilization": 14,
+    "Medicaid_Utilization": 40,
+    "Veterans_Percentage": 29,
+    "Disabled_Percentage": 31,
+    "Children_Percentage": 54,
+    "Federal_Employees": 4916.0
+  },
+  "CA–10": {
+    "SNAP_Utilization": 6,
+    "Medicaid_Utilization": 17,
+    "Veterans_Percentage": 9,
+    "Disabled_Percentage": 22,
+    "Children_Percentage": 56,
+    "Federal_Employees": 4573.0
+  },
+  "CA–11": {
+    "SNAP_Utilization": 11,
+    "Medicaid_Utilization": 22,
+    "Veterans_Percentage": 5,
+    "Disabled_Percentage": 17,
+    "Children_Percentage": 50,
+    "Federal_Employees": 5215.0
+  },
+  "CA–12": {
+    "SNAP_Utilization": 15,
+    "Medicaid_Utilization": 28,
+    "Veterans_Percentage": 5,
+    "Disabled_Percentage": 17,
+    "Children_Percentage": 51,
+    "Federal_Employees": 5047.0
+  },
+  "CA–13": {
+    "SNAP_Utilization": 21,
+    "Medicaid_Utilization": 54,
+    "Veterans_Percentage": 8,
+    "Disabled_Percentage": 20,
+    "Children_Percentage": 57,
+    "Federal_Employees": 3258.0
+  },
+  "CA–14": {
+    "SNAP_Utilization": 9,
+    "Medicaid_Utilization": 22,
+    "Veterans_Percentage": 6,
+    "Disabled_Percentage": 19,
+    "Children_Percentage": 58,
+    "Federal_Employees": 4271.0
+  },
+  "CA–15": {
+    "SNAP_Utilization": 8,
+    "Medicaid_Utilization": 21,
+    "Veterans_Percentage": 6,
+    "Disabled_Percentage": 24,
+    "Children_Percentage": 59,
+    "Federal_Employees": 4689.0
+  },
+  "CA–16": {
+    "SNAP_Utilization": 5,
+    "Medicaid_Utilization": 17,
+    "Veterans_Percentage": 5,
+    "Disabled_Percentage": 30,
+    "Children_Percentage": 56,
+    "Federal_Employees": 3321.0
+  },
+  "CA–17": {
+    "SNAP_Utilization": 6,
+    "Medicaid_Utilization": 16,
+    "Veterans_Percentage": 5,
+    "Disabled_Percentage": 28,
+    "Children_Percentage": 56,
+    "Federal_Employees": 3022.0
+  },
+  "CA–18": {
+    "SNAP_Utilization": 14,
+    "Medicaid_Utilization": 39,
+    "Veterans_Percentage": 7,
+    "Disabled_Percentage": 31,
+    "Children_Percentage": 59,
+    "Federal_Employees": 3399.0
+  },
+  "CA–19": {
+    "SNAP_Utilization": 8,
+    "Medicaid_Utilization": 21,
+    "Veterans_Percentage": 10,
+    "Disabled_Percentage": 32,
+    "Children_Percentage": 59,
+    "Federal_Employees": 4937.0
+  },
+  "CA–20": {
+    "SNAP_Utilization": 16,
+    "Medicaid_Utilization": 32,
+    "Veterans_Percentage": 14,
+    "Disabled_Percentage": 25,
+    "Children_Percentage": 54,
+    "Federal_Employees": 9060.0
+  },
+  "CA–21": {
+    "SNAP_Utilization": 29,
+    "Medicaid_Utilization": 60,
+    "Veterans_Percentage": 8,
+    "Disabled_Percentage": 37,
+    "Children_Percentage": 54,
+    "Federal_Employees": 4468.0
+  },
+  "CA–22": {
+    "SNAP_Utilization": 28,
+    "Medicaid_Utilization": 62,
+    "Veterans_Percentage": 8,
+    "Disabled_Percentage": 29,
+    "Children_Percentage": 57,
+    "Federal_Employees": 2601.0
+  },
+  "CA–23": {
+    "SNAP_Utilization": 19,
+    "Medicaid_Utilization": 44,
+    "Veterans_Percentage": 15,
+    "Disabled_Percentage": 26,
+    "Children_Percentage": 51,
+    "Federal_Employees": 7843.0
+  },
+  "CA–24": {
+    "SNAP_Utilization": 10,
+    "Medicaid_Utilization": 28,
+    "Veterans_Percentage": 10,
+    "Disabled_Percentage": 21,
+    "Children_Percentage": 51,
+    "Federal_Employees": 5356.0
+  },
+  "CA–25": {
+    "SNAP_Utilization": 22,
+    "Medicaid_Utilization": 51,
+    "Veterans_Percentage": 12,
+    "Disabled_Percentage": 26,
+    "Children_Percentage": 58,
+    "Federal_Employees": 5306.0
+  },
+  "CA–26": {
+    "SNAP_Utilization": 8,
+    "Medicaid_Utilization": 26,
+    "Veterans_Percentage": 11,
+    "Disabled_Percentage": 28,
+    "Children_Percentage": 56,
+    "Federal_Employees": 6845.0
+  },
+  "CA–27": {
+    "SNAP_Utilization": 15,
+    "Medicaid_Utilization": 30,
+    "Veterans_Percentage": 11,
+    "Disabled_Percentage": 27,
+    "Children_Percentage": 41,
+    "Federal_Employees": 6274.0
+  },
+  "CA–28": {
+    "SNAP_Utilization": 10,
+    "Medicaid_Utilization": 27,
+    "Veterans_Percentage": 6,
+    "Disabled_Percentage": 25,
+    "Children_Percentage": 53,
+    "Federal_Employees": 4867.0
+  },
+  "CA–29": {
+    "SNAP_Utilization": 20,
+    "Medicaid_Utilization": 48,
+    "Veterans_Percentage": 4,
+    "Disabled_Percentage": 32,
+    "Children_Percentage": 53,
+    "Federal_Employees": 3924.0
+  },
+  "CA–30": {
+    "SNAP_Utilization": 15,
+    "Medicaid_Utilization": 31,
+    "Veterans_Percentage": 4,
+    "Disabled_Percentage": 20,
+    "Children_Percentage": 55,
+    "Federal_Employees": 3585.0
+  },
+  "CA–31": {
+    "SNAP_Utilization": 17,
+    "Medicaid_Utilization": 37,
+    "Veterans_Percentage": 8,
+    "Disabled_Percentage": 25,
+    "Children_Percentage": 54,
+    "Federal_Employees": 2912.0
+  },
+  "CA–32": {
+    "SNAP_Utilization": 10,
+    "Medicaid_Utilization": 24,
+    "Veterans_Percentage": 5,
+    "Disabled_Percentage": 19,
+    "Children_Percentage": 60,
+    "Federal_Employees": 2977.0
+  },
+  "CA–33": {
+    "SNAP_Utilization": 17,
+    "Medicaid_Utilization": 42,
+    "Veterans_Percentage": 9,
+    "Disabled_Percentage": 30,
+    "Children_Percentage": 53,
+    "Federal_Employees": 3419.0
+  },
+  "CA–34": {
+    "SNAP_Utilization": 23,
+    "Medicaid_Utilization": 50,
+    "Veterans_Percentage": 4,
+    "Disabled_Percentage": 26,
+    "Children_Percentage": 56,
+    "Federal_Employees": 2614.0
+  },
+  "CA–35": {
+    "SNAP_Utilization": 16,
+    "Medicaid_Utilization": 38,
+    "Veterans_Percentage": 8,
+    "Disabled_Percentage": 25,
+    "Children_Percentage": 61,
+    "Federal_Employees": 2557.0
+  },
+  "CA–36": {
+    "SNAP_Utilization": 6,
+    "Medicaid_Utilization": 14,
+    "Veterans_Percentage": 6,
+    "Disabled_Percentage": 17,
+    "Children_Percentage": 59,
+    "Federal_Employees": 3043.0
+  },
+  "CA–37": {
+    "SNAP_Utilization": 22,
+    "Medicaid_Utilization": 51,
+    "Veterans_Percentage": 4,
+    "Disabled_Percentage": 28,
+    "Children_Percentage": 53,
+    "Federal_Employees": 5679.0
+  },
+  "CA–38": {
+    "SNAP_Utilization": 13,
+    "Medicaid_Utilization": 29,
+    "Veterans_Percentage": 8,
+    "Disabled_Percentage": 26,
+    "Children_Percentage": 58,
+    "Federal_Employees": 3378.0
+  },
+  "CA–39": {
+    "SNAP_Utilization": 16,
+    "Medicaid_Utilization": 40,
+    "Veterans_Percentage": 10,
+    "Disabled_Percentage": 29,
+    "Children_Percentage": 54,
+    "Federal_Employees": 3177.0
+  },
+  "CA–40": {
+    "SNAP_Utilization": 6,
+    "Medicaid_Utilization": 17,
+    "Veterans_Percentage": 9,
+    "Disabled_Percentage": 21,
+    "Children_Percentage": 48,
+    "Federal_Employees": 3055.0
+  },
+  "CA–41": {
+    "SNAP_Utilization": 11,
+    "Medicaid_Utilization": 28,
+    "Veterans_Percentage": 14,
+    "Disabled_Percentage": 30,
+    "Children_Percentage": 47,
+    "Federal_Employees": 4679.0
+  },
+  "CA–42": {
+    "SNAP_Utilization": 17,
+    "Medicaid_Utilization": 43,
+    "Veterans_Percentage": 6,
+    "Disabled_Percentage": 27,
+    "Children_Percentage": 57,
+    "Federal_Employees": 4545.0
+  },
+  "CA–43": {
+    "SNAP_Utilization": 21,
+    "Medicaid_Utilization": 49,
+    "Veterans_Percentage": 6,
+    "Disabled_Percentage": 31,
+    "Children_Percentage": 55,
+    "Federal_Employees": 5303.0
+  },
+  "CA–44": {
+    "SNAP_Utilization": 19,
+    "Medicaid_Utilization": 41,
+    "Veterans_Percentage": 8,
+    "Disabled_Percentage": 27,
+    "Children_Percentage": 62,
+    "Federal_Employees": 3780.0
+  },
+  "CA–45": {
+    "SNAP_Utilization": 12,
+    "Medicaid_Utilization": 31,
+    "Veterans_Percentage": 8,
+    "Disabled_Percentage": 25,
+    "Children_Percentage": 59,
+    "Federal_Employees": 4534.0
+  },
+  "CA–46": {
+    "SNAP_Utilization": 15,
+    "Medicaid_Utilization": 42,
+    "Veterans_Percentage": 6,
+    "Disabled_Percentage": 25,
+    "Children_Percentage": 54,
+    "Federal_Employees": 4457.0
+  },
+  "CA–47": {
+    "SNAP_Utilization": 6,
+    "Medicaid_Utilization": 17,
+    "Veterans_Percentage": 8,
+    "Disabled_Percentage": 19,
+    "Children_Percentage": 64,
+    "Federal_Employees": 2566.0
+  },
+  "CA–48": {
+    "SNAP_Utilization": 9,
+    "Medicaid_Utilization": 24,
+    "Veterans_Percentage": 19,
+    "Disabled_Percentage": 26,
+    "Children_Percentage": 62,
+    "Federal_Employees": 10064.0
+  },
+  "CA–49": {
+    "SNAP_Utilization": 6,
+    "Medicaid_Utilization": 18,
+    "Veterans_Percentage": 13,
+    "Disabled_Percentage": 20,
+    "Children_Percentage": 61,
+    "Federal_Employees": 4411.0
+  },
+  "CA–50": {
+    "SNAP_Utilization": 8,
+    "Medicaid_Utilization": 17,
+    "Veterans_Percentage": 10,
+    "Disabled_Percentage": 18,
+    "Children_Percentage": 58,
+    "Federal_Employees": 7344.0
+  },
+  "CA–51": {
+    "SNAP_Utilization": 12,
+    "Medicaid_Utilization": 25,
+    "Veterans_Percentage": 15,
+    "Disabled_Percentage": 25,
+    "Children_Percentage": 58,
+    "Federal_Employees": 9875.0
+  },
+  "CA–52": {
+    "SNAP_Utilization": 17,
+    "Medicaid_Utilization": 37,
+    "Veterans_Percentage": 17,
+    "Disabled_Percentage": 30,
+    "Children_Percentage": 50,
+    "Federal_Employees": 12531.0
+  },
+  "CO–1": {
+    "SNAP_Utilization": 9,
+    "Medicaid_Utilization": 32,
+    "Veterans_Percentage": 13,
+    "Disabled_Percentage": 19,
+    "Children_Percentage": 52,
+    "Federal_Employees": 7538.0
+  },
+  "CO–2": {
+    "SNAP_Utilization": 6,
+    "Medicaid_Utilization": 19,
+    "Veterans_Percentage": 18,
+    "Disabled_Percentage": 19,
+    "Children_Percentage": 56,
+    "Federal_Employees": 4971.0
+  },
+  "CO–3": {
+    "SNAP_Utilization": 14,
+    "Medicaid_Utilization": 40,
+    "Veterans_Percentage": 13,
+    "Disabled_Percentage": 28,
+    "Children_Percentage": 47,
+    "Federal_Employees": 6957.0
+  },
+  "CO–4": {
+    "SNAP_Utilization": 7,
+    "Medicaid_Utilization": 20,
+    "Veterans_Percentage": 13,
+    "Disabled_Percentage": 22,
+    "Children_Percentage": 55,
+    "Federal_Employees": 6445.0
+  },
+  "CO–5": {
+    "SNAP_Utilization": 9,
+    "Medicaid_Utilization": 30,
+    "Veterans_Percentage": 19,
+    "Disabled_Percentage": 25,
+    "Children_Percentage": 53,
+    "Federal_Employees": 14674.0
+  },
+  "CO–6": {
+    "SNAP_Utilization": 9,
+    "Medicaid_Utilization": 28,
+    "Veterans_Percentage": 11,
+    "Disabled_Percentage": 23,
+    "Children_Percentage": 52,
+    "Federal_Employees": 7544.0
+  },
+  "CO–7": {
+    "SNAP_Utilization": 7,
+    "Medicaid_Utilization": 22,
+    "Veterans_Percentage": 10,
+    "Disabled_Percentage": 23,
+    "Children_Percentage": 54,
+    "Federal_Employees": 7103.0
+  },
+  "CO–8": {
+    "SNAP_Utilization": 11,
+    "Medicaid_Utilization": 34,
+    "Veterans_Percentage": 20,
+    "Disabled_Percentage": 26,
+    "Children_Percentage": 48,
+    "Federal_Employees": 5020.0
+  },
+  "CT–1": {
+    "SNAP_Utilization": 14,
+    "Medicaid_Utilization": 30,
+    "Veterans_Percentage": 15,
+    "Disabled_Percentage": 26,
+    "Children_Percentage": 49,
+    "Federal_Employees": 3893.0
+  },
+  "CT–2": {
+    "SNAP_Utilization": 10,
+    "Medicaid_Utilization": 24,
+    "Veterans_Percentage": 19,
+    "Disabled_Percentage": 28,
+    "Children_Percentage": 47,
+    "Federal_Employees": 7206.0
+  },
+  "CT–3": {
+    "SNAP_Utilization": 13,
+    "Medicaid_Utilization": 29,
+    "Veterans_Percentage": 14,
+    "Disabled_Percentage": 23,
+    "Children_Percentage": 57,
+    "Federal_Employees": 4510.0
+  },
+  "CT–4": {
+    "SNAP_Utilization": 10,
+    "Medicaid_Utilization": 24,
+    "Veterans_Percentage": 15,
+    "Disabled_Percentage": 23,
+    "Children_Percentage": 46,
+    "Federal_Employees": 2800.0
+  },
+  "CT–5": {
+    "SNAP_Utilization": 13,
+    "Medicaid_Utilization": 32,
+    "Veterans_Percentage": 20,
+    "Disabled_Percentage": 25,
+    "Children_Percentage": 49,
+    "Federal_Employees": 3452.0
+  },
+  "DE–1": {
+    "SNAP_Utilization": 11,
+    "Medicaid_Utilization": 30,
+    "Veterans_Percentage": 11,
+    "Disabled_Percentage": 29,
+    "Children_Percentage": 47,
+    "Federal_Employees": 9143.0
+  },
+  "DC-1": {
+    "SNAP_Utilization": 15,
+    "Medicaid_Utilization": 42,
+    "Veterans_Percentage": 14,
+    "Disabled_Percentage": 0,
+    "Children_Percentage": 57,
+    "Federal_Employees": 48859.0
+  },
+  "FL–1": {
+    "SNAP_Utilization": 9,
+    "Medicaid_Utilization": 21,
+    "Veterans_Percentage": 15,
+    "Disabled_Percentage": 31,
+    "Children_Percentage": 48,
+    "Federal_Employees": 13704.0
+  },
+  "FL–2": {
+    "SNAP_Utilization": 13,
+    "Medicaid_Utilization": 24,
+    "Veterans_Percentage": 17,
+    "Disabled_Percentage": 29,
+    "Children_Percentage": 51,
+    "Federal_Employees": 8040.0
+  },
+  "FL–3": {
+    "SNAP_Utilization": 12,
+    "Medicaid_Utilization": 24,
+    "Veterans_Percentage": 13,
+    "Disabled_Percentage": 31,
+    "Children_Percentage": 48,
+    "Federal_Employees": 5945.0
+  },
+  "FL–4": {
+    "SNAP_Utilization": 14,
+    "Medicaid_Utilization": 27,
+    "Veterans_Percentage": 12,
+    "Disabled_Percentage": 32,
+    "Children_Percentage": 55,
+    "Federal_Employees": 12341.0
+  },
+  "FL–5": {
+    "SNAP_Utilization": 8,
+    "Medicaid_Utilization": 14,
+    "Veterans_Percentage": 16,
+    "Disabled_Percentage": 24,
+    "Children_Percentage": 53,
+    "Federal_Employees": 10359.0
+  },
+  "FL–6": {
+    "SNAP_Utilization": 13,
+    "Medicaid_Utilization": 25,
+    "Veterans_Percentage": 9,
+    "Disabled_Percentage": 34,
+    "Children_Percentage": 53,
+    "Federal_Employees": 2869.0
+  },
+  "FL–7": {
+    "SNAP_Utilization": 10,
+    "Medicaid_Utilization": 18,
+    "Veterans_Percentage": 10,
+    "Disabled_Percentage": 27,
+    "Children_Percentage": 53,
+    "Federal_Employees": 3843.0
+  },
+  "FL–8": {
+    "SNAP_Utilization": 8,
+    "Medicaid_Utilization": 20,
+    "Veterans_Percentage": 16,
+    "Disabled_Percentage": 29,
+    "Children_Percentage": 57,
+    "Federal_Employees": 7334.0
+  },
+  "FL–9": {
+    "SNAP_Utilization": 15,
+    "Medicaid_Utilization": 26,
+    "Veterans_Percentage": 23,
+    "Disabled_Percentage": 29,
+    "Children_Percentage": 51,
+    "Federal_Employees": 5456.0
+  },
+  "FL–10": {
+    "SNAP_Utilization": 17,
+    "Medicaid_Utilization": 24,
+    "Veterans_Percentage": 8,
+    "Disabled_Percentage": 24,
+    "Children_Percentage": 57,
+    "Federal_Employees": 4422.0
+  },
+  "FL–11": {
+    "SNAP_Utilization": 8,
+    "Medicaid_Utilization": 18,
+    "Veterans_Percentage": 5,
+    "Disabled_Percentage": 26,
+    "Children_Percentage": 52,
+    "Federal_Employees": 4392.0
+  },
+  "FL–12": {
+    "SNAP_Utilization": 10,
+    "Medicaid_Utilization": 25,
+    "Veterans_Percentage": 4,
+    "Disabled_Percentage": 35,
+    "Children_Percentage": 46,
+    "Federal_Employees": 4334.0
+  },
+  "FL–13": {
+    "SNAP_Utilization": 9,
+    "Medicaid_Utilization": 18,
+    "Veterans_Percentage": 5,
+    "Disabled_Percentage": 27,
+    "Children_Percentage": 53,
+    "Federal_Employees": 6238.0
+  },
+  "FL–14": {
+    "SNAP_Utilization": 15,
+    "Medicaid_Utilization": 24,
+    "Veterans_Percentage": 4,
+    "Disabled_Percentage": 24,
+    "Children_Percentage": 56,
+    "Federal_Employees": 6531.0
+  },
+  "FL–15": {
+    "SNAP_Utilization": 14,
+    "Medicaid_Utilization": 24,
+    "Veterans_Percentage": 5,
+    "Disabled_Percentage": 27,
+    "Children_Percentage": 59,
+    "Federal_Employees": 3610.0
+  },
+  "FL–16": {
+    "SNAP_Utilization": 7,
+    "Medicaid_Utilization": 18,
+    "Veterans_Percentage": 4,
+    "Disabled_Percentage": 28,
+    "Children_Percentage": 48,
+    "Federal_Employees": 6028.0
+  },
+  "FL–17": {
+    "SNAP_Utilization": 7,
+    "Medicaid_Utilization": 19,
+    "Veterans_Percentage": 4,
+    "Disabled_Percentage": 30,
+    "Children_Percentage": 49,
+    "Federal_Employees": 3590.0
+  },
+  "FL–18": {
+    "SNAP_Utilization": 16,
+    "Medicaid_Utilization": 30,
+    "Veterans_Percentage": 5,
+    "Disabled_Percentage": 32,
+    "Children_Percentage": 49,
+    "Federal_Employees": 2961.0
+  },
+  "FL–19": {
+    "SNAP_Utilization": 6,
+    "Medicaid_Utilization": 17,
+    "Veterans_Percentage": 8,
+    "Disabled_Percentage": 25,
+    "Children_Percentage": 62,
+    "Federal_Employees": 3221.0
+  },
+  "FL–20": {
+    "SNAP_Utilization": 17,
+    "Medicaid_Utilization": 29,
+    "Veterans_Percentage": 13,
+    "Disabled_Percentage": 25,
+    "Children_Percentage": 55,
+    "Federal_Employees": 6231.0
+  },
+  "FL–21": {
+    "SNAP_Utilization": 8,
+    "Medicaid_Utilization": 18,
+    "Veterans_Percentage": 5,
+    "Disabled_Percentage": 27,
+    "Children_Percentage": 55,
+    "Federal_Employees": 4442.0
+  },
+  "FL–22": {
+    "SNAP_Utilization": 11,
+    "Medicaid_Utilization": 19,
+    "Veterans_Percentage": 5,
+    "Disabled_Percentage": 24,
+    "Children_Percentage": 62,
+    "Federal_Employees": 2392.0
+  },
+  "FL–23": {
+    "SNAP_Utilization": 6,
+    "Medicaid_Utilization": 16,
+    "Veterans_Percentage": 12,
+    "Disabled_Percentage": 22,
+    "Children_Percentage": 48,
+    "Federal_Employees": 3068.0
+  },
+  "FL–24": {
+    "SNAP_Utilization": 21,
+    "Medicaid_Utilization": 32,
+    "Veterans_Percentage": 10,
+    "Disabled_Percentage": 22,
+    "Children_Percentage": 64,
+    "Federal_Employees": 4475.0
+  },
+  "FL–25": {
+    "SNAP_Utilization": 11,
+    "Medicaid_Utilization": 17,
+    "Veterans_Percentage": 11,
+    "Disabled_Percentage": 23,
+    "Children_Percentage": 57,
+    "Federal_Employees": 6157.0
+  },
+  "FL–26": {
+    "SNAP_Utilization": 22,
+    "Medicaid_Utilization": 29,
+    "Veterans_Percentage": 9,
+    "Disabled_Percentage": 24,
+    "Children_Percentage": 56,
+    "Federal_Employees": 2337.0
+  },
+  "FL–27": {
+    "SNAP_Utilization": 17,
+    "Medicaid_Utilization": 23,
+    "Veterans_Percentage": 8,
+    "Disabled_Percentage": 22,
+    "Children_Percentage": 55,
+    "Federal_Employees": 4138.0
+  },
+  "FL–28": {
+    "SNAP_Utilization": 18,
+    "Medicaid_Utilization": 28,
+    "Veterans_Percentage": 6,
+    "Disabled_Percentage": 22,
+    "Children_Percentage": 58,
+    "Federal_Employees": 5013.0
+  },
+  "GA–1": {
+    "SNAP_Utilization": 14,
+    "Medicaid_Utilization": 22,
+    "Veterans_Percentage": 15,
+    "Disabled_Percentage": 31,
+    "Children_Percentage": 55,
+    "Federal_Employees": 11443.0
+  },
+  "GA–2": {
+    "SNAP_Utilization": 22,
+    "Medicaid_Utilization": 31,
+    "Veterans_Percentage": 18,
+    "Disabled_Percentage": 35,
+    "Children_Percentage": 54,
+    "Federal_Employees": 9687.0
+  },
+  "GA–3": {
+    "SNAP_Utilization": 12,
+    "Medicaid_Utilization": 20,
+    "Veterans_Percentage": 14,
+    "Disabled_Percentage": 31,
+    "Children_Percentage": 50,
+    "Federal_Employees": 5611.0
+  },
+  "GA–4": {
+    "SNAP_Utilization": 12,
+    "Medicaid_Utilization": 22,
+    "Veterans_Percentage": 14,
+    "Disabled_Percentage": 24,
+    "Children_Percentage": 53,
+    "Federal_Employees": 10717.0
+  },
+  "GA–5": {
+    "SNAP_Utilization": 14,
+    "Medicaid_Utilization": 22,
+    "Veterans_Percentage": 16,
+    "Disabled_Percentage": 20,
+    "Children_Percentage": 58,
+    "Federal_Employees": 8118.0
+  },
+  "GA–6": {
+    "SNAP_Utilization": 3,
+    "Medicaid_Utilization": 19,
+    "Veterans_Percentage": 11,
+    "Disabled_Percentage": 19,
+    "Children_Percentage": 58,
+    "Federal_Employees": 4512.0
+  },
+  "GA–7": {
+    "SNAP_Utilization": 8,
+    "Medicaid_Utilization": 9,
+    "Veterans_Percentage": 12,
+    "Disabled_Percentage": 20,
+    "Children_Percentage": 60,
+    "Federal_Employees": 5461.0
+  },
+  "GA–8": {
+    "SNAP_Utilization": 17,
+    "Medicaid_Utilization": 25,
+    "Veterans_Percentage": 18,
+    "Disabled_Percentage": 31,
+    "Children_Percentage": 59,
+    "Federal_Employees": 12105.0
+  },
+  "GA–9": {
+    "SNAP_Utilization": 10,
+    "Medicaid_Utilization": 19,
+    "Veterans_Percentage": 24,
+    "Disabled_Percentage": 30,
+    "Children_Percentage": 49,
+    "Federal_Employees": 3225.0
+  },
+  "GA–10": {
+    "SNAP_Utilization": 10,
+    "Medicaid_Utilization": 19,
+    "Veterans_Percentage": 8,
+    "Disabled_Percentage": 28,
+    "Children_Percentage": 50,
+    "Federal_Employees": 6065.0
+  },
+  "GA–11": {
+    "SNAP_Utilization": 6,
+    "Medicaid_Utilization": 13,
+    "Veterans_Percentage": 5,
+    "Disabled_Percentage": 21,
+    "Children_Percentage": 60,
+    "Federal_Employees": 4153.0
+  },
+  "GA–12": {
+    "SNAP_Utilization": 17,
+    "Medicaid_Utilization": 25,
+    "Veterans_Percentage": 5,
+    "Disabled_Percentage": 35,
+    "Children_Percentage": 53,
+    "Federal_Employees": 10633.0
+  },
+  "GA–13": {
+    "SNAP_Utilization": 13,
+    "Medicaid_Utilization": 21,
+    "Veterans_Percentage": 6,
+    "Disabled_Percentage": 23,
+    "Children_Percentage": 59,
+    "Federal_Employees": 10061.0
+  },
+  "GA–14": {
+    "SNAP_Utilization": 13,
+    "Medicaid_Utilization": 20,
+    "Veterans_Percentage": 5,
+    "Disabled_Percentage": 31,
+    "Children_Percentage": 51,
+    "Federal_Employees": 4121.0
+  },
+  "HI–1": {
+    "SNAP_Utilization": 10,
+    "Medicaid_Utilization": 27,
+    "Veterans_Percentage": 18,
+    "Disabled_Percentage": 27,
+    "Children_Percentage": 53,
+    "Federal_Employees": 19432.0
+  },
+  "HI–2": {
+    "SNAP_Utilization": 12,
+    "Medicaid_Utilization": 35,
+    "Veterans_Percentage": 23,
+    "Disabled_Percentage": 32,
+    "Children_Percentage": 46,
+    "Federal_Employees": 9785.0
+  },
+  "ID–1": {
+    "SNAP_Utilization": 5,
+    "Medicaid_Utilization": 21,
+    "Veterans_Percentage": 12,
+    "Disabled_Percentage": 29,
+    "Children_Percentage": 46,
+    "Federal_Employees": 6009.0
+  },
+  "ID–2": {
+    "SNAP_Utilization": 9,
+    "Medicaid_Utilization": 24,
+    "Veterans_Percentage": 15,
+    "Disabled_Percentage": 28,
+    "Children_Percentage": 42,
+    "Federal_Employees": 12443.0
+  },
+  "IL–1": {
+    "SNAP_Utilization": 25,
+    "Medicaid_Utilization": 34,
+    "Veterans_Percentage": 15,
+    "Disabled_Percentage": 30,
+    "Children_Percentage": 51,
+    "Federal_Employees": 6269.0
+  },
+  "IL–2": {
+    "SNAP_Utilization": 24,
+    "Medicaid_Utilization": 42,
+    "Veterans_Percentage": 19,
+    "Disabled_Percentage": 29,
+    "Children_Percentage": 56,
+    "Federal_Employees": 6559.0
+  },
+  "IL–3": {
+    "SNAP_Utilization": 14,
+    "Medicaid_Utilization": 29,
+    "Veterans_Percentage": 15,
+    "Disabled_Percentage": 23,
+    "Children_Percentage": 55,
+    "Federal_Employees": 3343.0
+  },
+  "IL–4": {
+    "SNAP_Utilization": 17,
+    "Medicaid_Utilization": 37,
+    "Veterans_Percentage": 16,
+    "Disabled_Percentage": 24,
+    "Children_Percentage": 62,
+    "Federal_Employees": 4341.0
+  },
+  "IL–5": {
+    "SNAP_Utilization": 5,
+    "Medicaid_Utilization": 13,
+    "Veterans_Percentage": 16,
+    "Disabled_Percentage": 16,
+    "Children_Percentage": 60,
+    "Federal_Employees": 5045.0
+  },
+  "IL–6": {
+    "SNAP_Utilization": 8,
+    "Medicaid_Utilization": 18,
+    "Veterans_Percentage": 10,
+    "Disabled_Percentage": 22,
+    "Children_Percentage": 62,
+    "Federal_Employees": 4162.0
+  },
+  "IL–7": {
+    "SNAP_Utilization": 22,
+    "Medicaid_Utilization": 36,
+    "Veterans_Percentage": 9,
+    "Disabled_Percentage": 24,
+    "Children_Percentage": 51,
+    "Federal_Employees": 9473.0
+  },
+  "IL–8": {
+    "SNAP_Utilization": 9,
+    "Medicaid_Utilization": 22,
+    "Veterans_Percentage": 20,
+    "Disabled_Percentage": 22,
+    "Children_Percentage": 58,
+    "Federal_Employees": 4154.0
+  },
+  "IL–9": {
+    "SNAP_Utilization": 10,
+    "Medicaid_Utilization": 22,
+    "Veterans_Percentage": 23,
+    "Disabled_Percentage": 22,
+    "Children_Percentage": 55,
+    "Federal_Employees": 3605.0
+  },
+  "IL–10": {
+    "SNAP_Utilization": 8,
+    "Medicaid_Utilization": 20,
+    "Veterans_Percentage": 9,
+    "Disabled_Percentage": 23,
+    "Children_Percentage": 52,
+    "Federal_Employees": 5767.0
+  },
+  "IL–11": {
+    "SNAP_Utilization": 8,
+    "Medicaid_Utilization": 18,
+    "Veterans_Percentage": 5,
+    "Disabled_Percentage": 20,
+    "Children_Percentage": 68,
+    "Federal_Employees": 4263.0
+  },
+  "IL–12": {
+    "SNAP_Utilization": 16,
+    "Medicaid_Utilization": 31,
+    "Veterans_Percentage": 5,
+    "Disabled_Percentage": 32,
+    "Children_Percentage": 45,
+    "Federal_Employees": 7771.0
+  },
+  "IL–13": {
+    "SNAP_Utilization": 18,
+    "Medicaid_Utilization": 33,
+    "Veterans_Percentage": 6,
+    "Disabled_Percentage": 28,
+    "Children_Percentage": 55,
+    "Federal_Employees": 6317.0
+  },
+  "IL–14": {
+    "SNAP_Utilization": 13,
+    "Medicaid_Utilization": 24,
+    "Veterans_Percentage": 5,
+    "Disabled_Percentage": 25,
+    "Children_Percentage": 58,
+    "Federal_Employees": 4497.0
+  },
+  "IL–15": {
+    "SNAP_Utilization": 13,
+    "Medicaid_Utilization": 26,
+    "Veterans_Percentage": 5,
+    "Disabled_Percentage": 28,
+    "Children_Percentage": 49,
+    "Federal_Employees": 4477.0
+  },
+  "IL–16": {
+    "SNAP_Utilization": 10,
+    "Medicaid_Utilization": 21,
+    "Veterans_Percentage": 5,
+    "Disabled_Percentage": 24,
+    "Children_Percentage": 53,
+    "Federal_Employees": 3684.0
+  },
+  "IL–17": {
+    "SNAP_Utilization": 20,
+    "Medicaid_Utilization": 36,
+    "Veterans_Percentage": 4,
+    "Disabled_Percentage": 29,
+    "Children_Percentage": 53,
+    "Federal_Employees": 5551.0
+  },
+  "IN–1": {
+    "SNAP_Utilization": 10,
+    "Medicaid_Utilization": 31,
+    "Veterans_Percentage": 15,
+    "Disabled_Percentage": 28,
+    "Children_Percentage": 52,
+    "Federal_Employees": 4608.0
+  },
+  "IN–2": {
+    "SNAP_Utilization": 8,
+    "Medicaid_Utilization": 29,
+    "Veterans_Percentage": 19,
+    "Disabled_Percentage": 27,
+    "Children_Percentage": 50,
+    "Federal_Employees": 2694.0
+  },
+  "IN–3": {
+    "SNAP_Utilization": 8,
+    "Medicaid_Utilization": 26,
+    "Veterans_Percentage": 14,
+    "Disabled_Percentage": 29,
+    "Children_Percentage": 48,
+    "Federal_Employees": 3571.0
+  },
+  "IN–4": {
+    "SNAP_Utilization": 7,
+    "Medicaid_Utilization": 20,
+    "Veterans_Percentage": 13,
+    "Disabled_Percentage": 26,
+    "Children_Percentage": 53,
+    "Federal_Employees": 5671.0
+  },
+  "IN–5": {
+    "SNAP_Utilization": 9,
+    "Medicaid_Utilization": 24,
+    "Veterans_Percentage": 18,
+    "Disabled_Percentage": 29,
+    "Children_Percentage": 42,
+    "Federal_Employees": 6087.0
+  },
+  "IN–6": {
+    "SNAP_Utilization": 10,
+    "Medicaid_Utilization": 28,
+    "Veterans_Percentage": 10,
+    "Disabled_Percentage": 29,
+    "Children_Percentage": 49,
+    "Federal_Employees": 5173.0
+  },
+  "IN–7": {
+    "SNAP_Utilization": 11,
+    "Medicaid_Utilization": 38,
+    "Veterans_Percentage": 10,
+    "Disabled_Percentage": 24,
+    "Children_Percentage": 51,
+    "Federal_Employees": 8533.0
+  },
+  "IN–8": {
+    "SNAP_Utilization": 10,
+    "Medicaid_Utilization": 29,
+    "Veterans_Percentage": 18,
+    "Disabled_Percentage": 32,
+    "Children_Percentage": 46,
+    "Federal_Employees": 5911.0
+  },
+  "IN–9": {
+    "SNAP_Utilization": 6,
+    "Medicaid_Utilization": 25,
+    "Veterans_Percentage": 23,
+    "Disabled_Percentage": 30,
+    "Children_Percentage": 37,
+    "Federal_Employees": 5829.0
+  },
+  "IA–1": {
+    "SNAP_Utilization": 9,
+    "Medicaid_Utilization": 24,
+    "Veterans_Percentage": 14,
+    "Disabled_Percentage": 25,
+    "Children_Percentage": 50,
+    "Federal_Employees": 7294.0
+  },
+  "IA–2": {
+    "SNAP_Utilization": 9,
+    "Medicaid_Utilization": 24,
+    "Veterans_Percentage": 16,
+    "Disabled_Percentage": 26,
+    "Children_Percentage": 51,
+    "Federal_Employees": 3688.0
+  },
+  "IA–3": {
+    "SNAP_Utilization": 9,
+    "Medicaid_Utilization": 25,
+    "Veterans_Percentage": 12,
+    "Disabled_Percentage": 24,
+    "Children_Percentage": 54,
+    "Federal_Employees": 5789.0
+  },
+  "IA–4": {
+    "SNAP_Utilization": 8,
+    "Medicaid_Utilization": 25,
+    "Veterans_Percentage": 12,
+    "Disabled_Percentage": 26,
+    "Children_Percentage": 46,
+    "Federal_Employees": 4976.0
+  },
+  "KS–1": {
+    "SNAP_Utilization": 6,
+    "Medicaid_Utilization": 15,
+    "Veterans_Percentage": 15,
+    "Disabled_Percentage": 25,
+    "Children_Percentage": 54,
+    "Federal_Employees": 5594.0
+  },
+  "KS–2": {
+    "SNAP_Utilization": 10,
+    "Medicaid_Utilization": 19,
+    "Veterans_Percentage": 19,
+    "Disabled_Percentage": 33,
+    "Children_Percentage": 36,
+    "Federal_Employees": 10809.0
+  },
+  "KS–3": {
+    "SNAP_Utilization": 3,
+    "Medicaid_Utilization": 9,
+    "Veterans_Percentage": 14,
+    "Disabled_Percentage": 21,
+    "Children_Percentage": 49,
+    "Federal_Employees": 5418.0
+  },
+  "KS–4": {
+    "SNAP_Utilization": 9,
+    "Medicaid_Utilization": 18,
+    "Veterans_Percentage": 13,
+    "Disabled_Percentage": 28,
+    "Children_Percentage": 49,
+    "Federal_Employees": 6149.0
+  },
+  "KY–1": {
+    "SNAP_Utilization": 13,
+    "Medicaid_Utilization": 35,
+    "Veterans_Percentage": 15,
+    "Disabled_Percentage": 36,
+    "Children_Percentage": 46,
+    "Federal_Employees": 3990.0
+  },
+  "KY–2": {
+    "SNAP_Utilization": 11,
+    "Medicaid_Utilization": 32,
+    "Veterans_Percentage": 18,
+    "Disabled_Percentage": 35,
+    "Children_Percentage": 47,
+    "Federal_Employees": 7456.0
+  },
+  "KY–3": {
+    "SNAP_Utilization": 12,
+    "Medicaid_Utilization": 31,
+    "Veterans_Percentage": 13,
+    "Disabled_Percentage": 28,
+    "Children_Percentage": 53,
+    "Federal_Employees": 4231.0
+  },
+  "KY–4": {
+    "SNAP_Utilization": 9,
+    "Medicaid_Utilization": 24,
+    "Veterans_Percentage": 13,
+    "Disabled_Percentage": 29,
+    "Children_Percentage": 52,
+    "Federal_Employees": 7063.0
+  },
+  "KY–5": {
+    "SNAP_Utilization": 22,
+    "Medicaid_Utilization": 50,
+    "Veterans_Percentage": 18,
+    "Disabled_Percentage": 47,
+    "Children_Percentage": 38,
+    "Federal_Employees": 5157.0
+  },
+  "KY–6": {
+    "SNAP_Utilization": 10,
+    "Medicaid_Utilization": 29,
+    "Veterans_Percentage": 10,
+    "Disabled_Percentage": 31,
+    "Children_Percentage": 48,
+    "Federal_Employees": 6696.0
+  },
+  "LA–1": {
+    "SNAP_Utilization": 10,
+    "Medicaid_Utilization": 28,
+    "Veterans_Percentage": 15,
+    "Disabled_Percentage": 31,
+    "Children_Percentage": 51,
+    "Federal_Employees": 6843.0
+  },
+  "LA–2": {
+    "SNAP_Utilization": 21,
+    "Medicaid_Utilization": 42,
+    "Veterans_Percentage": 18,
+    "Disabled_Percentage": 31,
+    "Children_Percentage": 53,
+    "Federal_Employees": 6668.0
+  },
+  "LA–3": {
+    "SNAP_Utilization": 18,
+    "Medicaid_Utilization": 37,
+    "Veterans_Percentage": 14,
+    "Disabled_Percentage": 31,
+    "Children_Percentage": 52,
+    "Federal_Employees": 2986.0
+  },
+  "LA–4": {
+    "SNAP_Utilization": 19,
+    "Medicaid_Utilization": 36,
+    "Veterans_Percentage": 12,
+    "Disabled_Percentage": 35,
+    "Children_Percentage": 49,
+    "Federal_Employees": 8620.0
+  },
+  "LA–5": {
+    "SNAP_Utilization": 24,
+    "Medicaid_Utilization": 37,
+    "Veterans_Percentage": 19,
+    "Disabled_Percentage": 36,
+    "Children_Percentage": 47,
+    "Federal_Employees": 5617.0
+  },
+  "LA–6": {
+    "SNAP_Utilization": 13,
+    "Medicaid_Utilization": 45,
+    "Veterans_Percentage": 10,
+    "Disabled_Percentage": 30,
+    "Children_Percentage": 51,
+    "Federal_Employees": 3735.0
+  },
+  "ME–1": {
+    "SNAP_Utilization": 8,
+    "Medicaid_Utilization": 20,
+    "Veterans_Percentage": 15,
+    "Disabled_Percentage": 24,
+    "Children_Percentage": 46,
+    "Federal_Employees": 7050.0
+  },
+  "ME–2": {
+    "SNAP_Utilization": 17,
+    "Medicaid_Utilization": 32,
+    "Veterans_Percentage": 18,
+    "Disabled_Percentage": 34,
+    "Children_Percentage": 43,
+    "Federal_Employees": 4896.0
+  },
+  "MD–1": {
+    "SNAP_Utilization": 11,
+    "Medicaid_Utilization": 26,
+    "Veterans_Percentage": 15,
+    "Disabled_Percentage": 25,
+    "Children_Percentage": 50,
+    "Federal_Employees": 16078.0
+  },
+  "MD–2": {
+    "SNAP_Utilization": 7,
+    "Medicaid_Utilization": 21,
+    "Veterans_Percentage": 18,
+    "Disabled_Percentage": 23,
+    "Children_Percentage": 54,
+    "Federal_Employees": 15222.0
+  },
+  "MD–3": {
+    "SNAP_Utilization": 7,
+    "Medicaid_Utilization": 17,
+    "Veterans_Percentage": 14,
+    "Disabled_Percentage": 21,
+    "Children_Percentage": 51,
+    "Federal_Employees": 30078.0
+  },
+  "MD–4": {
+    "SNAP_Utilization": 12,
+    "Medicaid_Utilization": 31,
+    "Veterans_Percentage": 14,
+    "Disabled_Percentage": 23,
+    "Children_Percentage": 59,
+    "Federal_Employees": 32225.0
+  },
+  "MD–5": {
+    "SNAP_Utilization": 7,
+    "Medicaid_Utilization": 17,
+    "Veterans_Percentage": 19,
+    "Disabled_Percentage": 23,
+    "Children_Percentage": 60,
+    "Federal_Employees": 53169.0
+  },
+  "MD–6": {
+    "SNAP_Utilization": 10,
+    "Medicaid_Utilization": 24,
+    "Veterans_Percentage": 10,
+    "Disabled_Percentage": 25,
+    "Children_Percentage": 48,
+    "Federal_Employees": 23588.0
+  },
+  "MD–7": {
+    "SNAP_Utilization": 21,
+    "Medicaid_Utilization": 43,
+    "Veterans_Percentage": 10,
+    "Disabled_Percentage": 28,
+    "Children_Percentage": 53,
+    "Federal_Employees": 13127.0
+  },
+  "MD–8": {
+    "SNAP_Utilization": 6,
+    "Medicaid_Utilization": 19,
+    "Veterans_Percentage": 19,
+    "Disabled_Percentage": 20,
+    "Children_Percentage": 59,
+    "Federal_Employees": 40740.0
+  },
+  "MA–1": {
+    "SNAP_Utilization": 23,
+    "Medicaid_Utilization": 34,
+    "Veterans_Percentage": 14,
+    "Disabled_Percentage": 31,
+    "Children_Percentage": 43,
+    "Federal_Employees": 4837.0
+  },
+  "MA–2": {
+    "SNAP_Utilization": 16,
+    "Medicaid_Utilization": 25,
+    "Veterans_Percentage": 18,
+    "Disabled_Percentage": 26,
+    "Children_Percentage": 48,
+    "Federal_Employees": 4104.0
+  },
+  "MA–3": {
+    "SNAP_Utilization": 19,
+    "Medicaid_Utilization": 30,
+    "Veterans_Percentage": 14,
+    "Disabled_Percentage": 28,
+    "Children_Percentage": 47,
+    "Federal_Employees": 5777.0
+  },
+  "MA–4": {
+    "SNAP_Utilization": 14,
+    "Medicaid_Utilization": 20,
+    "Veterans_Percentage": 13,
+    "Disabled_Percentage": 24,
+    "Children_Percentage": 48,
+    "Federal_Employees": 3660.0
+  },
+  "MA–5": {
+    "SNAP_Utilization": 9,
+    "Medicaid_Utilization": 18,
+    "Veterans_Percentage": 18,
+    "Disabled_Percentage": 21,
+    "Children_Percentage": 48,
+    "Federal_Employees": 5361.0
+  },
+  "MA–6": {
+    "SNAP_Utilization": 11,
+    "Medicaid_Utilization": 21,
+    "Veterans_Percentage": 10,
+    "Disabled_Percentage": 24,
+    "Children_Percentage": 52,
+    "Federal_Employees": 5605.0
+  },
+  "MA–7": {
+    "SNAP_Utilization": 22,
+    "Medicaid_Utilization": 34,
+    "Veterans_Percentage": 10,
+    "Disabled_Percentage": 25,
+    "Children_Percentage": 50,
+    "Federal_Employees": 4373.0
+  },
+  "MA–8": {
+    "SNAP_Utilization": 14,
+    "Medicaid_Utilization": 22,
+    "Veterans_Percentage": 17,
+    "Disabled_Percentage": 23,
+    "Children_Percentage": 49,
+    "Federal_Employees": 5855.0
+  },
+  "MA–9": {
+    "SNAP_Utilization": 14,
+    "Medicaid_Utilization": 24,
+    "Veterans_Percentage": 22,
+    "Disabled_Percentage": 27,
+    "Children_Percentage": 47,
+    "Federal_Employees": 4141.0
+  },
+  "MI–1": {
+    "SNAP_Utilization": 12,
+    "Medicaid_Utilization": 29,
+    "Veterans_Percentage": 13,
+    "Disabled_Percentage": 32,
+    "Children_Percentage": 44,
+    "Federal_Employees": 6221.0
+  },
+  "MI–2": {
+    "SNAP_Utilization": 15,
+    "Medicaid_Utilization": 29,
+    "Veterans_Percentage": 18,
+    "Disabled_Percentage": 30,
+    "Children_Percentage": 44,
+    "Federal_Employees": 4671.0
+  },
+  "MI–3": {
+    "SNAP_Utilization": 12,
+    "Medicaid_Utilization": 26,
+    "Veterans_Percentage": 14,
+    "Disabled_Percentage": 24,
+    "Children_Percentage": 57,
+    "Federal_Employees": 2861.0
+  },
+  "MI–4": {
+    "SNAP_Utilization": 11,
+    "Medicaid_Utilization": 25,
+    "Veterans_Percentage": 13,
+    "Disabled_Percentage": 24,
+    "Children_Percentage": 57,
+    "Federal_Employees": 3151.0
+  },
+  "MI–5": {
+    "SNAP_Utilization": 12,
+    "Medicaid_Utilization": 28,
+    "Veterans_Percentage": 18,
+    "Disabled_Percentage": 29,
+    "Children_Percentage": 50,
+    "Federal_Employees": 3442.0
+  },
+  "MI–6": {
+    "SNAP_Utilization": 8,
+    "Medicaid_Utilization": 17,
+    "Veterans_Percentage": 10,
+    "Disabled_Percentage": 24,
+    "Children_Percentage": 51,
+    "Federal_Employees": 4302.0
+  },
+  "MI–7": {
+    "SNAP_Utilization": 10,
+    "Medicaid_Utilization": 21,
+    "Veterans_Percentage": 10,
+    "Disabled_Percentage": 26,
+    "Children_Percentage": 43,
+    "Federal_Employees": 3839.0
+  },
+  "MI–8": {
+    "SNAP_Utilization": 19,
+    "Medicaid_Utilization": 37,
+    "Veterans_Percentage": 17,
+    "Disabled_Percentage": 32,
+    "Children_Percentage": 47,
+    "Federal_Employees": 3334.0
+  },
+  "MI–9": {
+    "SNAP_Utilization": 10,
+    "Medicaid_Utilization": 22,
+    "Veterans_Percentage": 23,
+    "Disabled_Percentage": 27,
+    "Children_Percentage": 43,
+    "Federal_Employees": 4718.0
+  },
+  "MI–10": {
+    "SNAP_Utilization": 14,
+    "Medicaid_Utilization": 27,
+    "Veterans_Percentage": 8,
+    "Disabled_Percentage": 28,
+    "Children_Percentage": 49,
+    "Federal_Employees": 4911.0
+  },
+  "MI–11": {
+    "SNAP_Utilization": 9,
+    "Medicaid_Utilization": 19,
+    "Veterans_Percentage": 5,
+    "Disabled_Percentage": 22,
+    "Children_Percentage": 48,
+    "Federal_Employees": 3802.0
+  },
+  "MI–12": {
+    "SNAP_Utilization": 23,
+    "Medicaid_Utilization": 46,
+    "Veterans_Percentage": 5,
+    "Disabled_Percentage": 33,
+    "Children_Percentage": 44,
+    "Federal_Employees": 4098.0
+  },
+  "MI–13": {
+    "SNAP_Utilization": 29,
+    "Medicaid_Utilization": 52,
+    "Veterans_Percentage": 6,
+    "Disabled_Percentage": 33,
+    "Children_Percentage": 50,
+    "Federal_Employees": 4708.0
+  },
+  "MN–1": {
+    "SNAP_Utilization": 9,
+    "Medicaid_Utilization": 24,
+    "Veterans_Percentage": 16,
+    "Disabled_Percentage": 22,
+    "Children_Percentage": 57,
+    "Federal_Employees": 2366.0
+  },
+  "MN–2": {
+    "SNAP_Utilization": 5,
+    "Medicaid_Utilization": 19,
+    "Veterans_Percentage": 20,
+    "Disabled_Percentage": 23,
+    "Children_Percentage": 55,
+    "Federal_Employees": 5174.0
+  },
+  "MN–3": {
+    "SNAP_Utilization": 5,
+    "Medicaid_Utilization": 18,
+    "Veterans_Percentage": 14,
+    "Disabled_Percentage": 20,
+    "Children_Percentage": 59,
+    "Federal_Employees": 3399.0
+  },
+  "MN–4": {
+    "SNAP_Utilization": 10,
+    "Medicaid_Utilization": 28,
+    "Veterans_Percentage": 13,
+    "Disabled_Percentage": 23,
+    "Children_Percentage": 55,
+    "Federal_Employees": 3825.0
+  },
+  "MN–5": {
+    "SNAP_Utilization": 10,
+    "Medicaid_Utilization": 30,
+    "Veterans_Percentage": 18,
+    "Disabled_Percentage": 20,
+    "Children_Percentage": 51,
+    "Federal_Employees": 4595.0
+  },
+  "MN–6": {
+    "SNAP_Utilization": 6,
+    "Medicaid_Utilization": 19,
+    "Veterans_Percentage": 11,
+    "Disabled_Percentage": 22,
+    "Children_Percentage": 49,
+    "Federal_Employees": 3608.0
+  },
+  "MN–7": {
+    "SNAP_Utilization": 9,
+    "Medicaid_Utilization": 27,
+    "Veterans_Percentage": 10,
+    "Disabled_Percentage": 25,
+    "Children_Percentage": 52,
+    "Federal_Employees": 4169.0
+  },
+  "MN–8": {
+    "SNAP_Utilization": 9,
+    "Medicaid_Utilization": 29,
+    "Veterans_Percentage": 18,
+    "Disabled_Percentage": 29,
+    "Children_Percentage": 45,
+    "Federal_Employees": 4357.0
+  },
+  "MS–1": {
+    "SNAP_Utilization": 10,
+    "Medicaid_Utilization": 20,
+    "Veterans_Percentage": 16,
+    "Disabled_Percentage": 33,
+    "Children_Percentage": 49,
+    "Federal_Employees": 5398.0
+  },
+  "MS–2": {
+    "SNAP_Utilization": 19,
+    "Medicaid_Utilization": 32,
+    "Veterans_Percentage": 19,
+    "Disabled_Percentage": 34,
+    "Children_Percentage": 50,
+    "Federal_Employees": 7105.0
+  },
+  "MS–3": {
+    "SNAP_Utilization": 12,
+    "Medicaid_Utilization": 21,
+    "Veterans_Percentage": 14,
+    "Disabled_Percentage": 33,
+    "Children_Percentage": 49,
+    "Federal_Employees": 5656.0
+  },
+  "MS–4": {
+    "SNAP_Utilization": 11,
+    "Medicaid_Utilization": 22,
+    "Veterans_Percentage": 13,
+    "Disabled_Percentage": 36,
+    "Children_Percentage": 40,
+    "Federal_Employees": 11748.0
+  },
+  "MO–1": {
+    "SNAP_Utilization": 14,
+    "Medicaid_Utilization": 31,
+    "Veterans_Percentage": 13,
+    "Disabled_Percentage": 27,
+    "Children_Percentage": 49,
+    "Federal_Employees": 9218.0
+  },
+  "MO–2": {
+    "SNAP_Utilization": 3,
+    "Medicaid_Utilization": 11,
+    "Veterans_Percentage": 18,
+    "Disabled_Percentage": 22,
+    "Children_Percentage": 56,
+    "Federal_Employees": 4092.0
+  },
+  "MO–3": {
+    "SNAP_Utilization": 6,
+    "Medicaid_Utilization": 16,
+    "Veterans_Percentage": 13,
+    "Disabled_Percentage": 28,
+    "Children_Percentage": 41,
+    "Federal_Employees": 3747.0
+  },
+  "MO–4": {
+    "SNAP_Utilization": 10,
+    "Medicaid_Utilization": 26,
+    "Veterans_Percentage": 13,
+    "Disabled_Percentage": 32,
+    "Children_Percentage": 38,
+    "Federal_Employees": 9130.0
+  },
+  "MO–5": {
+    "SNAP_Utilization": 10,
+    "Medicaid_Utilization": 24,
+    "Veterans_Percentage": 17,
+    "Disabled_Percentage": 27,
+    "Children_Percentage": 49,
+    "Federal_Employees": 10963.0
+  },
+  "MO–6": {
+    "SNAP_Utilization": 8,
+    "Medicaid_Utilization": 22,
+    "Veterans_Percentage": 10,
+    "Disabled_Percentage": 29,
+    "Children_Percentage": 49,
+    "Federal_Employees": 6257.0
+  },
+  "MO–7": {
+    "SNAP_Utilization": 12,
+    "Medicaid_Utilization": 27,
+    "Veterans_Percentage": 10,
+    "Disabled_Percentage": 31,
+    "Children_Percentage": 48,
+    "Federal_Employees": 3151.0
+  },
+  "MO–8": {
+    "SNAP_Utilization": 13,
+    "Medicaid_Utilization": 32,
+    "Veterans_Percentage": 18,
+    "Disabled_Percentage": 35,
+    "Children_Percentage": 42,
+    "Federal_Employees": 6027.0
+  },
+  "MT–1": {
+    "SNAP_Utilization": 7,
+    "Medicaid_Utilization": 26,
+    "Veterans_Percentage": 19,
+    "Disabled_Percentage": 27,
+    "Children_Percentage": 49,
+    "Federal_Employees": 6845.0
+  },
+  "MT–2": {
+    "SNAP_Utilization": 8,
+    "Medicaid_Utilization": 28,
+    "Veterans_Percentage": 24,
+    "Disabled_Percentage": 29,
+    "Children_Percentage": 49,
+    "Federal_Employees": 8430.0
+  },
+  "NE–1": {
+    "SNAP_Utilization": 7,
+    "Medicaid_Utilization": 16,
+    "Veterans_Percentage": 17,
+    "Disabled_Percentage": 26,
+    "Children_Percentage": 47,
+    "Federal_Employees": 7437.0
+  },
+  "NE–2": {
+    "SNAP_Utilization": 9,
+    "Medicaid_Utilization": 17,
+    "Veterans_Percentage": 20,
+    "Disabled_Percentage": 24,
+    "Children_Percentage": 43,
+    "Federal_Employees": 5914.0
+  },
+  "NE–3": {
+    "SNAP_Utilization": 8,
+    "Medicaid_Utilization": 20,
+    "Veterans_Percentage": 15,
+    "Disabled_Percentage": 27,
+    "Children_Percentage": 47,
+    "Federal_Employees": 4041.0
+  },
+  "NV–1": {
+    "SNAP_Utilization": 18,
+    "Medicaid_Utilization": 32,
+    "Veterans_Percentage": 15,
+    "Disabled_Percentage": 30,
+    "Children_Percentage": 52,
+    "Federal_Employees": 6141.0
+  },
+  "NV–2": {
+    "SNAP_Utilization": 9,
+    "Medicaid_Utilization": 21,
+    "Veterans_Percentage": 17,
+    "Disabled_Percentage": 29,
+    "Children_Percentage": 44,
+    "Federal_Employees": 7224.0
+  },
+  "NV–3": {
+    "SNAP_Utilization": 10,
+    "Medicaid_Utilization": 22,
+    "Veterans_Percentage": 13,
+    "Disabled_Percentage": 27,
+    "Children_Percentage": 55,
+    "Federal_Employees": 6353.0
+  },
+  "NV–4": {
+    "SNAP_Utilization": 16,
+    "Medicaid_Utilization": 33,
+    "Veterans_Percentage": 14,
+    "Disabled_Percentage": 31,
+    "Children_Percentage": 55,
+    "Federal_Employees": 7904.0
+  },
+  "NH–1": {
+    "SNAP_Utilization": 6,
+    "Medicaid_Utilization": 16,
+    "Veterans_Percentage": 16,
+    "Disabled_Percentage": 26,
+    "Children_Percentage": 47,
+    "Federal_Employees": 7468.0
+  },
+  "NH–2": {
+    "SNAP_Utilization": 6,
+    "Medicaid_Utilization": 17,
+    "Veterans_Percentage": 19,
+    "Disabled_Percentage": 26,
+    "Children_Percentage": 44,
+    "Federal_Employees": 5521.0
+  },
+  "NJ–1": {
+    "SNAP_Utilization": 12,
+    "Medicaid_Utilization": 25,
+    "Veterans_Percentage": 15,
+    "Disabled_Percentage": 29,
+    "Children_Percentage": 52,
+    "Federal_Employees": 7048.0
+  },
+  "NJ–2": {
+    "SNAP_Utilization": 12,
+    "Medicaid_Utilization": 26,
+    "Veterans_Percentage": 17,
+    "Disabled_Percentage": 28,
+    "Children_Percentage": 49,
+    "Federal_Employees": 5867.0
+  },
+  "NJ–3": {
+    "SNAP_Utilization": 5,
+    "Medicaid_Utilization": 14,
+    "Veterans_Percentage": 14,
+    "Disabled_Percentage": 23,
+    "Children_Percentage": 51,
+    "Federal_Employees": 6819.0
+  },
+  "NJ–4": {
+    "SNAP_Utilization": 6,
+    "Medicaid_Utilization": 23,
+    "Veterans_Percentage": 13,
+    "Disabled_Percentage": 25,
+    "Children_Percentage": 62,
+    "Federal_Employees": 3735.0
+  },
+  "NJ–5": {
+    "SNAP_Utilization": 4,
+    "Medicaid_Utilization": 12,
+    "Veterans_Percentage": 19,
+    "Disabled_Percentage": 22,
+    "Children_Percentage": 49,
+    "Federal_Employees": 3951.0
+  },
+  "NJ–6": {
+    "SNAP_Utilization": 9,
+    "Medicaid_Utilization": 19,
+    "Veterans_Percentage": 11,
+    "Disabled_Percentage": 23,
+    "Children_Percentage": 56,
+    "Federal_Employees": 4457.0
+  },
+  "NJ–7": {
+    "SNAP_Utilization": 4,
+    "Medicaid_Utilization": 11,
+    "Veterans_Percentage": 11,
+    "Disabled_Percentage": 20,
+    "Children_Percentage": 56,
+    "Federal_Employees": 4607.0
+  },
+  "NJ–8": {
+    "SNAP_Utilization": 15,
+    "Medicaid_Utilization": 31,
+    "Veterans_Percentage": 17,
+    "Disabled_Percentage": 23,
+    "Children_Percentage": 50,
+    "Federal_Employees": 3616.0
+  },
+  "NJ–9": {
+    "SNAP_Utilization": 16,
+    "Medicaid_Utilization": 29,
+    "Veterans_Percentage": 26,
+    "Disabled_Percentage": 23,
+    "Children_Percentage": 62,
+    "Federal_Employees": 3091.0
+  },
+  "NJ–10": {
+    "SNAP_Utilization": 19,
+    "Medicaid_Utilization": 34,
+    "Veterans_Percentage": 8,
+    "Disabled_Percentage": 25,
+    "Children_Percentage": 57,
+    "Federal_Employees": 4969.0
+  },
+  "NJ–11": {
+    "SNAP_Utilization": 4,
+    "Medicaid_Utilization": 11,
+    "Veterans_Percentage": 5,
+    "Disabled_Percentage": 19,
+    "Children_Percentage": 62,
+    "Federal_Employees": 4429.0
+  },
+  "NJ–12": {
+    "SNAP_Utilization": 8,
+    "Medicaid_Utilization": 19,
+    "Veterans_Percentage": 5,
+    "Disabled_Percentage": 21,
+    "Children_Percentage": 53,
+    "Federal_Employees": 3330.0
+  },
+  "NM–1": {
+    "SNAP_Utilization": 16,
+    "Medicaid_Utilization": 32,
+    "Veterans_Percentage": 15,
+    "Disabled_Percentage": 30,
+    "Children_Percentage": 52,
+    "Federal_Employees": 16163.0
+  },
+  "NM–2": {
+    "SNAP_Utilization": 25,
+    "Medicaid_Utilization": 46,
+    "Veterans_Percentage": 20,
+    "Disabled_Percentage": 35,
+    "Children_Percentage": 51,
+    "Federal_Employees": 12849.0
+  },
+  "NM–3": {
+    "SNAP_Utilization": 20,
+    "Medicaid_Utilization": 43,
+    "Veterans_Percentage": 15,
+    "Disabled_Percentage": 34,
+    "Children_Percentage": 50,
+    "Federal_Employees": 14979.0
+  },
+  "NY–1": {
+    "SNAP_Utilization": 7,
+    "Medicaid_Utilization": 16,
+    "Veterans_Percentage": 17,
+    "Disabled_Percentage": 25,
+    "Children_Percentage": 35,
+    "Federal_Employees": 6746.0
+  },
+  "NY–2": {
+    "SNAP_Utilization": 10,
+    "Medicaid_Utilization": 22,
+    "Veterans_Percentage": 22,
+    "Disabled_Percentage": 27,
+    "Children_Percentage": 49,
+    "Federal_Employees": 7035.0
+  },
+  "NY–3": {
+    "SNAP_Utilization": 7,
+    "Medicaid_Utilization": 18,
+    "Veterans_Percentage": 15,
+    "Disabled_Percentage": 26,
+    "Children_Percentage": 40,
+    "Federal_Employees": 4416.0
+  },
+  "NY–4": {
+    "SNAP_Utilization": 6,
+    "Medicaid_Utilization": 21,
+    "Veterans_Percentage": 16,
+    "Disabled_Percentage": 23,
+    "Children_Percentage": 48,
+    "Federal_Employees": 4713.0
+  },
+  "NY–5": {
+    "SNAP_Utilization": 21,
+    "Medicaid_Utilization": 41,
+    "Veterans_Percentage": 22,
+    "Disabled_Percentage": 30,
+    "Children_Percentage": 48,
+    "Federal_Employees": 5325.0
+  },
+  "NY–6": {
+    "SNAP_Utilization": 17,
+    "Medicaid_Utilization": 41,
+    "Veterans_Percentage": 11,
+    "Disabled_Percentage": 23,
+    "Children_Percentage": 57,
+    "Federal_Employees": 4708.0
+  },
+  "NY–7": {
+    "SNAP_Utilization": 19,
+    "Medicaid_Utilization": 47,
+    "Veterans_Percentage": 10,
+    "Disabled_Percentage": 20,
+    "Children_Percentage": 57,
+    "Federal_Employees": 4851.0
+  },
+  "NY–8": {
+    "SNAP_Utilization": 31,
+    "Medicaid_Utilization": 50,
+    "Veterans_Percentage": 18,
+    "Disabled_Percentage": 30,
+    "Children_Percentage": 48,
+    "Federal_Employees": 5519.0
+  },
+  "NY–9": {
+    "SNAP_Utilization": 21,
+    "Medicaid_Utilization": 48,
+    "Veterans_Percentage": 25,
+    "Disabled_Percentage": 26,
+    "Children_Percentage": 57,
+    "Federal_Employees": 4206.0
+  },
+  "NY–10": {
+    "SNAP_Utilization": 15,
+    "Medicaid_Utilization": 35,
+    "Veterans_Percentage": 8,
+    "Disabled_Percentage": 18,
+    "Children_Percentage": 54,
+    "Federal_Employees": 3055.0
+  },
+  "NY–11": {
+    "SNAP_Utilization": 17,
+    "Medicaid_Utilization": 35,
+    "Veterans_Percentage": 6,
+    "Disabled_Percentage": 25,
+    "Children_Percentage": 59,
+    "Federal_Employees": 4671.0
+  },
+  "NY–12": {
+    "SNAP_Utilization": 5,
+    "Medicaid_Utilization": 13,
+    "Veterans_Percentage": 4,
+    "Disabled_Percentage": 14,
+    "Children_Percentage": 46,
+    "Federal_Employees": 6105.0
+  },
+  "NY–13": {
+    "SNAP_Utilization": 34,
+    "Medicaid_Utilization": 55,
+    "Veterans_Percentage": 6,
+    "Disabled_Percentage": 32,
+    "Children_Percentage": 51,
+    "Federal_Employees": 4492.0
+  },
+  "NY–14": {
+    "SNAP_Utilization": 27,
+    "Medicaid_Utilization": 52,
+    "Veterans_Percentage": 5,
+    "Disabled_Percentage": 29,
+    "Children_Percentage": 52,
+    "Federal_Employees": 3588.0
+  },
+  "NY–15": {
+    "SNAP_Utilization": 44,
+    "Medicaid_Utilization": 66,
+    "Veterans_Percentage": 5,
+    "Disabled_Percentage": 40,
+    "Children_Percentage": 47,
+    "Federal_Employees": 3193.0
+  },
+  "NY–16": {
+    "SNAP_Utilization": 12,
+    "Medicaid_Utilization": 27,
+    "Veterans_Percentage": 5,
+    "Disabled_Percentage": 24,
+    "Children_Percentage": 53,
+    "Federal_Employees": 4176.0
+  },
+  "NY–17": {
+    "SNAP_Utilization": 7,
+    "Medicaid_Utilization": 28,
+    "Veterans_Percentage": 5,
+    "Disabled_Percentage": 23,
+    "Children_Percentage": 61,
+    "Federal_Employees": 2640.0
+  },
+  "NY–18": {
+    "SNAP_Utilization": 11,
+    "Medicaid_Utilization": 30,
+    "Veterans_Percentage": 5,
+    "Disabled_Percentage": 25,
+    "Children_Percentage": 55,
+    "Federal_Employees": 5676.0
+  },
+  "NY–19": {
+    "SNAP_Utilization": 13,
+    "Medicaid_Utilization": 31,
+    "Veterans_Percentage": 8,
+    "Disabled_Percentage": 29,
+    "Children_Percentage": 46,
+    "Federal_Employees": 3642.0
+  },
+  "NY–20": {
+    "SNAP_Utilization": 11,
+    "Medicaid_Utilization": 26,
+    "Veterans_Percentage": 12,
+    "Disabled_Percentage": 24,
+    "Children_Percentage": 43,
+    "Federal_Employees": 7515.0
+  },
+  "NY–21": {
+    "SNAP_Utilization": 13,
+    "Medicaid_Utilization": 32,
+    "Veterans_Percentage": 5,
+    "Disabled_Percentage": 29,
+    "Children_Percentage": 45,
+    "Federal_Employees": 5668.0
+  },
+  "NY–22": {
+    "SNAP_Utilization": 15,
+    "Medicaid_Utilization": 32,
+    "Veterans_Percentage": 5,
+    "Disabled_Percentage": 27,
+    "Children_Percentage": 48,
+    "Federal_Employees": 6638.0
+  },
+  "NY–23": {
+    "SNAP_Utilization": 14,
+    "Medicaid_Utilization": 29,
+    "Veterans_Percentage": 12,
+    "Disabled_Percentage": 28,
+    "Children_Percentage": 53,
+    "Federal_Employees": 5765.0
+  },
+  "NY–24": {
+    "SNAP_Utilization": 13,
+    "Medicaid_Utilization": 31,
+    "Veterans_Percentage": 9,
+    "Disabled_Percentage": 29,
+    "Children_Percentage": 45,
+    "Federal_Employees": 5400.0
+  },
+  "NY–25": {
+    "SNAP_Utilization": 16,
+    "Medicaid_Utilization": 30,
+    "Veterans_Percentage": 9,
+    "Disabled_Percentage": 28,
+    "Children_Percentage": 46,
+    "Federal_Employees": 3047.0
+  },
+  "NY–26": {
+    "SNAP_Utilization": 19,
+    "Medicaid_Utilization": 38,
+    "Veterans_Percentage": 8,
+    "Disabled_Percentage": 27,
+    "Children_Percentage": 53,
+    "Federal_Employees": 5891.0
+  },
+  "NC–1": {
+    "SNAP_Utilization": 20,
+    "Medicaid_Utilization": 27,
+    "Veterans_Percentage": 15,
+    "Disabled_Percentage": 33,
+    "Children_Percentage": 50,
+    "Federal_Employees": 5377.0
+  },
+  "NC–2": {
+    "SNAP_Utilization": 5,
+    "Medicaid_Utilization": 13,
+    "Veterans_Percentage": 17,
+    "Disabled_Percentage": 17,
+    "Children_Percentage": 63,
+    "Federal_Employees": 5954.0
+  },
+  "NC–3": {
+    "SNAP_Utilization": 16,
+    "Medicaid_Utilization": 21,
+    "Veterans_Percentage": 13,
+    "Disabled_Percentage": 34,
+    "Children_Percentage": 50,
+    "Federal_Employees": 13983.0
+  },
+  "NC–4": {
+    "SNAP_Utilization": 9,
+    "Medicaid_Utilization": 12,
+    "Veterans_Percentage": 12,
+    "Disabled_Percentage": 22,
+    "Children_Percentage": 63,
+    "Federal_Employees": 6135.0
+  },
+  "NC–5": {
+    "SNAP_Utilization": 13,
+    "Medicaid_Utilization": 22,
+    "Veterans_Percentage": 18,
+    "Disabled_Percentage": 28,
+    "Children_Percentage": 53,
+    "Federal_Employees": 2255.0
+  },
+  "NC–6": {
+    "SNAP_Utilization": 16,
+    "Medicaid_Utilization": 21,
+    "Veterans_Percentage": 10,
+    "Disabled_Percentage": 27,
+    "Children_Percentage": 58,
+    "Federal_Employees": 6847.0
+  },
+  "NC–7": {
+    "SNAP_Utilization": 15,
+    "Medicaid_Utilization": 20,
+    "Veterans_Percentage": 10,
+    "Disabled_Percentage": 30,
+    "Children_Percentage": 53,
+    "Federal_Employees": 6812.0
+  },
+  "NC–8": {
+    "SNAP_Utilization": 14,
+    "Medicaid_Utilization": 19,
+    "Veterans_Percentage": 19,
+    "Disabled_Percentage": 29,
+    "Children_Percentage": 51,
+    "Federal_Employees": 4400.0
+  },
+  "NC–9": {
+    "SNAP_Utilization": 16,
+    "Medicaid_Utilization": 21,
+    "Veterans_Percentage": 24,
+    "Disabled_Percentage": 32,
+    "Children_Percentage": 50,
+    "Federal_Employees": 9936.0
+  },
+  "NC–10": {
+    "SNAP_Utilization": 13,
+    "Medicaid_Utilization": 19,
+    "Veterans_Percentage": 8,
+    "Disabled_Percentage": 29,
+    "Children_Percentage": 51,
+    "Federal_Employees": 3647.0
+  },
+  "NC–11": {
+    "SNAP_Utilization": 12,
+    "Medicaid_Utilization": 18,
+    "Veterans_Percentage": 5,
+    "Disabled_Percentage": 29,
+    "Children_Percentage": 49,
+    "Federal_Employees": 5321.0
+  },
+  "NC–12": {
+    "SNAP_Utilization": 11,
+    "Medicaid_Utilization": 19,
+    "Veterans_Percentage": 5,
+    "Disabled_Percentage": 21,
+    "Children_Percentage": 61,
+    "Federal_Employees": 5729.0
+  },
+  "NC–13": {
+    "SNAP_Utilization": 9,
+    "Medicaid_Utilization": 18,
+    "Veterans_Percentage": 6,
+    "Disabled_Percentage": 25,
+    "Children_Percentage": 62,
+    "Federal_Employees": 3943.0
+  },
+  "NC–14": {
+    "SNAP_Utilization": 9,
+    "Medicaid_Utilization": 18,
+    "Veterans_Percentage": 4,
+    "Disabled_Percentage": 19,
+    "Children_Percentage": 65,
+    "Federal_Employees": 4114.0
+  },
+  "ND–1": {
+    "SNAP_Utilization": 7,
+    "Medicaid_Utilization": 17,
+    "Veterans_Percentage": 14,
+    "Disabled_Percentage": 24,
+    "Children_Percentage": 49,
+    "Federal_Employees": 9106.0
+  },
+  "OH–1": {
+    "SNAP_Utilization": 12,
+    "Medicaid_Utilization": 22,
+    "Veterans_Percentage": 14,
+    "Disabled_Percentage": 23,
+    "Children_Percentage": 52,
+    "Federal_Employees": 6491.0
+  },
+  "OH–2": {
+    "SNAP_Utilization": 14,
+    "Medicaid_Utilization": 32,
+    "Veterans_Percentage": 17,
+    "Disabled_Percentage": 33,
+    "Children_Percentage": 44,
+    "Federal_Employees": 4902.0
+  },
+  "OH–3": {
+    "SNAP_Utilization": 10,
+    "Medicaid_Utilization": 28,
+    "Veterans_Percentage": 12,
+    "Disabled_Percentage": 23,
+    "Children_Percentage": 55,
+    "Federal_Employees": 5084.0
+  },
+  "OH–4": {
+    "SNAP_Utilization": 11,
+    "Medicaid_Utilization": 22,
+    "Veterans_Percentage": 12,
+    "Disabled_Percentage": 29,
+    "Children_Percentage": 42,
+    "Federal_Employees": 2572.0
+  },
+  "OH–5": {
+    "SNAP_Utilization": 10,
+    "Medicaid_Utilization": 24,
+    "Veterans_Percentage": 17,
+    "Disabled_Percentage": 27,
+    "Children_Percentage": 48,
+    "Federal_Employees": 4712.0
+  },
+  "OH–6": {
+    "SNAP_Utilization": 16,
+    "Medicaid_Utilization": 30,
+    "Veterans_Percentage": 9,
+    "Disabled_Percentage": 32,
+    "Children_Percentage": 45,
+    "Federal_Employees": 3814.0
+  },
+  "OH–7": {
+    "SNAP_Utilization": 7,
+    "Medicaid_Utilization": 16,
+    "Veterans_Percentage": 10,
+    "Disabled_Percentage": 26,
+    "Children_Percentage": 48,
+    "Federal_Employees": 4700.0
+  },
+  "OH–8": {
+    "SNAP_Utilization": 10,
+    "Medicaid_Utilization": 24,
+    "Veterans_Percentage": 18,
+    "Disabled_Percentage": 28,
+    "Children_Percentage": 45,
+    "Federal_Employees": 7489.0
+  },
+  "OH–9": {
+    "SNAP_Utilization": 13,
+    "Medicaid_Utilization": 28,
+    "Veterans_Percentage": 21,
+    "Disabled_Percentage": 30,
+    "Children_Percentage": 48,
+    "Federal_Employees": 2854.0
+  },
+  "OH–10": {
+    "SNAP_Utilization": 13,
+    "Medicaid_Utilization": 29,
+    "Veterans_Percentage": 7,
+    "Disabled_Percentage": 29,
+    "Children_Percentage": 50,
+    "Federal_Employees": 15185.0
+  },
+  "OH–11": {
+    "SNAP_Utilization": 21,
+    "Medicaid_Utilization": 43,
+    "Veterans_Percentage": 4,
+    "Disabled_Percentage": 29,
+    "Children_Percentage": 48,
+    "Federal_Employees": 6623.0
+  },
+  "OH–12": {
+    "SNAP_Utilization": 13,
+    "Medicaid_Utilization": 25,
+    "Veterans_Percentage": 5,
+    "Disabled_Percentage": 30,
+    "Children_Percentage": 40,
+    "Federal_Employees": 4169.0
+  },
+  "OH–13": {
+    "SNAP_Utilization": 14,
+    "Medicaid_Utilization": 27,
+    "Veterans_Percentage": 5,
+    "Disabled_Percentage": 27,
+    "Children_Percentage": 52,
+    "Federal_Employees": 3959.0
+  },
+  "OH–14": {
+    "SNAP_Utilization": 11,
+    "Medicaid_Utilization": 24,
+    "Veterans_Percentage": 4,
+    "Disabled_Percentage": 29,
+    "Children_Percentage": 48,
+    "Federal_Employees": 3819.0
+  },
+  "OH–15": {
+    "SNAP_Utilization": 12,
+    "Medicaid_Utilization": 26,
+    "Veterans_Percentage": 5,
+    "Disabled_Percentage": 26,
+    "Children_Percentage": 54,
+    "Federal_Employees": 4279.0
+  },
+  "OK–1": {
+    "SNAP_Utilization": 13,
+    "Medicaid_Utilization": 27,
+    "Veterans_Percentage": 14,
+    "Disabled_Percentage": 30,
+    "Children_Percentage": 49,
+    "Federal_Employees": 5994.0
+  },
+  "OK–2": {
+    "SNAP_Utilization": 19,
+    "Medicaid_Utilization": 36,
+    "Veterans_Percentage": 17,
+    "Disabled_Percentage": 40,
+    "Children_Percentage": 45,
+    "Federal_Employees": 11637.0
+  },
+  "OK–3": {
+    "SNAP_Utilization": 17,
+    "Medicaid_Utilization": 33,
+    "Veterans_Percentage": 14,
+    "Disabled_Percentage": 35,
+    "Children_Percentage": 49,
+    "Federal_Employees": 9551.0
+  },
+  "OK–4": {
+    "SNAP_Utilization": 15,
+    "Medicaid_Utilization": 27,
+    "Veterans_Percentage": 12,
+    "Disabled_Percentage": 34,
+    "Children_Percentage": 49,
+    "Federal_Employees": 19333.0
+  },
+  "OK–5": {
+    "SNAP_Utilization": 12,
+    "Medicaid_Utilization": 25,
+    "Veterans_Percentage": 17,
+    "Disabled_Percentage": 31,
+    "Children_Percentage": 49,
+    "Federal_Employees": 13306.0
+  },
+  "OR–1": {
+    "SNAP_Utilization": 13,
+    "Medicaid_Utilization": 21,
+    "Veterans_Percentage": 15,
+    "Disabled_Percentage": 24,
+    "Children_Percentage": 46,
+    "Federal_Employees": 2675.0
+  },
+  "OR–2": {
+    "SNAP_Utilization": 22,
+    "Medicaid_Utilization": 36,
+    "Veterans_Percentage": 19,
+    "Disabled_Percentage": 34,
+    "Children_Percentage": 49,
+    "Federal_Employees": 5410.0
+  },
+  "OR–3": {
+    "SNAP_Utilization": 17,
+    "Medicaid_Utilization": 28,
+    "Veterans_Percentage": 15,
+    "Disabled_Percentage": 26,
+    "Children_Percentage": 50,
+    "Federal_Employees": 4656.0
+  },
+  "OR–4": {
+    "SNAP_Utilization": 20,
+    "Medicaid_Utilization": 32,
+    "Veterans_Percentage": 13,
+    "Disabled_Percentage": 32,
+    "Children_Percentage": 51,
+    "Federal_Employees": 5591.0
+  },
+  "OR–5": {
+    "SNAP_Utilization": 12,
+    "Medicaid_Utilization": 24,
+    "Veterans_Percentage": 19,
+    "Disabled_Percentage": 28,
+    "Children_Percentage": 48,
+    "Federal_Employees": 3460.0
+  },
+  "OR–6": {
+    "SNAP_Utilization": 17,
+    "Medicaid_Utilization": 28,
+    "Veterans_Percentage": 11,
+    "Disabled_Percentage": 30,
+    "Children_Percentage": 50,
+    "Federal_Employees": 3392.0
+  },
+  "PA–1": {
+    "SNAP_Utilization": 8,
+    "Medicaid_Utilization": 16,
+    "Veterans_Percentage": 16,
+    "Disabled_Percentage": 25,
+    "Children_Percentage": 46,
+    "Federal_Employees": 3568.0
+  },
+  "PA–2": {
+    "SNAP_Utilization": 32,
+    "Medicaid_Utilization": 50,
+    "Veterans_Percentage": 19,
+    "Disabled_Percentage": 37,
+    "Children_Percentage": 41,
+    "Federal_Employees": 6154.0
+  },
+  "PA–3": {
+    "SNAP_Utilization": 22,
+    "Medicaid_Utilization": 40,
+    "Veterans_Percentage": 11,
+    "Disabled_Percentage": 29,
+    "Children_Percentage": 48,
+    "Federal_Employees": 7148.0
+  },
+  "PA–4": {
+    "SNAP_Utilization": 8,
+    "Medicaid_Utilization": 15,
+    "Veterans_Percentage": 13,
+    "Disabled_Percentage": 23,
+    "Children_Percentage": 54,
+    "Federal_Employees": 4167.0
+  },
+  "PA–5": {
+    "SNAP_Utilization": 13,
+    "Medicaid_Utilization": 27,
+    "Veterans_Percentage": 19,
+    "Disabled_Percentage": 27,
+    "Children_Percentage": 49,
+    "Federal_Employees": 5602.0
+  },
+  "PA–6": {
+    "SNAP_Utilization": 10,
+    "Medicaid_Utilization": 21,
+    "Veterans_Percentage": 11,
+    "Disabled_Percentage": 23,
+    "Children_Percentage": 50,
+    "Federal_Employees": 4204.0
+  },
+  "PA–7": {
+    "SNAP_Utilization": 13,
+    "Medicaid_Utilization": 26,
+    "Veterans_Percentage": 10,
+    "Disabled_Percentage": 28,
+    "Children_Percentage": 51,
+    "Federal_Employees": 2981.0
+  },
+  "PA–8": {
+    "SNAP_Utilization": 19,
+    "Medicaid_Utilization": 31,
+    "Veterans_Percentage": 18,
+    "Disabled_Percentage": 33,
+    "Children_Percentage": 49,
+    "Federal_Employees": 7006.0
+  },
+  "PA–9": {
+    "SNAP_Utilization": 14,
+    "Medicaid_Utilization": 26,
+    "Veterans_Percentage": 23,
+    "Disabled_Percentage": 30,
+    "Children_Percentage": 48,
+    "Federal_Employees": 5006.0
+  },
+  "PA–10": {
+    "SNAP_Utilization": 12,
+    "Medicaid_Utilization": 24,
+    "Veterans_Percentage": 8,
+    "Disabled_Percentage": 28,
+    "Children_Percentage": 48,
+    "Federal_Employees": 8892.0
+  },
+  "PA–11": {
+    "SNAP_Utilization": 11,
+    "Medicaid_Utilization": 20,
+    "Veterans_Percentage": 5,
+    "Disabled_Percentage": 28,
+    "Children_Percentage": 48,
+    "Federal_Employees": 3864.0
+  },
+  "PA–12": {
+    "SNAP_Utilization": 14,
+    "Medicaid_Utilization": 26,
+    "Veterans_Percentage": 4,
+    "Disabled_Percentage": 25,
+    "Children_Percentage": 50,
+    "Federal_Employees": 5748.0
+  },
+  "PA–13": {
+    "SNAP_Utilization": 15,
+    "Medicaid_Utilization": 27,
+    "Veterans_Percentage": 6,
+    "Disabled_Percentage": 30,
+    "Children_Percentage": 48,
+    "Federal_Employees": 6971.0
+  },
+  "PA–14": {
+    "SNAP_Utilization": 18,
+    "Medicaid_Utilization": 27,
+    "Veterans_Percentage": 5,
+    "Disabled_Percentage": 31,
+    "Children_Percentage": 49,
+    "Federal_Employees": 3832.0
+  },
+  "PA–15": {
+    "SNAP_Utilization": 15,
+    "Medicaid_Utilization": 26,
+    "Veterans_Percentage": 5,
+    "Disabled_Percentage": 30,
+    "Children_Percentage": 45,
+    "Federal_Employees": 4340.0
+  },
+  "PA–16": {
+    "SNAP_Utilization": 17,
+    "Medicaid_Utilization": 29,
+    "Veterans_Percentage": 4,
+    "Disabled_Percentage": 30,
+    "Children_Percentage": 48,
+    "Federal_Employees": 4680.0
+  },
+  "PA–17": {
+    "SNAP_Utilization": 11,
+    "Medicaid_Utilization": 19,
+    "Veterans_Percentage": 4,
+    "Disabled_Percentage": 24,
+    "Children_Percentage": 49,
+    "Federal_Employees": 5887.0
+  },
+  "PR-1": {
+    "SNAP_Utilization": 15,
+    "Medicaid_Utilization": 33,
+    "Veterans_Percentage": 21,
+    "Disabled_Percentage": 0,
+    "Children_Percentage": 52,
+    "Federal_Employees": 15751.0
+  },
+  "RI–1": {
+    "SNAP_Utilization": 11,
+    "Medicaid_Utilization": 27,
+    "Veterans_Percentage": 21,
+    "Disabled_Percentage": 28,
+    "Children_Percentage": 48,
+    "Federal_Employees": 5968.0
+  },
+  "RI–2": {
+    "SNAP_Utilization": 6,
+    "Medicaid_Utilization": 17,
+    "Veterans_Percentage": 17,
+    "Disabled_Percentage": 19,
+    "Children_Percentage": 48,
+    "Federal_Employees": 5912.0
+  },
+  "SC–1": {
+    "SNAP_Utilization": 10,
+    "Medicaid_Utilization": 22,
+    "Veterans_Percentage": 15,
+    "Disabled_Percentage": 29,
+    "Children_Percentage": 47,
+    "Federal_Employees": 10523.0
+  },
+  "SC–2": {
+    "SNAP_Utilization": 11,
+    "Medicaid_Utilization": 24,
+    "Veterans_Percentage": 18,
+    "Disabled_Percentage": 29,
+    "Children_Percentage": 52,
+    "Federal_Employees": 11541.0
+  },
+  "SC–3": {
+    "SNAP_Utilization": 9,
+    "Medicaid_Utilization": 21,
+    "Veterans_Percentage": 13,
+    "Disabled_Percentage": 30,
+    "Children_Percentage": 49,
+    "Federal_Employees": 3736.0
+  },
+  "SC–4": {
+    "SNAP_Utilization": 11,
+    "Medicaid_Utilization": 23,
+    "Veterans_Percentage": 13,
+    "Disabled_Percentage": 28,
+    "Children_Percentage": 54,
+    "Federal_Employees": 3698.0
+  },
+  "SC–5": {
+    "SNAP_Utilization": 16,
+    "Medicaid_Utilization": 29,
+    "Veterans_Percentage": 18,
+    "Disabled_Percentage": 27,
+    "Children_Percentage": 52,
+    "Federal_Employees": 4290.0
+  },
+  "SC–6": {
+    "SNAP_Utilization": 13,
+    "Medicaid_Utilization": 28,
+    "Veterans_Percentage": 9,
+    "Disabled_Percentage": 27,
+    "Children_Percentage": 53,
+    "Federal_Employees": 6223.0
+  },
+  "SC–7": {
+    "SNAP_Utilization": 8,
+    "Medicaid_Utilization": 14,
+    "Veterans_Percentage": 8,
+    "Disabled_Percentage": 28,
+    "Children_Percentage": 46,
+    "Federal_Employees": 2917.0
+  },
+  "SD–1": {
+    "SNAP_Utilization": 11,
+    "Medicaid_Utilization": 27,
+    "Veterans_Percentage": 14,
+    "Disabled_Percentage": 29,
+    "Children_Percentage": 40,
+    "Federal_Employees": 10401.0
+  },
+  "TN–1": {
+    "SNAP_Utilization": 8,
+    "Medicaid_Utilization": 20,
+    "Veterans_Percentage": 14,
+    "Disabled_Percentage": 36,
+    "Children_Percentage": 50,
+    "Federal_Employees": 6517.0
+  },
+  "TN–2": {
+    "SNAP_Utilization": 10,
+    "Medicaid_Utilization": 24,
+    "Veterans_Percentage": 17,
+    "Disabled_Percentage": 26,
+    "Children_Percentage": 53,
+    "Federal_Employees": 7253.0
+  },
+  "TN–3": {
+    "SNAP_Utilization": 10,
+    "Medicaid_Utilization": 23,
+    "Veterans_Percentage": 14,
+    "Disabled_Percentage": 31,
+    "Children_Percentage": 51,
+    "Federal_Employees": 9763.0
+  },
+  "TN–4": {
+    "SNAP_Utilization": 4,
+    "Medicaid_Utilization": 16,
+    "Veterans_Percentage": 12,
+    "Disabled_Percentage": 28,
+    "Children_Percentage": 53,
+    "Federal_Employees": 8233.0
+  },
+  "TN–5": {
+    "SNAP_Utilization": 9,
+    "Medicaid_Utilization": 24,
+    "Veterans_Percentage": 17,
+    "Disabled_Percentage": 21,
+    "Children_Percentage": 58,
+    "Federal_Employees": 5257.0
+  },
+  "TN–6": {
+    "SNAP_Utilization": 8,
+    "Medicaid_Utilization": 21,
+    "Veterans_Percentage": 9,
+    "Disabled_Percentage": 26,
+    "Children_Percentage": 46,
+    "Federal_Employees": 5608.0
+  },
+  "TN–7": {
+    "SNAP_Utilization": 12,
+    "Medicaid_Utilization": 24,
+    "Veterans_Percentage": 10,
+    "Disabled_Percentage": 29,
+    "Children_Percentage": 55,
+    "Federal_Employees": 9394.0
+  },
+  "TN–8": {
+    "SNAP_Utilization": 18,
+    "Medicaid_Utilization": 32,
+    "Veterans_Percentage": 18,
+    "Disabled_Percentage": 31,
+    "Children_Percentage": 63,
+    "Federal_Employees": 4941.0
+  },
+  "TN–9": {
+    "SNAP_Utilization": 13,
+    "Medicaid_Utilization": 22,
+    "Veterans_Percentage": 24,
+    "Disabled_Percentage": 27,
+    "Children_Percentage": 51,
+    "Federal_Employees": 9323.0
+  },
+  "TX–1": {
+    "SNAP_Utilization": 7,
+    "Medicaid_Utilization": 14,
+    "Veterans_Percentage": 15,
+    "Disabled_Percentage": 32,
+    "Children_Percentage": 66,
+    "Federal_Employees": 6775.0
+  },
+  "TX–2": {
+    "SNAP_Utilization": 4,
+    "Medicaid_Utilization": 9,
+    "Veterans_Percentage": 18,
+    "Disabled_Percentage": 26,
+    "Children_Percentage": 50,
+    "Federal_Employees": 5185.0
+  },
+  "TX–3": {
+    "SNAP_Utilization": 5,
+    "Medicaid_Utilization": 12,
+    "Veterans_Percentage": 13,
+    "Disabled_Percentage": 20,
+    "Children_Percentage": 50,
+    "Federal_Employees": 5178.0
+  },
+  "TX–4": {
+    "SNAP_Utilization": 11,
+    "Medicaid_Utilization": 20,
+    "Veterans_Percentage": 14,
+    "Disabled_Percentage": 26,
+    "Children_Percentage": 53,
+    "Federal_Employees": 4134.0
+  },
+  "TX–5": {
+    "SNAP_Utilization": 9,
+    "Medicaid_Utilization": 19,
+    "Veterans_Percentage": 20,
+    "Disabled_Percentage": 28,
+    "Children_Percentage": 53,
+    "Federal_Employees": 4202.0
+  },
+  "TX–6": {
+    "SNAP_Utilization": 11,
+    "Medicaid_Utilization": 17,
+    "Veterans_Percentage": 9,
+    "Disabled_Percentage": 23,
+    "Children_Percentage": 63,
+    "Federal_Employees": 4999.0
+  },
+  "TX–7": {
+    "SNAP_Utilization": 9,
+    "Medicaid_Utilization": 16,
+    "Veterans_Percentage": 11,
+    "Disabled_Percentage": 23,
+    "Children_Percentage": 61,
+    "Federal_Employees": 3301.0
+  },
+  "TX–8": {
+    "SNAP_Utilization": 16,
+    "Medicaid_Utilization": 25,
+    "Veterans_Percentage": 19,
+    "Disabled_Percentage": 27,
+    "Children_Percentage": 49,
+    "Federal_Employees": 3394.0
+  },
+  "TX–9": {
+    "SNAP_Utilization": 8,
+    "Medicaid_Utilization": 14,
+    "Veterans_Percentage": 23,
+    "Disabled_Percentage": 26,
+    "Children_Percentage": 59,
+    "Federal_Employees": 5132.0
+  },
+  "TX–10": {
+    "SNAP_Utilization": 10,
+    "Medicaid_Utilization": 18,
+    "Veterans_Percentage": 8,
+    "Disabled_Percentage": 24,
+    "Children_Percentage": 58,
+    "Federal_Employees": 4933.0
+  },
+  "TX–11": {
+    "SNAP_Utilization": 9,
+    "Medicaid_Utilization": 15,
+    "Veterans_Percentage": 5,
+    "Disabled_Percentage": 30,
+    "Children_Percentage": 54,
+    "Federal_Employees": 10174.0
+  },
+  "TX–12": {
+    "SNAP_Utilization": 10,
+    "Medicaid_Utilization": 18,
+    "Veterans_Percentage": 5,
+    "Disabled_Percentage": 27,
+    "Children_Percentage": 53,
+    "Federal_Employees": 8964.0
+  },
+  "TX–13": {
+    "SNAP_Utilization": 12,
+    "Medicaid_Utilization": 18,
+    "Veterans_Percentage": 6,
+    "Disabled_Percentage": 29,
+    "Children_Percentage": 52,
+    "Federal_Employees": 9667.0
+  },
+  "TX–14": {
+    "SNAP_Utilization": 22,
+    "Medicaid_Utilization": 30,
+    "Veterans_Percentage": 6,
+    "Disabled_Percentage": 33,
+    "Children_Percentage": 53,
+    "Federal_Employees": 4939.0
+  },
+  "TX–15": {
+    "SNAP_Utilization": 19,
+    "Medicaid_Utilization": 26,
+    "Veterans_Percentage": 5,
+    "Disabled_Percentage": 31,
+    "Children_Percentage": 59,
+    "Federal_Employees": 5854.0
+  },
+  "TX–16": {
+    "SNAP_Utilization": 13,
+    "Medicaid_Utilization": 20,
+    "Veterans_Percentage": 5,
+    "Disabled_Percentage": 27,
+    "Children_Percentage": 54,
+    "Federal_Employees": 13932.0
+  },
+  "TX–17": {
+    "SNAP_Utilization": 19,
+    "Medicaid_Utilization": 27,
+    "Veterans_Percentage": 5,
+    "Disabled_Percentage": 32,
+    "Children_Percentage": 59,
+    "Federal_Employees": 4528.0
+  },
+  "TX–18": {
+    "SNAP_Utilization": 12,
+    "Medicaid_Utilization": 20,
+    "Veterans_Percentage": 5,
+    "Disabled_Percentage": 25,
+    "Children_Percentage": 53,
+    "Federal_Employees": 7081.0
+  },
+  "TX–19": {
+    "SNAP_Utilization": 16,
+    "Medicaid_Utilization": 25,
+    "Veterans_Percentage": 9,
+    "Disabled_Percentage": 30,
+    "Children_Percentage": 47,
+    "Federal_Employees": 5367.0
+  },
+  "TX–20": {
+    "SNAP_Utilization": 4,
+    "Medicaid_Utilization": 11,
+    "Veterans_Percentage": 12,
+    "Disabled_Percentage": 28,
+    "Children_Percentage": 46,
+    "Federal_Employees": 9713.0
+  },
+  "TX–21": {
+    "SNAP_Utilization": 8,
+    "Medicaid_Utilization": 12,
+    "Veterans_Percentage": 6,
+    "Disabled_Percentage": 32,
+    "Children_Percentage": 60,
+    "Federal_Employees": 9418.0
+  },
+  "TX–22": {
+    "SNAP_Utilization": 13,
+    "Medicaid_Utilization": 21,
+    "Veterans_Percentage": 6,
+    "Disabled_Percentage": 24,
+    "Children_Percentage": 52,
+    "Federal_Employees": 4297.0
+  },
+  "TX–23": {
+    "SNAP_Utilization": 4,
+    "Medicaid_Utilization": 9,
+    "Veterans_Percentage": 13,
+    "Disabled_Percentage": 28,
+    "Children_Percentage": 64,
+    "Federal_Employees": 15378.0
+  },
+  "TX–24": {
+    "SNAP_Utilization": 8,
+    "Medicaid_Utilization": 16,
+    "Veterans_Percentage": 10,
+    "Disabled_Percentage": 20,
+    "Children_Percentage": 60,
+    "Federal_Employees": 4457.0
+  },
+  "TX–25": {
+    "SNAP_Utilization": 4,
+    "Medicaid_Utilization": 9,
+    "Veterans_Percentage": 10,
+    "Disabled_Percentage": 26,
+    "Children_Percentage": 44,
+    "Federal_Employees": 8245.0
+  },
+  "TX–26": {
+    "SNAP_Utilization": 14,
+    "Medicaid_Utilization": 22,
+    "Veterans_Percentage": 9,
+    "Disabled_Percentage": 24,
+    "Children_Percentage": 51,
+    "Federal_Employees": 4822.0
+  },
+  "TX–27": {
+    "SNAP_Utilization": 21,
+    "Medicaid_Utilization": 28,
+    "Veterans_Percentage": 10,
+    "Disabled_Percentage": 35,
+    "Children_Percentage": 47,
+    "Federal_Employees": 7935.0
+  },
+  "TX–28": {
+    "SNAP_Utilization": 22,
+    "Medicaid_Utilization": 31,
+    "Veterans_Percentage": 7,
+    "Disabled_Percentage": 39,
+    "Children_Percentage": 58,
+    "Federal_Employees": 10396.0
+  },
+  "TX–29": {
+    "SNAP_Utilization": 13,
+    "Medicaid_Utilization": 25,
+    "Veterans_Percentage": 3,
+    "Disabled_Percentage": 23,
+    "Children_Percentage": 48,
+    "Federal_Employees": 3146.0
+  },
+  "TX–30": {
+    "SNAP_Utilization": 7,
+    "Medicaid_Utilization": 14,
+    "Veterans_Percentage": 4,
+    "Disabled_Percentage": 25,
+    "Children_Percentage": 53,
+    "Federal_Employees": 7469.0
+  },
+  "TX–31": {
+    "SNAP_Utilization": 9,
+    "Medicaid_Utilization": 19,
+    "Veterans_Percentage": 5,
+    "Disabled_Percentage": 26,
+    "Children_Percentage": 62,
+    "Federal_Employees": 8276.0
+  },
+  "TX–32": {
+    "SNAP_Utilization": 14,
+    "Medicaid_Utilization": 25,
+    "Veterans_Percentage": 6,
+    "Disabled_Percentage": 24,
+    "Children_Percentage": 52,
+    "Federal_Employees": 4529.0
+  },
+  "TX–33": {
+    "SNAP_Utilization": 26,
+    "Medicaid_Utilization": 34,
+    "Veterans_Percentage": 8,
+    "Disabled_Percentage": 26,
+    "Children_Percentage": 57,
+    "Federal_Employees": 3818.0
+  },
+  "TX–34": {
+    "SNAP_Utilization": 13,
+    "Medicaid_Utilization": 23,
+    "Veterans_Percentage": 3,
+    "Disabled_Percentage": 24,
+    "Children_Percentage": 48,
+    "Federal_Employees": 6974.0
+  },
+  "TX–35": {
+    "SNAP_Utilization": 13,
+    "Medicaid_Utilization": 19,
+    "Veterans_Percentage": 6,
+    "Disabled_Percentage": 30,
+    "Children_Percentage": 59,
+    "Federal_Employees": 8515.0
+  },
+  "TX–36": {
+    "SNAP_Utilization": 5,
+    "Medicaid_Utilization": 11,
+    "Veterans_Percentage": 5,
+    "Disabled_Percentage": 22,
+    "Children_Percentage": 65,
+    "Federal_Employees": 4440.0
+  },
+  "TX–37": {
+    "SNAP_Utilization": 5,
+    "Medicaid_Utilization": 12,
+    "Veterans_Percentage": 3,
+    "Disabled_Percentage": 23,
+    "Children_Percentage": 66,
+    "Federal_Employees": 5108.0
+  },
+  "TX–38": {
+    "SNAP_Utilization": 5,
+    "Medicaid_Utilization": 14,
+    "Veterans_Percentage": 6,
+    "Disabled_Percentage": 21,
+    "Children_Percentage": 47,
+    "Federal_Employees": 3063.0
+  },
+  "UT–1": {
+    "SNAP_Utilization": 6,
+    "Medicaid_Utilization": 16,
+    "Veterans_Percentage": 15,
+    "Disabled_Percentage": 24,
+    "Children_Percentage": 37,
+    "Federal_Employees": 18216.0
+  },
+  "UT–2": {
+    "SNAP_Utilization": 5,
+    "Medicaid_Utilization": 13,
+    "Veterans_Percentage": 19,
+    "Disabled_Percentage": 29,
+    "Children_Percentage": 46,
+    "Federal_Employees": 8076.0
+  },
+  "UT–3": {
+    "SNAP_Utilization": 5,
+    "Medicaid_Utilization": 12,
+    "Veterans_Percentage": 15,
+    "Disabled_Percentage": 25,
+    "Children_Percentage": 48,
+    "Federal_Employees": 4411.0
+  },
+  "UT–4": {
+    "SNAP_Utilization": 10,
+    "Medicaid_Utilization": 29,
+    "Veterans_Percentage": 14,
+    "Disabled_Percentage": 24,
+    "Children_Percentage": 43,
+    "Federal_Employees": 4307.0
+  },
+  "VT–1": {
+    "SNAP_Utilization": 6,
+    "Medicaid_Utilization": 15,
+    "Veterans_Percentage": 14,
+    "Disabled_Percentage": 22,
+    "Children_Percentage": 58,
+    "Federal_Employees": 5499.0
+  },
+  "VA–1": {
+    "SNAP_Utilization": 8,
+    "Medicaid_Utilization": 18,
+    "Veterans_Percentage": 15,
+    "Disabled_Percentage": 25,
+    "Children_Percentage": 54,
+    "Federal_Employees": 13068.0
+  },
+  "VA–2": {
+    "SNAP_Utilization": 17,
+    "Medicaid_Utilization": 33,
+    "Veterans_Percentage": 17,
+    "Disabled_Percentage": 24,
+    "Children_Percentage": 55,
+    "Federal_Employees": 21064.0
+  },
+  "VA–3": {
+    "SNAP_Utilization": 14,
+    "Medicaid_Utilization": 32,
+    "Veterans_Percentage": 13,
+    "Disabled_Percentage": 29,
+    "Children_Percentage": 56,
+    "Federal_Employees": 20411.0
+  },
+  "VA–4": {
+    "SNAP_Utilization": 13,
+    "Medicaid_Utilization": 26,
+    "Veterans_Percentage": 12,
+    "Disabled_Percentage": 26,
+    "Children_Percentage": 44,
+    "Federal_Employees": 12946.0
+  },
+  "VA–5": {
+    "SNAP_Utilization": 10,
+    "Medicaid_Utilization": 25,
+    "Veterans_Percentage": 18,
+    "Disabled_Percentage": 29,
+    "Children_Percentage": 52,
+    "Federal_Employees": 7427.0
+  },
+  "VA–6": {
+    "SNAP_Utilization": 9,
+    "Medicaid_Utilization": 20,
+    "Veterans_Percentage": 11,
+    "Disabled_Percentage": 33,
+    "Children_Percentage": 47,
+    "Federal_Employees": 7474.0
+  },
+  "VA–7": {
+    "SNAP_Utilization": 6,
+    "Medicaid_Utilization": 14,
+    "Veterans_Percentage": 10,
+    "Disabled_Percentage": 22,
+    "Children_Percentage": 60,
+    "Federal_Employees": 38205.0
+  },
+  "VA–8": {
+    "SNAP_Utilization": 18,
+    "Medicaid_Utilization": 30,
+    "Veterans_Percentage": 17,
+    "Disabled_Percentage": 16,
+    "Children_Percentage": 43,
+    "Federal_Employees": 49836.0
+  },
+  "VA–9": {
+    "SNAP_Utilization": 4,
+    "Medicaid_Utilization": 12,
+    "Veterans_Percentage": 26,
+    "Disabled_Percentage": 44,
+    "Children_Percentage": 66,
+    "Federal_Employees": 4737.0
+  },
+  "VA–10": {
+    "SNAP_Utilization": 3,
+    "Medicaid_Utilization": 10,
+    "Veterans_Percentage": 9,
+    "Disabled_Percentage": 18,
+    "Children_Percentage": 58,
+    "Federal_Employees": 23437.0
+  },
+  "VA–11": {
+    "SNAP_Utilization": 6,
+    "Medicaid_Utilization": 16,
+    "Veterans_Percentage": 5,
+    "Disabled_Percentage": 16,
+    "Children_Percentage": 50,
+    "Federal_Employees": 35637.0
+  },
+  "WA–1": {
+    "SNAP_Utilization": 12,
+    "Medicaid_Utilization": 27,
+    "Veterans_Percentage": 14,
+    "Disabled_Percentage": 20,
+    "Children_Percentage": 48,
+    "Federal_Employees": 3444.0
+  },
+  "WA–2": {
+    "SNAP_Utilization": 14,
+    "Medicaid_Utilization": 30,
+    "Veterans_Percentage": 18,
+    "Disabled_Percentage": 29,
+    "Children_Percentage": 42,
+    "Federal_Employees": 5487.0
+  },
+  "WA–3": {
+    "SNAP_Utilization": 18,
+    "Medicaid_Utilization": 42,
+    "Veterans_Percentage": 15,
+    "Disabled_Percentage": 36,
+    "Children_Percentage": 52,
+    "Federal_Employees": 6931.0
+  },
+  "WA–4": {
+    "SNAP_Utilization": 16,
+    "Medicaid_Utilization": 35,
+    "Veterans_Percentage": 13,
+    "Disabled_Percentage": 27,
+    "Children_Percentage": 46,
+    "Federal_Employees": 9551.0
+  },
+  "WA–5": {
+    "SNAP_Utilization": 13,
+    "Medicaid_Utilization": 28,
+    "Veterans_Percentage": 17,
+    "Disabled_Percentage": 31,
+    "Children_Percentage": 47,
+    "Federal_Employees": 8332.0
+  },
+  "WA–6": {
+    "SNAP_Utilization": 6,
+    "Medicaid_Utilization": 17,
+    "Veterans_Percentage": 8,
+    "Disabled_Percentage": 27,
+    "Children_Percentage": 51,
+    "Federal_Employees": 18570.0
+  },
+  "WA–7": {
+    "SNAP_Utilization": 8,
+    "Medicaid_Utilization": 19,
+    "Veterans_Percentage": 11,
+    "Disabled_Percentage": 23,
+    "Children_Percentage": 50,
+    "Federal_Employees": 4033.0
+  },
+  "WA–8": {
+    "SNAP_Utilization": 14,
+    "Medicaid_Utilization": 31,
+    "Veterans_Percentage": 18,
+    "Disabled_Percentage": 24,
+    "Children_Percentage": 56,
+    "Federal_Employees": 5470.0
+  },
+  "WA–9": {
+    "SNAP_Utilization": 14,
+    "Medicaid_Utilization": 29,
+    "Veterans_Percentage": 24,
+    "Disabled_Percentage": 26,
+    "Children_Percentage": 47,
+    "Federal_Employees": 6371.0
+  },
+  "WA–10": {
+    "SNAP_Utilization": 20,
+    "Medicaid_Utilization": 40,
+    "Veterans_Percentage": 7,
+    "Disabled_Percentage": 25,
+    "Children_Percentage": 44,
+    "Federal_Employees": 9654.0
+  },
+  "WV–1": {
+    "SNAP_Utilization": 16,
+    "Medicaid_Utilization": 30,
+    "Veterans_Percentage": 12,
+    "Disabled_Percentage": 37,
+    "Children_Percentage": 48,
+    "Federal_Employees": 7096.0
+  },
+  "WV–2": {
+    "SNAP_Utilization": 13,
+    "Medicaid_Utilization": 24,
+    "Veterans_Percentage": 18,
+    "Disabled_Percentage": 41,
+    "Children_Percentage": 57,
+    "Federal_Employees": 15761.0
+  },
+  "WI–1": {
+    "SNAP_Utilization": 8,
+    "Medicaid_Utilization": 16,
+    "Veterans_Percentage": 14,
+    "Disabled_Percentage": 24,
+    "Children_Percentage": 61,
+    "Federal_Employees": 4767.0
+  },
+  "WI–2": {
+    "SNAP_Utilization": 11,
+    "Medicaid_Utilization": 22,
+    "Veterans_Percentage": 18,
+    "Disabled_Percentage": 21,
+    "Children_Percentage": 49,
+    "Federal_Employees": 4019.0
+  },
+  "WI–3": {
+    "SNAP_Utilization": 23,
+    "Medicaid_Utilization": 41,
+    "Veterans_Percentage": 14,
+    "Disabled_Percentage": 26,
+    "Children_Percentage": 60,
+    "Federal_Employees": 4234.0
+  },
+  "WI–4": {
+    "SNAP_Utilization": 6,
+    "Medicaid_Utilization": 14,
+    "Veterans_Percentage": 13,
+    "Disabled_Percentage": 24,
+    "Children_Percentage": 50,
+    "Federal_Employees": 2847.0
+  },
+  "WI–5": {
+    "SNAP_Utilization": 10,
+    "Medicaid_Utilization": 20,
+    "Veterans_Percentage": 18,
+    "Disabled_Percentage": 19,
+    "Children_Percentage": 44,
+    "Federal_Employees": 3468.0
+  },
+  "WI–6": {
+    "SNAP_Utilization": 11,
+    "Medicaid_Utilization": 24,
+    "Veterans_Percentage": 9,
+    "Disabled_Percentage": 24,
+    "Children_Percentage": 48,
+    "Federal_Employees": 2349.0
+  },
+  "WI–7": {
+    "SNAP_Utilization": 10,
+    "Medicaid_Utilization": 20,
+    "Veterans_Percentage": 10,
+    "Disabled_Percentage": 28,
+    "Children_Percentage": 54,
+    "Federal_Employees": 3486.0
+  },
+  "WI–8": {
+    "SNAP_Utilization": 5,
+    "Medicaid_Utilization": 14,
+    "Veterans_Percentage": 22,
+    "Disabled_Percentage": 30,
+    "Children_Percentage": 53,
+    "Federal_Employees": 3594.0
+  },
+  "WY–1": {
+    "SNAP_Utilization": 47,
+    "Medicaid_Utilization": 19,
+    "Veterans_Percentage": 4,
+    "Disabled_Percentage": 6,
+    "Children_Percentage": 50,
+    "Federal_Employees": 8069.0
+  }
 }
